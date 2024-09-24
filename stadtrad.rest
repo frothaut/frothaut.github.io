@@ -1,0 +1,16 @@
+GET http://localhost:8082
+
+###
+
+GET http://localhost:8083/get_areas
+
+###
+
+POST http://localhost:8083/update_seat
+Content-Type: application/json; charset=utf-8
+Accept: application/json, application/geo+json, application/gpx+xml, img/png; charset=utf-8
+
+{
+    "uuid": "a2680754-a5f1-4a34-9df6-898ee3393eb2",
+    "seated": false
+}

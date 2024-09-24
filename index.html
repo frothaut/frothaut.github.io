@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+    <title>WebGIS 2024</title>
+</head>
+<body>
+    <header><button id="toggleSidebar" class="toggle-btn">☰</button>
+        <button id="toggleSight" class="toggle-btn"><img src="./images/sight.png" style="width: 35px;"></button>
+        <button id="toggleSearch" class="toggle-btn"><img src="./images/search.png" style="width: 35px;"></button>
+        <button id="toggle-seat-list" class="toggle-btn"><img src="./images/chair_white.png" style="width: 35px;"></button>
+    </header>
+    <main>
+        <button id="rtbtn" style="z-index:10;height:30px; margin-left:10px; background:transparent; border: 0; display:none;"><img src="./images/remove.png" style="width:35px"></button>
+        <div id="sidebar" class="sidebar" style="display:none">
+        <button class="tablink" onclick="openTab(event, 'tab1')"><img src="./images/binoculars.png" style="width: 25px;"></button>
+        <button class="tablink" onclick="openTab(event, 'tab2')"><img src="./images/animal-footprints.png" style="width: 25px;"></button>
+        <button class="tablink" onclick="openTab(event, 'tab3')"><img src="./images/chair.png" style="width: 25px;"></button>
+        <button class="tablink" onclick="openTab(event, 'tab4')"><img src="./images/area.png" style="width: 25px;"></button>
+    </div>
+    <div id="tab1" class="tabcontent">
+            <h3 class="headlines">Sichtungen</h3>
+            <button id="edit" type="button" class="draw-btn"><img src="./images/drawing.png" style="width:35px;"></button></button>
+        </div>
+        <div id="tab2" class="tabcontent">
+            <h3 class="headlines">Wildwechsel</h3>
+            <button id="edit2" type="button" class="draw-btn"><img src="./images/drawing.png" style="width:35px;"></button>
+        </div>
+        <div id="tab3" class="tabcontent">
+            <h3 class="headlines">Hochsitze</h3>
+            <button id="edit3" type="button" class="draw-btn"><img src="./images/drawing.png" style="width:35px;"></button></button>
+        </div>
+        <div id="tab4" class="tabcontent">
+            <h3 class="headlines">Revierflächen</h3>
+            <button id="edit4" type="button" class="draw-btn"><img src="./images/drawing.png" style="width:35px;"></button></button>
+            <button id="save4" type="button">Speichern</button>
+        </div>
+        <div id="buechsenlicht" style="display:none;z-index:6;">
+            <table>
+                <tr>
+                    <td><img src="./images/sunrise.png" style="width: 35px;"></td>
+                    <td id="sunriseTime">Zeit</td>
+                </tr>
+                <tr>
+                    <td><img src="./images/sunset.png" style="width: 35px;"></td>
+                    <td id="sunsetTime">Zeit</td>
+                </tr>
+            </table>
+        </div>
+        <div class="feature-list" id="featureList"></div>
+        <button id="toggleLayerButton"><img src="./images/layer.png" style="width: 25px;"></button>
+        <div id="layerList"></div>
+        <div id="popup" class="popup" style="display: none;">
+            <form id="popup-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name"><br>
+                <button type="button" onclick="">Save Changes</button>
+            </form>
+        </div>
+        <div id="popup2-form" style="display:none; position: absolute; z-index: 101; background: white; padding: 10px; border: 1px solid black;">
+          </div>
+    <div id="map" class="map"></div>
+    </main>
+    <script type="module" src="/main.js"></script>
+</body>
+</html>
