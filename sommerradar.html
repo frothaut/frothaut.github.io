@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="de" class="lang-de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,18 +15,25 @@
   <div class="grad" style="padding-bottom:70px;">
     <div class="wrap">
       <header class="bar on-grad">
-        <a class="brandmark" href="index.html"><span class="dot"></span>FiRo</a>
+        <div style="display:flex;align-items:center;gap:16px;">
+          <a class="brandmark" href="index.html"><span class="dot"></span>FiRo</a>
+          <div class="lang-toggle">
+            <button class="lang-btn active" data-lang="de">DE</button>
+            <span class="lang-sep">|</span>
+            <button class="lang-btn" data-lang="en">EN</button>
+          </div>
+        </div>
         <nav class="nav">
-          <a href="index.html">← Alle Projekte</a>
+          <a href="index.html"><span class="t-de">← Alle Projekte</span><span class="t-en">← All Projects</span></a>
         </nav>
       </header>
       <div class="hero-split" style="display:flex;gap:54px;align-items:center;padding:54px 0 8px;">
         <img src="assets/icon-sommerradar.png" style="width:150px;height:150px;border-radius:24%;box-shadow:0 18px 50px -16px rgba(255,90,80,.55);flex:none;">
         <div>
           <h1 class="display" style="color:#fff;font-size:72px;">SommerRadar</h1>
-          <p style="font-size:21px;color:rgba(255,255,255,.9);max-width:40ch;margin:18px 0 30px;">Finde heraus, ob ein Café gerade Sonne hat – bevor du losgehst.</p>
+          <p style="font-size:21px;color:rgba(255,255,255,.9);max-width:40ch;margin:18px 0 30px;"><span class="t-de">Finde heraus, ob ein Café gerade Sonne hat – bevor du losgehst.</span><span class="t-en">Find out if a café has sunlight right now – before you head out.</span></p>
           <div style="display:flex;gap:14px;flex-wrap:wrap;">
-            <a class="store" href="#">
+            <a class="store" href="https://apps.apple.com/de/app/sommerradar/id6760590205">
               <span class="ico"></span>
               <span class="lab"><small>Download on the</small><b>App&nbsp;Store</b></span>
             </a>
@@ -38,32 +45,35 @@
 
   <div class="wrap" style="padding-top:70px;">
 
-    <p class="kicker" style="margin-bottom:22px;">Was die App macht</p>
+    <p class="kicker" style="margin-bottom:22px;"><span class="t-de">Was die App macht</span><span class="t-en">What the app does</span></p>
     <div class="feat">
       <div class="fcard">
         <div class="fmark"></div>
-        <h3>Echte Sonne, kein Raten</h3>
-        <p>Wir berechnen den Sonnenstand anhand naher Gebäude – so siehst du, ob eine Terrasse gerade wirklich in der Sonne liegt.</p>
+        <h3><span class="t-de">Echte Sonne, kein Raten</span><span class="t-en">Real sun, no guessing</span></h3>
+        <p class="t-de">Wir berechnen den Sonnenstand anhand naher Gebäude – so siehst du, ob eine Terrasse gerade wirklich in der Sonne liegt.</p>
+        <p class="t-en">We calculate the sun position based on nearby buildings – so you can see if a terrace is actually in the sun right now.</p>
       </div>
       <div class="fcard">
         <div class="fmark"></div>
-        <h3>Den Nachmittag planen</h3>
-        <p>Spule in der Zeit vor und sieh genau, wann ein Ort von Schatten in Sonne kippt.</p>
+        <h3><span class="t-de">Den Nachmittag planen</span><span class="t-en">Plan your afternoon</span></h3>
+        <p class="t-de">Spule in der Zeit vor und sieh genau, wann ein Ort von Schatten in Sonne kippt.</p>
+        <p class="t-en">Scroll forward in time to see exactly when a spot shifts from shade to sun.</p>
       </div>
       <div class="fcard">
         <div class="fmark"></div>
-        <h3>Ganz privat</h3>
-        <p>Kein Account, kein Tracking. Deine Lieblingsplätze bleiben auf deinem Gerät.</p>
+        <h3><span class="t-de">Ganz privat</span><span class="t-en">Fully private</span></h3>
+        <p class="t-de">Kein Account, kein Tracking. Deine Lieblingsplätze bleiben auf deinem Gerät.</p>
+        <p class="t-en">No account, no tracking. Your favourite spots stay on your device.</p>
       </div>
     </div>
 
     <div style="height:74px;"></div>
 
-    <p class="kicker" style="margin-bottom:26px;text-align:center;">In der App</p>
+    <p class="kicker" style="margin-bottom:26px;text-align:center;"><span class="t-de">In der App</span><span class="t-en">In the app</span></p>
     <div class="shots">
       <div class="phone"><div class="scr"><span>Start</span></div></div>
       <div class="phone"><div class="scr"><span>Detail</span></div></div>
-      <div class="phone"><div class="scr"><span>Ergebnis</span></div></div>
+      <div class="phone"><div class="scr"><span><span class="t-de">Ergebnis</span><span class="t-en">Result</span></span></div></div>
     </div>
 
     <div style="height:50px;"></div>
@@ -72,10 +82,11 @@
       <span>© 2026 FiRo</span>
       <span class="foot-links">
         <a href="impressum.html">Impressum</a>
-        <a href="datenschutz.html">Datenschutz</a>
+        <a href="datenschutz.html"><span class="t-de">Datenschutz</span><span class="t-en">Privacy</span></a>
       </span>
     </footer>
 
   </div>
+  <script src="assets/lang.js"></script>
 </body>
 </html>

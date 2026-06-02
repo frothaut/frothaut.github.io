@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="de" class="lang-de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,35 +14,44 @@
   <div class="wrap">
 
     <header class="bar">
-      <a class="brandmark" href="index.html"><span class="dot"></span>FiRo</a>
+      <div style="display:flex;align-items:center;gap:16px;">
+        <a class="brandmark" href="index.html"><span class="dot"></span>FiRo</a>
+        <div class="lang-toggle">
+          <button class="lang-btn active" data-lang="de">DE</button>
+          <span class="lang-sep">|</span>
+          <button class="lang-btn" data-lang="en">EN</button>
+        </div>
+      </div>
       <nav class="nav">
-        <a href="index.html">Projekte</a>
-        <a class="active" href="impressum.html">Impressum</a>
+        <a href="index.html"><span class="t-de">Projekte</span><span class="t-en">Projects</span></a>
+        <a class="active" href="impressum.html"><span class="t-de">Impressum</span><span class="t-en">Imprint</span></a>
       </nav>
     </header>
 
     <section style="padding:72px 0 56px;">
       <p class="kicker" style="margin-bottom:22px;">Legal</p>
-      <h1 class="display" style="font-size:72px;">Impressum</h1>
+      <h1 class="display" style="font-size:72px;"><span class="t-de">Impressum</span><span class="t-en">Imprint</span></h1>
     </section>
 
     <div class="imp-grid">
       <div class="imp-block">
-        <h3>Angaben gemäß § 5 TMG</h3>
+        <h3><span class="t-de">Angaben gemäß § 5 TMG</span><span class="t-en">Information pursuant to § 5 TMG</span></h3>
         <p>FiRo Studio</p>
         <p class="muted">Filip Rothaut<br>Breitenfelder Straße 8<br>20251 Hamburg<br>Deutschland</p>
       </div>
       <div class="imp-block">
-        <h3>Kontakt</h3>
+        <h3><span class="t-de">Kontakt</span><span class="t-en">Contact</span></h3>
         <p class="muted">E-Mail: sommerradar@gmail.com</p>
       </div>
       <div class="imp-block" style="grid-column:1 / -1;max-width:820px;">
-        <h3>Haftung für Inhalte</h3>
-        <p class="muted">Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</p>
+        <h3><span class="t-de">Haftung für Inhalte</span><span class="t-en">Liability for Content</span></h3>
+        <p class="muted t-de">Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</p>
+        <p class="muted t-en">As a service provider we are responsible for our own content on these pages in accordance with § 7 Para. 1 TMG under general law. According to §§ 8 to 10 TMG, however, we are not obliged as a service provider to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.</p>
       </div>
       <div class="imp-block" style="grid-column:1 / -1;max-width:820px;">
-        <h3>Urheberrecht</h3>
-        <p class="muted">Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.</p>
+        <h3><span class="t-de">Urheberrecht</span><span class="t-en">Copyright</span></h3>
+        <p class="muted t-de">Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.</p>
+        <p class="muted t-en">The content and works created by the site operators on these pages are subject to German copyright law. Reproduction, editing, distribution, and any form of exploitation beyond the limits of copyright law require the written consent of the respective author or creator.</p>
       </div>
     </div>
 
@@ -50,11 +59,12 @@
       <span>© 2026 FiRo</span>
       <span class="foot-links">
         <a href="mailto:hello@firo.studio">hello@firo.studio</a>
-        <a href="impressum.html">Impressum</a>
-        <a href="datenschutz.html">Datenschutz</a>
+        <a href="impressum.html"><span class="t-de">Impressum</span><span class="t-en">Imprint</span></a>
+        <a href="datenschutz.html"><span class="t-de">Datenschutz</span><span class="t-en">Privacy</span></a>
       </span>
     </footer>
 
   </div>
+  <script src="assets/lang.js"></script>
 </body>
 </html>

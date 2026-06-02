@@ -91,6 +91,19 @@ h1,h2,h3{font-family:var(--display);font-weight:600;letter-spacing:-.025em;line-
 .imp-block p{margin-bottom:4px;font-size:17px;}
 .imp-block .muted{color:var(--ink-soft);font-size:15px;line-height:1.7;}
 
+/* Language toggle */
+.lang-toggle{display:flex;align-items:center;gap:2px;}
+.lang-btn{background:none;border:none;cursor:pointer;font-family:var(--mono);font-size:12px;letter-spacing:.08em;padding:5px 8px;border-radius:8px;color:var(--ink-soft);transition:color .15s,background .15s;}
+.lang-btn:hover{color:var(--ink);}
+.lang-btn.active{color:var(--ink);background:var(--hair);}
+.lang-sep{color:var(--ink-faint);font-family:var(--mono);font-size:12px;user-select:none;}
+.bar.on-grad .lang-btn{color:rgba(255,255,255,.65);}
+.bar.on-grad .lang-btn:hover{color:#fff;}
+.bar.on-grad .lang-btn.active{color:#fff;background:rgba(255,255,255,.18);}
+.bar.on-grad .lang-sep{color:rgba(255,255,255,.4);}
+.lang-en .t-de{display:none;}
+.lang-de .t-en{display:none;}
+
 @media(max-width:760px){
   .wrap{padding:0 26px;}
   .display{font-size:54px;}
