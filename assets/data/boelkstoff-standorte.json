@@ -1,0 +1,7482 @@
+[
+ {
+  "name": "EDEKA-Griephan",
+  "address": "Wallstr. 14, 01067 Dresden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0487381,
+  "lon": 13.7337421
+ },
+ {
+  "name": "CAP-Markt",
+  "address": "Pillnitzer Str. 34, 01069 Dresden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0498474,
+  "lon": 13.7544719
+ },
+ {
+  "name": "REWE To Go",
+  "address": "Wiener Platz 4, 01069 Dresden, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.0403927,
+  "lon": 13.731467
+ },
+ {
+  "name": "D&S Getränkemarkt",
+  "address": "Conradstr. 34, 01097 Dresden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0726405,
+  "lon": 13.7383124
+ },
+ {
+  "name": "E-center Jäckel",
+  "address": "Provianthofstr. 3, 01099 Dresden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0807259,
+  "lon": 13.7583221
+ },
+ {
+  "name": "EDEKA-Zschabran",
+  "address": "Großenhainer Str. 109, 01127 Dresden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0826204,
+  "lon": 13.7290335
+ },
+ {
+  "name": "Nuck Getränke GmbH",
+  "address": "Kändlerstraße 1, 01129 Dresden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0946445,
+  "lon": 13.7279251
+ },
+ {
+  "name": "Aral Tankstelle - REWE To Go",
+  "address": "Werftstr. 13, 01139 Dresden, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.0689411,
+  "lon": 13.6903089
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Gompitzer Höhe 2, 01156 Dresden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0401699,
+  "lon": 13.6332351
+ },
+ {
+  "name": "E-center Scheller",
+  "address": "Hamburger Str. 86-88, 01157 Dresden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0620292,
+  "lon": 13.687488
+ },
+ {
+  "name": "GetränkeLAND Herrmann's",
+  "address": "Wernerstr. 35, 01159 Dresden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0444866,
+  "lon": 13.6996408
+ },
+ {
+  "name": "Aral Tankstelle - REWE To Go",
+  "address": "Bergstr. 121, 01217 Dresden, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.0201541,
+  "lon": 13.7303469
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Goppelner Str. 44, 01219 Dresden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0002077,
+  "lon": 13.7624821
+ },
+ {
+  "name": "E-center",
+  "address": "Dohnaer Str. 168, 01239 Dresden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0084322,
+  "lon": 13.7836881
+ },
+ {
+  "name": "EDEKA-Dresden-Prohlis",
+  "address": "Jacob-Winter-Platz 13, 01239 Dresden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0064961,
+  "lon": 13.7965379
+ },
+ {
+  "name": "EDEKA-Megyesi",
+  "address": "Zamenhofstr. 6, 01257 Dresden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0116108,
+  "lon": 13.8219886
+ },
+ {
+  "name": "EDEKA-Jäckel",
+  "address": "Schandauer Str. 74, 01277 Dresden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0396445,
+  "lon": 13.8044633
+ },
+ {
+  "name": "GetränkeLAND Dresden",
+  "address": "Glashütter Str. 89, 01277 Dresden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.040968,
+  "lon": 13.79986
+ },
+ {
+  "name": "Nuck Getränke GmbH",
+  "address": "Bodenbacher-Str. 34, 01277 Dresden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0321908,
+  "lon": 13.7832518
+ },
+ {
+  "name": "E-center Griephan",
+  "address": "Holbeinstr. 60, 01307 Dresden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0487904,
+  "lon": 13.7698548
+ },
+ {
+  "name": "GetränkeLAND Sabel",
+  "address": "Pillnitzer Str. 11, 01328 Dresden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0551234,
+  "lon": 13.8941343
+ },
+ {
+  "name": "Getränkemarkt Gärtner",
+  "address": "August-Bebel-Straße 2, 01445 Radebeul, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1015485,
+  "lon": 13.6852285
+ },
+ {
+  "name": "Getränkewelt Radebeul",
+  "address": "Meißner Str. 41, 01445 Radebeul, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0974199,
+  "lon": 13.6906663
+ },
+ {
+  "name": "EDEKA-Scheller",
+  "address": "Pulsnitzer Str. 33, 01454 Radeberg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1202695,
+  "lon": 13.9216607
+ },
+ {
+  "name": "EDEKA-Scheller",
+  "address": "An der Ziegelei 2, 01454 Radeberg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1297565,
+  "lon": 13.916648
+ },
+ {
+  "name": "Nuck Getränke GmbH",
+  "address": "Badstraße 42, 01454 Radeberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1242051,
+  "lon": 13.9170108
+ },
+ {
+  "name": "Getränkewelt Ottendorf Okrilla",
+  "address": "Dresdner Str. 25b, 01458 Ottendorf-Okrilla, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1815891,
+  "lon": 13.8284358
+ },
+ {
+  "name": "Kelterei Walther GmbH & Co.KG",
+  "address": "Am Gewerbegebiet 2, 01477 Arnsdorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0916553,
+  "lon": 14.0069379
+ },
+ {
+  "name": "EDEKA-Scheller",
+  "address": "Theodor-Neubauer-Str. 1, 01558 Großenhain, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.2848755,
+  "lon": 13.5394467
+ },
+ {
+  "name": "EDEKA-Scheller",
+  "address": "Remonteplatz 3, 01558 Großenhain, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.2972637,
+  "lon": 13.5346431
+ },
+ {
+  "name": "Getränkewelt Großenhain",
+  "address": "Meissner Str. 82b, 01558 Großenhain, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2877855,
+  "lon": 13.5225967
+ },
+ {
+  "name": "Getränkewelt Pausitz",
+  "address": "Pausitzer Str. 36, 01589 Riesa, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2982459,
+  "lon": 13.2992723
+ },
+ {
+  "name": "Getränkewelt Drinks & More",
+  "address": "Alleestr. 90, 01591 Riesa, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3210026,
+  "lon": 13.2667289
+ },
+ {
+  "name": "EDEKA-Richter",
+  "address": "Riesaer Str. 18, 01594 Stauchitz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.2442552,
+  "lon": 13.2161535
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Teninger Str. 1, 01619 Zeithain, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3352927,
+  "lon": 13.3406714
+ },
+ {
+  "name": "EDEKA-Richter",
+  "address": "Oschatzer Str. 4, 01623 Lommatzsch, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.2019127,
+  "lon": 13.3043436
+ },
+ {
+  "name": "EDEKA-Starke",
+  "address": "Dresdner Str. 73, 01640 Coswig, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1253274,
+  "lon": 13.5759941
+ },
+ {
+  "name": "GetränkeLAND Arnold",
+  "address": "Neucoswiger Str. 1, 01640 Coswig, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1302469,
+  "lon": 13.5871014
+ },
+ {
+  "name": "Getränkemarkt Binder",
+  "address": "Dresdner Str. 77, 01640 Coswig, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1256247,
+  "lon": 13.5766606
+ },
+ {
+  "name": "E-center Lamm",
+  "address": "Elisabethstr. 5, 01662 Meißen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1628016,
+  "lon": 13.4932302
+ },
+ {
+  "name": "EDEKA-Starke",
+  "address": "Dresdner Str. 18, 01689 Weinböhla, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1576949,
+  "lon": 13.5629726
+ },
+ {
+  "name": "EDEKA-Freital-Zauckerode",
+  "address": "Oppelstr. 1, 01705 Freital, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0151832,
+  "lon": 13.6316391
+ },
+ {
+  "name": "GetränkeLAND Herrmann's",
+  "address": "An der Spinnerei 8, 01705 Freital, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9749757,
+  "lon": 13.6221551
+ },
+ {
+  "name": "GetränkeLAND Herrmann's",
+  "address": "Hauptstr. 1b, 01705 Freital, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0025138,
+  "lon": 13.6178639
+ },
+ {
+  "name": "Nuck Getränke GmbH",
+  "address": "Oelsaerstr. 9, 01734 Rabenau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9618647,
+  "lon": 13.6490626
+ },
+ {
+  "name": "EDEKA-Clausnitzer",
+  "address": "Alte Altenberger Str. 32a, 01744 Dippoldiswalde, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.8858028,
+  "lon": 13.6727647
+ },
+ {
+  "name": "EDEKA-Clausnitzer",
+  "address": "Hirschsprunger Str. 11, 01773 Altenberg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.7670921,
+  "lon": 13.7562655
+ },
+ {
+  "name": "EDEKA-Clausnitzer",
+  "address": "Platz der Jugend 3b, 01774 Klingenberg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.8714399,
+  "lon": 13.5273371
+ },
+ {
+  "name": "E-center",
+  "address": "Robert-Koch-Str. 7, 01796 Pirna, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.9605051,
+  "lon": 13.9373409
+ },
+ {
+  "name": "Nuck Getränke GmbH",
+  "address": "Alt Rottwerndorf 60/62, 01796 Pirna, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9272914,
+  "lon": 13.9565705
+ },
+ {
+  "name": "GetränkeLAND Neustadt",
+  "address": "Wilhelm-Kaulisch-Str. 25, 01844 Neustadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.027812,
+  "lon": 14.2149489
+ },
+ {
+  "name": "Getränkemarkt Jäkel",
+  "address": "Oberdorf 5, 01844 Neustadt i. Sa., Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0709323,
+  "lon": 14.2049111
+ },
+ {
+  "name": "EDEKA-Kuhrt",
+  "address": "Stolpener Str. 4, 01877 Bischofswerda, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1247253,
+  "lon": 14.1787665
+ },
+ {
+  "name": "GetränkeLAND HEM",
+  "address": "Neustädter Str. 4a, 01877 Bischofswerda, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1192671,
+  "lon": 14.1883592
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Bandweberstr. 28, 01900 Großröhrsdorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1449924,
+  "lon": 14.028792
+ },
+ {
+  "name": "EDEKA-Peltzer",
+  "address": "Siedlungsweg 2a, 01917 Kamenz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.285953,
+  "lon": 14.1090531
+ },
+ {
+  "name": "GetränkeLAND Ralbitz-Rosenthal",
+  "address": "Kamenzer Str. 14, 01920 Zerna, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2797398,
+  "lon": 14.2438639
+ },
+ {
+  "name": "GetränkeLAND Senftenberg",
+  "address": "Charlottenstr. 10, 01968 Senftenberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.51911,
+  "lon": 13.9951077
+ },
+ {
+  "name": "GetränkeLAND Hosena",
+  "address": "Parkstr. 12, 01996 Hosena, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4542057,
+  "lon": 14.0090569
+ },
+ {
+  "name": "EDEKA-Funke",
+  "address": "Bertolt-Brecht-Str. 1b, 02625 Bautzen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1770696,
+  "lon": 14.4412786
+ },
+ {
+  "name": "EDEKA-Megyesi",
+  "address": "Hanns-Eisler-Str. 1, 02625 Bautzen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1748554,
+  "lon": 14.4526201
+ },
+ {
+  "name": "Getränkeland",
+  "address": "Schliebenstr. 18, 02625 Bautzen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1810876,
+  "lon": 14.4159944
+ },
+ {
+  "name": "GetränkeLAND Bautzen",
+  "address": "Wilthener Str. 47, 02625 Bautzen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1621856,
+  "lon": 14.4203001
+ },
+ {
+  "name": "MARKTKAUF",
+  "address": "Niederkainaer Str. 14, 02625 Bautzen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1882403,
+  "lon": 14.456776
+ },
+ {
+  "name": "M. Hubauer GmbH",
+  "address": "Neuteichnitzer Str. 39, 02625 Bautzen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2012953,
+  "lon": 14.4138752
+ },
+ {
+  "name": "Nuck Getränke GmbH",
+  "address": "Zeppelinstr. 1, 02625 Bautzen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1682796,
+  "lon": 14.432778
+ },
+ {
+  "name": "EDEKA Schneider",
+  "address": "Reichenbacher Str. 4, 02627 Weißenberg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1955997,
+  "lon": 14.6662682
+ },
+ {
+  "name": "Gartenmarkt Schwarzadler",
+  "address": "Hauptstr. 1A, 02627 Radibor, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2990902,
+  "lon": 14.454913
+ },
+ {
+  "name": "EDEKA-Raue",
+  "address": "Zittauer Str. 12, 02681 Wilthen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0946531,
+  "lon": 14.392507
+ },
+ {
+  "name": "EDEKA-Nestler",
+  "address": "Gerhart-Hauptmann-Str. 10, 02689 Sohland, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0478491,
+  "lon": 14.4258202
+ },
+ {
+  "name": "Mitbringsel - Geschenke.",
+  "address": "Brunnenstr. 2, 02689 Sohland, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0543623,
+  "lon": 14.4844373
+ },
+ {
+  "name": "GetränkeLAND Niedergurig",
+  "address": "Muskauer Str. 39, 02694 Großdubrau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2856874,
+  "lon": 14.5085663
+ },
+ {
+  "name": "GetränkeLAND Obercunnersdorf",
+  "address": "Mittelweg 5, 02705 Obercunnersdorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0308556,
+  "lon": 14.6701326
+ },
+ {
+  "name": "EDEKA-Löbau",
+  "address": "Hartmannstr. 3, 02708 Löbau, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0972972,
+  "lon": 14.6636374
+ },
+ {
+  "name": "Getränkemarkt Schlagehan",
+  "address": "Altlöbauer Str. 13, 02708 Löbau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0960649,
+  "lon": 14.6595922
+ },
+ {
+  "name": "GetränkeLAND Löbau",
+  "address": "Breitscheidstr. 2, 02708 Löbau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1018596,
+  "lon": 14.6782812
+ },
+ {
+  "name": "M. Hubauer GmbH",
+  "address": "Äußere Zittauer Str. 68, 02708 Löbau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0815534,
+  "lon": 14.6718375
+ },
+ {
+  "name": "Edeka-Schreyer",
+  "address": "Bleichenstr. 1, 02727 Ebersbach-Neugersdorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.9829939,
+  "lon": 14.6060381
+ },
+ {
+  "name": "EDEKA-Winkler",
+  "address": "Adolf-Klose-Str. 19a, 02748 Bernstadt a. d. Eigen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0455797,
+  "lon": 14.8285851
+ },
+ {
+  "name": "GetränkeLAND Zittau/Pethau",
+  "address": "Hauptstr. 23d, 02763 Zittau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9001289,
+  "lon": 14.7680486
+ },
+ {
+  "name": "GetränkeLAND Arlt",
+  "address": "Bahnhofstr. 17a, 02779 Großschönau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.8942771,
+  "lon": 14.6672894
+ },
+ {
+  "name": "GetränkeLAND Seifhennersdorf",
+  "address": "An der Scheibe 5, 02782 Seifhennersdorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9346671,
+  "lon": 14.6178904
+ },
+ {
+  "name": "EDEKA-Görlitz",
+  "address": "Dresdener Str. 21, 02826 Görlitz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1505895,
+  "lon": 14.9805071
+ },
+ {
+  "name": "GetränkeLAND Görlitz Nord",
+  "address": "Christoph-Lüders-Str. 21a, 02826 Görlitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1546468,
+  "lon": 14.9691075
+ },
+ {
+  "name": "GetränkeLAND Görlitz",
+  "address": "Rauschwalder Str. 42-46, 02826 Görlitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1527968,
+  "lon": 14.9715842
+ },
+ {
+  "name": "GetränkeLAND Weinhübel",
+  "address": "Zittauer Str. 144, 02827 Görlitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1242013,
+  "lon": 14.9820937
+ },
+ {
+  "name": "GetränkeLAND Rauschwalde",
+  "address": "Reichenbacher Str. 53-55, 02827 Görlitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1474753,
+  "lon": 14.949113
+ },
+ {
+  "name": "MARKTKAUF",
+  "address": "Nieskyer Str. 100, 02828 Görlitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1678416,
+  "lon": 14.9702124
+ },
+ {
+  "name": "GetränkeLAND Reichenbach",
+  "address": "Löbauer Str. 25, 02894 Reichenbach /O.L., Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1377668,
+  "lon": 14.7957113
+ },
+ {
+  "name": "M. Hubauer GmbH",
+  "address": "An den Schrebergärten 3, 02899 Ostritz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0231767,
+  "lon": 14.9281357
+ },
+ {
+  "name": "EDEKA-Schulze",
+  "address": "Horkaer Str. 17, 02906 Niesky, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.2932898,
+  "lon": 14.8282351
+ },
+ {
+  "name": "EDEKA-Renner",
+  "address": "Horkaer Str. 10, 02929 Rothenburg /O.L., Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.3317563,
+  "lon": 14.9673421
+ },
+ {
+  "name": "GetränkeLAND Bad Muskau",
+  "address": "Gablenzer Str. 12-13, 02953 Bad Muskau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5456572,
+  "lon": 14.6998741
+ },
+ {
+  "name": "GetränkeLAND Rietschen",
+  "address": "Görlitzer Str. 18, 02956 Rietschen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3938967,
+  "lon": 14.784889
+ },
+ {
+  "name": "Getränkeland Prinz",
+  "address": "Geschwister-Scholl-Str. 121, 02957 Krauschwitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5225492,
+  "lon": 14.7037987
+ },
+ {
+  "name": "Getränkeland",
+  "address": "Spremberger Str. 7, 02959 Schleife, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5456782,
+  "lon": 14.5380897
+ },
+ {
+  "name": "EDEKA-Schäfer",
+  "address": "Am Ankerglasplatz 4a, 02994 Bernsdorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.3744186,
+  "lon": 14.0695856
+ },
+ {
+  "name": "M & W Getränkemarkt",
+  "address": "Schmellwitzer Weg 23, 03044 Cottbus, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7870596,
+  "lon": 14.346445
+ },
+ {
+  "name": "GET Getränkemarkt Keilwitz",
+  "address": "Hardenbergstr. 12, 03050 Cottbus, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7338526,
+  "lon": 14.331949
+ },
+ {
+  "name": "Getränkeland Drews",
+  "address": "Berliner Str. 71, 03099 Kolkwitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7495349,
+  "lon": 14.2629697
+ },
+ {
+  "name": "GetränkeLAND Forst KKW",
+  "address": "Keunescher Kirchweg 38, 03149 Forst (Lausitz), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7301315,
+  "lon": 14.6467976
+ },
+ {
+  "name": "Getränkeland",
+  "address": "Bahnhofstr. 55, 03149 Forst (Lausitz), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7445482,
+  "lon": 14.6397367
+ },
+ {
+  "name": "GetränkeLAND Forst Haag",
+  "address": "Am Haag 5, 03149 Forst (Lausitz), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7417233,
+  "lon": 14.648319
+ },
+ {
+  "name": "GetränkeLAND Döbern",
+  "address": "Forster Str. 64-66, 03159 Döbern, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6201627,
+  "lon": 14.5911993
+ },
+ {
+  "name": "M & W Getränkemarkt",
+  "address": "Straße des Friedens 35, 03222 Lübbenau /Spreewald, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8553142,
+  "lon": 13.9475388
+ },
+ {
+  "name": "M&W Getränkemarkt",
+  "address": "Schlossstr. 16a, 03226 Vetschau /Spreewald, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7836211,
+  "lon": 14.0718948
+ },
+ {
+  "name": "M & W Getränkemarkt",
+  "address": "Cottbuser Str. 17, 03238 Finsterwalde, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6349604,
+  "lon": 13.718736
+ },
+ {
+  "name": "EDEKA-Schwarm",
+  "address": "Grimmaischer Steinweg 5, 04103 Leipzig, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.3387362,
+  "lon": 12.3830453
+ },
+ {
+  "name": "EDEKA-Voßler",
+  "address": "Pestalozzistr. 72, 04178 Leipzig, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.3598385,
+  "lon": 12.2837594
+ },
+ {
+  "name": "Getränkemarkt Sellmann",
+  "address": "Großer Marktweg 4, 04178 Leipzig, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3447445,
+  "lon": 12.2644789
+ },
+ {
+  "name": "MARKTKAUF",
+  "address": "Städtelner Str. 54, 04416 Markkleeberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2727418,
+  "lon": 12.3657516
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Straße der Jugend 8, 04509 Delitzsch, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5369444,
+  "lon": 12.3275543
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Bahnhofstr. 1F, 04509 Krostitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4653283,
+  "lon": 12.4476713
+ },
+ {
+  "name": "Getränkewelt Delitzsch",
+  "address": "Dübenerstr. 39, 04509 Delitzsch, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5289859,
+  "lon": 12.3414384
+ },
+ {
+  "name": "EDEKA-Heidolf",
+  "address": "Bornaer Str. 25, 04567 Kitzscher, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1561454,
+  "lon": 12.5507083
+ },
+ {
+  "name": "EDEKA-Konsum Leipzig",
+  "address": "August-Bebel-Str. 9-15, 04571 Rötha, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1995002,
+  "lon": 12.4257795
+ },
+ {
+  "name": "Getränkemarkt Patzelt",
+  "address": "Alte Poststr. 3, 04600 Altenburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.005276,
+  "lon": 12.4404857
+ },
+ {
+  "name": "MARKTKAUF",
+  "address": "Altenburger Str. 29, 04603 Nobitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9810897,
+  "lon": 12.484692
+ },
+ {
+  "name": "Getränkemarkt Patzelt",
+  "address": "Goethestr. 2, 04617 Rositz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0167326,
+  "lon": 12.3713004
+ },
+ {
+  "name": "EDEKA-Nagler",
+  "address": "Peniger Str. 3, 04643 Geithain, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0516249,
+  "lon": 12.7079092
+ },
+ {
+  "name": "EDEKA-Weßel",
+  "address": "Bahnhofstr. 54, 04654 Frohburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.0664524,
+  "lon": 12.5560046
+ },
+ {
+  "name": "EDEKA-Böhke",
+  "address": "Gabelsberger Str. 12, 04668 Grimma, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.2271197,
+  "lon": 12.7169788
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Gerichtswiesen 17, 04668 Grimma, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2344878,
+  "lon": 12.703997
+ },
+ {
+  "name": "EDEKA-Bühler",
+  "address": "Rudolf-Breitscheid-Str. 2, 04720 Döbeln, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.1214079,
+  "lon": 13.1170885
+ },
+ {
+  "name": "MARKTKAUF",
+  "address": "Richard-Köberlin-Str. 2, 04720 Döbeln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1187118,
+  "lon": 13.145932
+ },
+ {
+  "name": "GetränkeLAND Zausch",
+  "address": "Nossener Str. 14, 04741 Roßwein, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0647989,
+  "lon": 13.1865474
+ },
+ {
+  "name": "EDEKA-Werner",
+  "address": "Dresdener Str. 80, 04746 Hartha, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.09098,
+  "lon": 12.9766536
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Ulanenweg 1, 04758 Lonnewitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2903537,
+  "lon": 13.1370028
+ },
+ {
+  "name": "MARKTKAUF",
+  "address": "Venissieuxer Str. 6, 04758 Oschatz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2977885,
+  "lon": 13.0938374
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Außenring 1, 04860 Torgau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5625684,
+  "lon": 12.9703948
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Beesener Str. 221, 06110 Halle (Saale), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4636067,
+  "lon": 11.9703245
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Blücherstr. 38, 06120 Halle (Saale), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.492555,
+  "lon": 11.9317032
+ },
+ {
+  "name": "Getränke Flip",
+  "address": "Hallesche Str. 51, 06122 Halle, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4853505,
+  "lon": 11.9097224
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Merseburger Str. 388, 06132 Halle (Saale), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4324532,
+  "lon": 11.9829953
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Köchstedter Weg 11, 06179 Teutschenthal, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4793143,
+  "lon": 11.7804572
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "An der Lauchstädter Str. 4, 06179 Teutschenthal, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4637183,
+  "lon": 11.9077609
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Zörbiger Str. 12, 06188 Landsberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.537719,
+  "lon": 12.1580493
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Straße des Friedens 102, 06217 Merseburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3295494,
+  "lon": 11.9778691
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Querfurter Str. 29, 06246 Bad Lauchstädt Goethestadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3883779,
+  "lon": 11.8590392
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Merseburger Str. 72-74, 06268 Querfurt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3807955,
+  "lon": 11.6024843
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Döcklitzer Tor 40, 06268 Querfurt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3898382,
+  "lon": 11.6096474
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Rathenaustr. 12b, 06295 Lutherstadt Eisleben, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5212561,
+  "lon": 11.5557786
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Lutherstr. 9, 06333 Hettstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6473904,
+  "lon": 11.5151078
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Klausstr. 1A, 06343 Mansfeld, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.604821,
+  "lon": 11.4625183
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Apfelborn 15, 06347 Gerbstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5920735,
+  "lon": 11.5460393
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Leipziger Str. 36h, 06366 Köthen (Anhalt), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.746398,
+  "lon": 11.9903534
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Roonstr. 30, 06385 Aken (Elbe), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8505571,
+  "lon": 12.0381623
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Am Platz der Jugend 1, 06406 Bernburg (Saale), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8032126,
+  "lon": 11.737785
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Semmelweisstr. 25, 06406 Bernburg (Saale), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7805675,
+  "lon": 11.7385119
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Neumarktpassage 5, 06420 Könnern, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6709475,
+  "lon": 11.7697842
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Hertzstr. 5, 06449 Aschersleben, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7708102,
+  "lon": 11.4845855
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Mehringer Str. 64, 06449 Aschersleben, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7433917,
+  "lon": 11.4690754
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Auf den Steinen 18, 06485 Quedlinburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7382018,
+  "lon": 11.1499651
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Felsenkellerweg 21a, 06493 Ballenstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7230611,
+  "lon": 11.2203274
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Stolberger Str. 29, 06493 Harzgerode, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6353326,
+  "lon": 11.1319315
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Neinstedter Str. 8, 06502 Thale, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7528183,
+  "lon": 11.057468
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Oststr. 7, 06526 Sangerhausen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4804004,
+  "lon": 11.3159372
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Riethweg 10, 06526 Sangerhausen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4682936,
+  "lon": 11.2753182
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Kachstedter Str. 4, 06556 Artern /Unstrut, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3739351,
+  "lon": 11.2868318
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Esperstedter Str. 1, 06567 Bad Frankenhausen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3543018,
+  "lon": 11.1173944
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Am Bahnhof 1A-E, 06571 Roßleben, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.2972747,
+  "lon": 11.4387069
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Franz-Julius-Hoeltz-Str. 48, 06618 Naumburg (Saale), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1497717,
+  "lon": 11.826982
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Salinenstr. 8, 06628 Naumburg (Saale), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1391495,
+  "lon": 11.7260763
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Donaliesstr. 52, 06712 Zeitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.056894,
+  "lon": 12.1348517
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Brehnaer Str. 41, 06749 Bitterfeld-Wolfen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6126766,
+  "lon": 12.3085067
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Friedensstr. 7, 06749 Bitterfeld-Wolfen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.627815,
+  "lon": 12.3287864
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Rosa-Luxemburg-Str. 68B, 06773 Gräfenhainichen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7242623,
+  "lon": 12.4430654
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Straße der Neuen Zeit 24, 06792 Sandersdorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6297019,
+  "lon": 12.2649221
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Kreuzbergstr. 97, 06849 Dessau-Roßlau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8054216,
+  "lon": 12.2547151
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Magdeburger Str. 81b, 06862 Dessau-Roßlau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8904661,
+  "lon": 12.2274955
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Friedrichstr. 77, 06886 Lutherstadt Wittenberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8751986,
+  "lon": 12.6694228
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Leipziger Str. 85, 06901 Kemberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7672142,
+  "lon": 12.6323079
+ },
+ {
+  "name": "Getränkewelt Saalfeld",
+  "address": "Rasenweg 2, 07318 Saalfeld /Saale, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.6568108,
+  "lon": 11.3917545
+ },
+ {
+  "name": "Getränkemarkt Weiß",
+  "address": "Lehestener Str. 4a, 07343 Wurzbach, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.463233,
+  "lon": 11.5368689
+ },
+ {
+  "name": "Getränkewelt Eurotrink",
+  "address": "Langenberger Str. 21, 07552 Gera, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9185462,
+  "lon": 12.0553611
+ },
+ {
+  "name": "EDEKA-Seidel",
+  "address": "Geraer Str. 30-40, 07570 Weida, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.7745477,
+  "lon": 12.0618306
+ },
+ {
+  "name": "Getränkepartner Preisfuchs",
+  "address": "Schopperstr. 49a, 07937 Zeulenroda, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.6501839,
+  "lon": 11.9826927
+ },
+ {
+  "name": "Getränkequelle Liebold",
+  "address": "Zeulenrodaer Str. 6, 07973 Greiz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.6579237,
+  "lon": 12.1895262
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Ferdinand-Lassalle-Str. 21, 08223 Falkenstein /Vogtl., Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.4742098,
+  "lon": 12.3667186
+ },
+ {
+  "name": "Winkler",
+  "address": "Wernesgrüner Str. 44, 08228 Rodewisch, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5311791,
+  "lon": 12.415051
+ },
+ {
+  "name": "Getränkewelt Eibenstock",
+  "address": "Schneeberger Str. 13c, 08309 Eibenstock, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.4982698,
+  "lon": 12.6012148
+ },
+ {
+  "name": "nah & gut",
+  "address": "An der Binge 4, 08309 Eibenstock, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5043314,
+  "lon": 12.6451765
+ },
+ {
+  "name": "Getränkemarkt",
+  "address": "Am Kuchenhaus 14, 08321 Zschorlau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5630059,
+  "lon": 12.6359557
+ },
+ {
+  "name": "nah & gut",
+  "address": "Uferstr. 11, 08324 Bockau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5427182,
+  "lon": 12.6862194
+ },
+ {
+  "name": "Getränkeperle Schwarzenberg",
+  "address": "Robert-Koch-Str. 16a, 08340 Schwarzenberg /Erzgeb., Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5465205,
+  "lon": 12.7868631
+ },
+ {
+  "name": "Getränkeperle Raschau",
+  "address": "Hauptstr. 109a, 08352 Raschau-Markersbach, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5299458,
+  "lon": 12.8188349
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Grenayer Str. 10, 08371 Glauchau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.8185058,
+  "lon": 12.5130282
+ },
+ {
+  "name": "Getränkewelt-Paletti Meerane",
+  "address": "Guteborner Allee 3, 08393 Meerane, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.8370233,
+  "lon": 12.4488945
+ },
+ {
+  "name": "Getränkewelt",
+  "address": "Am Merzenberg 29, 08393 Meerane, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.8543143,
+  "lon": 12.4601435
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Kohlenstr. 6-8, 08412 Werdau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.7092504,
+  "lon": 12.4153334
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Güterstr. 2, 08527 Plauen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.4869327,
+  "lon": 12.1376403
+ },
+ {
+  "name": "EDEKA-Frischemarkt",
+  "address": "Blankenauer Str. 41, 09113 Chemnitz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.8518718,
+  "lon": 12.9284336
+ },
+ {
+  "name": "JET-Tankstelle",
+  "address": "Neefestr. 88, 09116 Chemnitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.8196004,
+  "lon": 12.8878644
+ },
+ {
+  "name": "Getränkewelt Chemnitz",
+  "address": "Arno-Schreiter-Str. 5, 09123 Chemnitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.7906997,
+  "lon": 12.903155
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Zschopauer Str. 279, 09126 Chemnitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.8141784,
+  "lon": 12.9560445
+ },
+ {
+  "name": "EDEKA-Langer/Zellmer",
+  "address": "Carl-von-Ossietzky-Str. 232, 09127 Chemnitz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.8226104,
+  "lon": 12.968094
+ },
+ {
+  "name": "EDEKA-Ziegler",
+  "address": "Scharnhorststr. 11, 09130 Chemnitz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.8326241,
+  "lon": 12.9572648
+ },
+ {
+  "name": "EDEKA Simmel",
+  "address": "Beethovenstr. 1, 09217 Burgstädt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.9127956,
+  "lon": 12.8082849
+ },
+ {
+  "name": "Getränkepartner Jammer",
+  "address": "Dr.-Robert-Koch-Str. 53, 09217 Burgstädt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.92116,
+  "lon": 12.8069298
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "An der Wiesenmühle 6, 09224 Chemnitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.8122842,
+  "lon": 12.8106703
+ },
+ {
+  "name": "EDEKA-Pröger",
+  "address": "Untere Hauptstr. 39a, 09235 Burkhardtsdorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.734404,
+  "lon": 12.9317076
+ },
+ {
+  "name": "E-center",
+  "address": "Ringstr. 56, 09247 Chemnitz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.8651783,
+  "lon": 12.8684435
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Chemnitzer Str. 102, 09322 Penig, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9221238,
+  "lon": 12.7150649
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Feldstr. 48a, 09337 Hohenstein-Ernstthal, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.8007576,
+  "lon": 12.7270773
+ },
+ {
+  "name": "JET-Tankstelle",
+  "address": "Zu den Teichen 2, 09366 Stollberg /Erzgeb., Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.7164559,
+  "lon": 12.783083
+ },
+ {
+  "name": "Getränkewelt-Paletti Lugau",
+  "address": "Chemnitzer Str. 1, 09385 Lugau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.7425503,
+  "lon": 12.7477388
+ },
+ {
+  "name": "Getränkewelt-Paletti",
+  "address": "Feldgasse 2a, 09399 Niederwürschnitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.7214291,
+  "lon": 12.7512131
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Dresdner Str. 16, 09456 Annaberg-Buchholz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5916348,
+  "lon": 13.0162156
+ },
+ {
+  "name": "Getränkewelt-Paletti Annaberg",
+  "address": "Oberwiesenthaler Weg 4, 09456 Annaberg-Buchholz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5642942,
+  "lon": 13.011504
+ },
+ {
+  "name": "nah & gut",
+  "address": "Wohngebiet Ernst Thälmann 9, 09465 Sehmatal-Cranzahl, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5169398,
+  "lon": 12.9955627
+ },
+ {
+  "name": "EDEKA-Ziegler",
+  "address": "Leipziger Str. 44, 09599 Freiberg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.9272143,
+  "lon": 13.3329173
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Frauensteiner Str. 23b, 09599 Freiberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9143575,
+  "lon": 13.3522283
+ },
+ {
+  "name": "E-aktiv",
+  "address": "Leipziger Str. 5, 09603 Großschirma, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.9860619,
+  "lon": 13.2716606
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Frankenberger Str. 9, 09661 Hainichen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9692604,
+  "lon": 13.1173146
+ },
+ {
+  "name": "Getränkemarkt Ambrosetti",
+  "address": "Schillerstr. 103, 10625 Berlin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.5104661,
+  "lon": 13.3134751
+ },
+ {
+  "name": "Markgrafen Getränkemarkt",
+  "address": "Egon-Erwin-Kisch-Str. 80, 13059 Berlin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.5687397,
+  "lon": 13.5101128
+ },
+ {
+  "name": "GP Gaube",
+  "address": "Potsdamer Str. 80, 14542 Werder (Havel), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.3650813,
+  "lon": 12.9402225
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Curlandstr. 7, 14712 Rathenow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.6127374,
+  "lon": 12.3352181
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Krakauer Landstr. 33, 14776 Brandenburg an der Havel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4236528,
+  "lon": 12.5798475
+ },
+ {
+  "name": "Markgrafen Getränkemarkt",
+  "address": "Erich-Weinert-Str. 51, 14974 Ludwigsfelde, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.3042339,
+  "lon": 13.2526167
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Am Weinberg 1, 15295 Brieskow-Finkenheerd, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2641075,
+  "lon": 14.5745512
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Gewerbepark-Kirschallee 2, 15326 Lebus, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4172105,
+  "lon": 14.5294289
+ },
+ {
+  "name": "Rietdorfer Getränke",
+  "address": "Rietdorf 17, 15936 Rietdorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8850126,
+  "lon": 13.3782698
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Freienwalder Str. 48, 16269 Wriezen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.7218537,
+  "lon": 14.1359633
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Steinstr. 1, 16303 Schwedt /Oder, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.0694525,
+  "lon": 14.2621016
+ },
+ {
+  "name": "Getränke von A-Z",
+  "address": "Kastanienallee 82A, 16307 Gartz (Oder), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.2113557,
+  "lon": 14.3734228
+ },
+ {
+  "name": "Getränke von A-Z",
+  "address": "Am Markt 1-2, 16348 Wandlitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.7143042,
+  "lon": 13.4397771
+ },
+ {
+  "name": "Markgrafen Getränkemarkt",
+  "address": "Berliner Weg 8a, 16348 Wandlitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.743221,
+  "lon": 13.453942
+ },
+ {
+  "name": "Markgrafen Getränkemarkt",
+  "address": "Hauptstr. 96-98, 16547 Birkenwerder, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.6935085,
+  "lon": 13.2767025
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Eichenallee 7, 16767 Leegebruch, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.7236181,
+  "lon": 13.1897383
+ },
+ {
+  "name": "Getränkeland",
+  "address": "Marianne-Grunthal-Str. 1, 16792 Zehdenick, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.9738052,
+  "lon": 13.3313552
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Berliner Allee 30B, 16833 Fehrbellin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.8090953,
+  "lon": 12.7755196
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Wittstocker Str. 34, 16866 Kyritz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.9421571,
+  "lon": 12.4075759
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Röbeler Str. 1a, 16909 Wittstock, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.1639225,
+  "lon": 12.4931772
+ },
+ {
+  "name": "Getränke von A-Z",
+  "address": "Schimmelweg 5, 17034 Neubrandenburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5713376,
+  "lon": 13.2656378
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Zur Datze 7, 17034 Neubrandenburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5754376,
+  "lon": 13.3011427
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Leibnizstr. 6, 17036 Neubrandenburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5516578,
+  "lon": 13.2958844
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Johanna-Beckmann-Str. 2, 17094 Burg Stargard, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4994077,
+  "lon": 13.3179732
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Anklamer Str. 24, 17098 Friedland, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6749208,
+  "lon": 13.5604962
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Jarmener Str. 57, 17109 Demmin Hansestadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9063518,
+  "lon": 13.0514092
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Demminer Str. 42b, 17126 Jarmen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9240704,
+  "lon": 13.3390486
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Stavenhagener Str. 45, 17139 Malchin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7358806,
+  "lon": 12.7785289
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Werdohler Str. 1, 17153 Stavenhagen Reuterstadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6887227,
+  "lon": 12.9177545
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Bahnhofstr. 14b, 17166 Teterow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7691275,
+  "lon": 12.5783554
+ },
+ {
+  "name": "Getränke-Partner Schwarz",
+  "address": "Friedenstr. 77b, 17179 Gnoien, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9729121,
+  "lon": 12.70621
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Gievitzer Str. 104, 17192 Waren (Müritz), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5259847,
+  "lon": 12.7083731
+ },
+ {
+  "name": "EDEKA-Herrmann",
+  "address": "Am Hafen 10, 17207 Röbel /Müritz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.3835267,
+  "lon": 12.6055509
+ },
+ {
+  "name": "Getränkeland",
+  "address": "Rostocker Str. 11, 17213 Malchow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4813866,
+  "lon": 12.4229849
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Penzliner Str. 7, 17235 Neustrelitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.3704033,
+  "lon": 13.0547257
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Kühlhausberg 17, 17235 Neustrelitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.3500429,
+  "lon": 13.0779105
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Mirower Chaussee 5A, 17255 Wesenberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.2806765,
+  "lon": 12.9640701
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Bahnhofstr. 27, 17258 Feldberger Seenlandschaft, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.3303312,
+  "lon": 13.4334808
+ },
+ {
+  "name": "Getränke von A-Z",
+  "address": "Bahnhofstr. 13, 17268 Templin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.1135895,
+  "lon": 13.4924721
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Lychener Str. 16, 17268 Templin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.1285499,
+  "lon": 13.490089
+ },
+ {
+  "name": "Getränke von A-Z",
+  "address": "Brüssower Allee 50, 17291 Prenzlau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.3219694,
+  "lon": 13.8765644
+ },
+ {
+  "name": "Getränke von A-Z",
+  "address": "Am Luisenplatz 2, 17309 Pasewalk, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5008469,
+  "lon": 13.9932086
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Lindenstr. 33, 17309 Pasewalk, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5090604,
+  "lon": 14.0047589
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Prenzlauer Chaussee 9, 17348 Woldegk, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4633758,
+  "lon": 13.5975507
+ },
+ {
+  "name": "Edeka-Berndt",
+  "address": "Ukranenstr. 1a, 17358 Torgelow, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.6299033,
+  "lon": 14.0246009
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Bahnhofstr. 18, 17358 Torgelow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6327363,
+  "lon": 14.0099735
+ },
+ {
+  "name": "EDEKA-Berndt",
+  "address": "Belliner Str. 9, 17373 Ueckermünde, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.7328853,
+  "lon": 14.0618065
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Chausseestr. 73, 17373 Ueckermünde, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7328646,
+  "lon": 14.0289449
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Pasewalker Str. 61, 17379 Ferdinandshof, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6619415,
+  "lon": 13.8981108
+ },
+ {
+  "name": "Getränke von A-Z",
+  "address": "Demminer Landstr. 5, 17389 Anklam, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8519066,
+  "lon": 13.6648297
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Lübecker Str. 19, 17389 Anklam, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8447935,
+  "lon": 13.6846445
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Bäderstr. 3, 17406 Usedom, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8754116,
+  "lon": 13.9190315
+ },
+ {
+  "name": "EDEKA-Pftzmann",
+  "address": "Labahnstr. 18, 17424 Heringsdorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.9580653,
+  "lon": 14.154889
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Sölvesborger Str. 1, 17438 Wolgast, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0492346,
+  "lon": 13.7549941
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Hauptstr. 87, 17459 Koserow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0470902,
+  "lon": 14.0018256
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Gützkower Landstr. 12, 17489 Greifswald Hansestadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0818001,
+  "lon": 13.3815762
+ },
+ {
+  "name": "Zisch Getränkewelt",
+  "address": "Stralsunder Str. 39-42, 17489 Greifswald Hansestadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1021012,
+  "lon": 13.3780488
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Wusterhusener Str. 17, 17509 Lubmin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1311655,
+  "lon": 13.6156657
+ },
+ {
+  "name": "Getränkeland",
+  "address": "Timmermannsstrat 9, 18055 Rostock, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0850665,
+  "lon": 12.1926522
+ },
+ {
+  "name": "EDEKA-Sünwold",
+  "address": "Bertolt-Brecht-Str. 23, 18106 Rostock, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.1228379,
+  "lon": 12.0597549
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Hauptstr. 103a, 18107 Elmenhorst/Lichtenhagen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1552446,
+  "lon": 12.0195312
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Alt Bartelsdorfer Str. 1, 18146 Rostock, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0979438,
+  "lon": 12.1746555
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Bahnhofstr. 19, 18181 Graal-Müritz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.2504178,
+  "lon": 12.2481963
+ },
+ {
+  "name": "GetränkePartner Belikow",
+  "address": "Rosengrund 2, 18182 Rövershagen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1731168,
+  "lon": 12.2403223
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Bollbrügge 3, 18190 Sanitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0741256,
+  "lon": 12.3899832
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Am Recknitzpark 4, 18195 Tessin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.031595,
+  "lon": 12.4462976
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Schmiedeweg 3, 18196 Dummerstorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0163029,
+  "lon": 12.2249346
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Am Karauschensoll 1, 18198 Kritzmow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.050198,
+  "lon": 12.0462362
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Am Handelspark 10a, 18209 Bad Doberan, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1083374,
+  "lon": 11.9212112
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Neue Reihe 94, 18225 Kühlungsborn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1442814,
+  "lon": 11.7360112
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Kröpeliner Str. 2, 18230 Ostseebad Rerik, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1067048,
+  "lon": 11.6183671
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Rostocker Str. 116, 18236 Kröpelin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0717476,
+  "lon": 11.8111853
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Am Forsthof 1b, 18246 Bützow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8428191,
+  "lon": 11.976774
+ },
+ {
+  "name": "GP Benicke",
+  "address": "Tarnower Chaussee 3, 18246 Bützow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8254373,
+  "lon": 11.9952143
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Güstrower Str. 78b, 18258 Schwaan, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9355332,
+  "lon": 12.1139053
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Neue Str. 42, 18273 Güstrow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7993967,
+  "lon": 12.175964
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Erich-Kästner-Str. 1, 18311 Ribnitz-Damgarten, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.2427558,
+  "lon": 12.4554969
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Papenhagen 2, 18461 Richtenberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.201734,
+  "lon": 12.8819826
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Tribseeser Str. 21, 18507 Grimmen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1070125,
+  "lon": 13.0271035
+ },
+ {
+  "name": "GetränkeShop Zilm",
+  "address": "Königsstr. 20, 18528 Bergen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.4157919,
+  "lon": 13.4379611
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Straße des Friedens 30, 18556 Altenkirchen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.6342581,
+  "lon": 13.3428775
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Proraer Chaussee 2, 18609 Binz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.4033359,
+  "lon": 13.6027803
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Ratzeburger Str. 2b, 19057 Schwerin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6481656,
+  "lon": 11.3531356
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Blumenbrink 64, 19061 Schwerin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.603317,
+  "lon": 11.4242605
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Mohnweg 1, 19067 Leezen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6663258,
+  "lon": 11.4922488
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Ahornstr. 38, 19075 Pampow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5662899,
+  "lon": 11.3638718
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Rehnaer Straße 9, 19205 Gadebusch, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.704806,
+  "lon": 11.1101499
+ },
+ {
+  "name": "Getränkemarkt Maack",
+  "address": "Bahnhofstr. 1, 19217 Rehna, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7742418,
+  "lon": 11.0498859
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Söringstr. 3, 19230 Hagenow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4255998,
+  "lon": 11.1872073
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Wölzower Weg 6a, 19243 Wittenburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5035984,
+  "lon": 11.0859197
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Wöbbeliner Str. 16b, 19288 Ludwigslust, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.3350313,
+  "lon": 11.5000876
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Binnung 1, 19300 Grabow, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.2759688,
+  "lon": 11.560983
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Bahnhofstr. 36, 19306 Neustadt-Glewe, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.3780558,
+  "lon": 11.5934925
+ },
+ {
+  "name": "E-neukauf Wittenberge WEZ",
+  "address": "Lenzener Chaussee 21, 19322 Wittenberge, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.0015271,
+  "lon": 11.7197472
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Am Mühlenberg 1a, 19412 Brüel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7339502,
+  "lon": 11.7182333
+ },
+ {
+  "name": "REWE",
+  "address": "Überseeboulevard 7, 20457 Hamburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5394688,
+  "lon": 9.9992497
+ },
+ {
+  "name": "EDEKA-Bleise",
+  "address": "Reinbeker Redder 283, 21031 Hamburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5137476,
+  "lon": 10.2118787
+ },
+ {
+  "name": "EDEKA-Göttsche",
+  "address": "Edith-Stein-Platz 4, 21035 Hamburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.4871598,
+  "lon": 10.1803171
+ },
+ {
+  "name": "E-center",
+  "address": "Seeveplatz 1, 21073 Hamburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.458989,
+  "lon": 9.9867192
+ },
+ {
+  "name": "E-aktiv markt Järneke",
+  "address": "Ernst-Bergeest-Weg 53, 21077 Hamburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.4412872,
+  "lon": 9.9597425
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Dratelnstr. 31, 21109 Hamburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5001573,
+  "lon": 9.9990219
+ },
+ {
+  "name": "REWE",
+  "address": "Schulstr. 42, 21220 Seevetal, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.3963232,
+  "lon": 10.0421967
+ },
+ {
+  "name": "EDEKA-Schreiber",
+  "address": "Niedersachsenstr. 19, 21244 Buchholz in der Nordheide, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.3114888,
+  "lon": 9.812488
+ },
+ {
+  "name": "REWE",
+  "address": "Alte Kleinbahn 1, 21255 Tostedt, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.2690648,
+  "lon": 9.7242808
+ },
+ {
+  "name": "REWE",
+  "address": "Zinnhütte 11-13, 21255 Tostedt, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.270508,
+  "lon": 9.7325836
+ },
+ {
+  "name": "EDEKA-Conrad",
+  "address": "Winsener Str. 36, 21271 Hanstedt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.2578658,
+  "lon": 10.0207431
+ },
+ {
+  "name": "EDEKA-Dalinger",
+  "address": "Bei der Kirche 4-10, 21271 Hanstedt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.2577437,
+  "lon": 10.0126311
+ },
+ {
+  "name": "EDEKA-Tschorn Bockelsberg",
+  "address": "Universitätsallee 13, 21335 Lüneburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.2241578,
+  "lon": 10.4044284
+ },
+ {
+  "name": "REWE",
+  "address": "Vor dem Neuen Tore 34, 21339 Lüneburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.2499013,
+  "lon": 10.3944307
+ },
+ {
+  "name": "REWE",
+  "address": "Industriestr. 26, 21354 Bleckede, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.2859931,
+  "lon": 10.7352809
+ },
+ {
+  "name": "Getränkemarkt Tödter",
+  "address": "Luhdorfer Str. 110, 21423 Winsen (Luhe), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.3444763,
+  "lon": 10.204781
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Hermann-Körner-Str. 53, 21465 Reinbek, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5226785,
+  "lon": 10.2434489
+ },
+ {
+  "name": "REWE",
+  "address": "Hamburger Landstr. 36, 21465 Wentorf bei Hamburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.4902518,
+  "lon": 10.2513396
+ },
+ {
+  "name": "REWE",
+  "address": "Hamburger Str. 102, 21493 Schwarzenbek, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5001545,
+  "lon": 10.4569922
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Am Schleusenkanal 14, 21502 Geesthacht, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4319596,
+  "lon": 10.3460495
+ },
+ {
+  "name": "EDEKA Getränkemarkt",
+  "address": "Havighorster Weg 2, 21509 Glinde, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5356614,
+  "lon": 10.1974376
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Lauenburger Str. 14, 21514 Büchen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4770389,
+  "lon": 10.6176468
+ },
+ {
+  "name": "MARKANT Nah & Frisch",
+  "address": "Torfweg 4, 21614 Buxtehude, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4633449,
+  "lon": 9.6669213
+ },
+ {
+  "name": "REWE",
+  "address": "Osterjork 18A, 21635 Jork, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5317208,
+  "lon": 9.6829423
+ },
+ {
+  "name": "REWE",
+  "address": "Heidbecker Weg 5, 21680 Stade, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.582302,
+  "lon": 9.4990271
+ },
+ {
+  "name": "REWE",
+  "address": "Paschberg 18, 21698 Harsefeld, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.4552961,
+  "lon": 9.5129177
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Buxtehuder Str. 2, 21698 Harsefeld, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.453276,
+  "lon": 9.5051091
+ },
+ {
+  "name": "EDEKA-Meibohm",
+  "address": "Am Schützenhof 3, 21702 Ahlerstedt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.4039461,
+  "lon": 9.4529731
+ },
+ {
+  "name": "REWE",
+  "address": "Dinghorner Str. 9-17, 21717 Fredenbeck, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5213925,
+  "lon": 9.396882
+ },
+ {
+  "name": "REWE",
+  "address": "Wandsbeker Marktstr. 1, 22041 Hamburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5711581,
+  "lon": 10.0609327
+ },
+ {
+  "name": "REWE-Center Getränkemarkt",
+  "address": "Auf dem Königslande 51, 22041 Hamburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5814756,
+  "lon": 10.0792149
+ },
+ {
+  "name": "REWE Center",
+  "address": "Tonndorfer Hauptstr. 71-81, 22045 Hamburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5867978,
+  "lon": 10.125446
+ },
+ {
+  "name": "EDEKA-Wölm",
+  "address": "Kandinskyallee 21, 22115 Hamburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5277117,
+  "lon": 10.1491621
+ },
+ {
+  "name": "EDEKA-Stöver",
+  "address": "Traberweg 1, 22159 Hamburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5975475,
+  "lon": 10.1008197
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Hindenburgstr. 173, 22297 Hamburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6182505,
+  "lon": 10.0037435
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Fuhlsbüttler Str. 340, 22307 Hamburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.6010257,
+  "lon": 10.0413225
+ },
+ {
+  "name": "REWE Citymarkt",
+  "address": "Arminiusstr. 2-4, 22525 Hamburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5806992,
+  "lon": 9.9351539
+ },
+ {
+  "name": "Graef Getränke KG",
+  "address": "Am Osdorfer Born 28, 22549 Hamburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5759529,
+  "lon": 9.8433371
+ },
+ {
+  "name": "nahkauf",
+  "address": "Op´n Hainholt 2b, 22589 Hamburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.581224,
+  "lon": 9.8097613
+ },
+ {
+  "name": "REWE-Center",
+  "address": "Max-Brauer-Allee 59, 22765 Hamburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5542533,
+  "lon": 9.937105
+ },
+ {
+  "name": "EDEKA-Wiedner",
+  "address": "Stresemannstr. 161, 22769 Hamburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5623097,
+  "lon": 9.9501304
+ },
+ {
+  "name": "EDEKA-Hebig",
+  "address": "Rathausallee 35-39, 22846 Norderstedt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.7070686,
+  "lon": 9.9896053
+ },
+ {
+  "name": "REWE",
+  "address": "Ulzburger Str. 330, 22846 Norderstedt, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.7153242,
+  "lon": 10.0004435
+ },
+ {
+  "name": "REWE-Center",
+  "address": "Europaallee 6, 22850 Norderstedt, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.6829108,
+  "lon": 9.9870785
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Robert-Koch-Str. 37, 22851 Norderstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6853073,
+  "lon": 10.0516271
+ },
+ {
+  "name": "REWE",
+  "address": "Kiebitzweg 2, 22869 Schenefeld, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.602234,
+  "lon": 9.8371953
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Hauptstr. 38, 22885 Barsbüttel, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.5688226,
+  "lon": 10.1623161
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Beimoorweg 12, 22926 Ahrensburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6796525,
+  "lon": 10.2523684
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Brückenstr. 1, 22926 Ahrensburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6668928,
+  "lon": 10.229142
+ },
+ {
+  "name": "EDEKA-Süllau",
+  "address": "Kirchenstr. 31, 22946 Trittau, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.6101677,
+  "lon": 10.4071692
+ },
+ {
+  "name": "REWE",
+  "address": "Sandstr. 24-28, 23552 Lübeck, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.8649084,
+  "lon": 10.6846229
+ },
+ {
+  "name": "E-center Lübeck",
+  "address": "Ziegelstr. 2-8, 23556 Lübeck, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.8616855,
+  "lon": 10.6498284
+ },
+ {
+  "name": "REWE Center",
+  "address": "Ziegelstr. 232, 23556 Lübeck, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.8536561,
+  "lon": 10.6326481
+ },
+ {
+  "name": "EDEKA-Adler",
+  "address": "Hansering 21-23, 23558 Lübeck, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.8571626,
+  "lon": 10.6641018
+ },
+ {
+  "name": "EDEKA-Petrovic",
+  "address": "Am Bahnhof 2-4, 23558 Lübeck, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.8673266,
+  "lon": 10.6709659
+ },
+ {
+  "name": "REWE Center",
+  "address": "Kantstr. 15-17, 23566 Lübeck, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.8671375,
+  "lon": 10.7197235
+ },
+ {
+  "name": "EDEKA-Martens",
+  "address": "Dänischburger Landstr. 78-81, 23569 Lübeck, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.9153636,
+  "lon": 10.7342481
+ },
+ {
+  "name": "REWE",
+  "address": "Kirchplatz 10, 23569 Lübeck, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.9134818,
+  "lon": 10.8041067
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Zum Vorwerk 2a, 23611 Bad Schwartau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9030832,
+  "lon": 10.6708217
+ },
+ {
+  "name": "REWE",
+  "address": "Rathausmarkt 3a, 23617 Stockelsdorf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.8878438,
+  "lon": 10.6480421
+ },
+ {
+  "name": "Getränkeland",
+  "address": "Grönauer Heide 3, 23627 Groß Grönau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8127001,
+  "lon": 10.7390917
+ },
+ {
+  "name": "EDEKA-Jens Markt",
+  "address": "Paduaweg 3, 23669 Timmendorfer Strand, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.9908528,
+  "lon": 10.8313866
+ },
+ {
+  "name": "EDEKA-Schulz",
+  "address": "Kurpromenade 12, 23669 Timmendorfer Strand, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.9988845,
+  "lon": 10.7803453
+ },
+ {
+  "name": "REWE",
+  "address": "Hamburger Ring 5-7, 23683 Scharbeutz, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.0259252,
+  "lon": 10.7474532
+ },
+ {
+  "name": "GLN Getränkelogistik Nord",
+  "address": "Hinrichskrog 1, 23684 Scharbeutz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.040552,
+  "lon": 10.6547621
+ },
+ {
+  "name": "EDEKA-Petersen",
+  "address": "Zum Grellberg 1a, 23689 Pansdorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.9910293,
+  "lon": 10.7131823
+ },
+ {
+  "name": "REWE",
+  "address": "Industriestr. 5, 23701 Eutin, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.1266138,
+  "lon": 10.6220433
+ },
+ {
+  "name": "REWE",
+  "address": "Weidestr. 38-40, 23701 Eutin, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.1299736,
+  "lon": 10.6155681
+ },
+ {
+  "name": "REWE",
+  "address": "Bahnhofstr. 61-63, 23714 Malente, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.1746384,
+  "lon": 10.5586735
+ },
+ {
+  "name": "famila",
+  "address": "Rettiner Weg 77, 23730 Neustadt in Holstein, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1042132,
+  "lon": 10.8328953
+ },
+ {
+  "name": "REWE",
+  "address": "Sierksdorfer Str. 8, 23730 Neustadt, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.0971292,
+  "lon": 10.7902184
+ },
+ {
+  "name": "EDEKA-Nils Weinberg",
+  "address": "Bürgermeister-Höppner-Str. 1a, 23749 Grube, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.2246061,
+  "lon": 11.0359835
+ },
+ {
+  "name": "EDEKA-Jens Markt",
+  "address": "Seestr. 1, 23758 Wangels, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.3100046,
+  "lon": 10.7959702
+ },
+ {
+  "name": "famila",
+  "address": "Am Voßberg 1, 23758 Oldenburg in Holstein, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.2928893,
+  "lon": 10.9099083
+ },
+ {
+  "name": "EDEKA-Weinberg",
+  "address": "Göhler Str. 7, 23758 Oldenburg in Holstein, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.2907841,
+  "lon": 10.8911525
+ },
+ {
+  "name": "REWE",
+  "address": "Kieler Chaussee 4a, 23758 Oldenburg in Holstein, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.2876397,
+  "lon": 10.877977
+ },
+ {
+  "name": "EDEKA",
+  "address": "Landkirchener Weg 57, 23769 Fehmarn, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.4437593,
+  "lon": 11.1817573
+ },
+ {
+  "name": "EDEKA-Jens Markt",
+  "address": "Am Markt 27, 23769 Burg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.4394467,
+  "lon": 11.1982664
+ },
+ {
+  "name": "REWE",
+  "address": "Landkirchener Weg 2, 23769 Fehmarn, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.4407189,
+  "lon": 11.1886058
+ },
+ {
+  "name": "EDEKA-Jens Markt",
+  "address": "Höhenweg 4, 23774 Heiligenhafen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.3635902,
+  "lon": 10.9672894
+ },
+ {
+  "name": "REWE",
+  "address": "Am Strande 7b, 23774 Heiligenhafen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.3732153,
+  "lon": 10.978485
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Ziegelstr. 119, 23795 Bad Segeberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9496485,
+  "lon": 10.3047117
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Kronsheider Str. 20, 23812 Wahlstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.947847,
+  "lon": 10.2009598
+ },
+ {
+  "name": "GetränkePartner Reinfeld",
+  "address": "Hamburger Chaussee 11, 23858 Reinfeld (Holstein), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8244742,
+  "lon": 10.4955585
+ },
+ {
+  "name": "MARKANT",
+  "address": "Bahnhofstr. 2, 23858 Reinfeld (Holstein), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.831599,
+  "lon": 10.4902789
+ },
+ {
+  "name": "REWE",
+  "address": "Am Kronsmoor 4, 23866 Nahe, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.7966819,
+  "lon": 10.1441635
+ },
+ {
+  "name": "EDEKA-Süllau",
+  "address": "Grambeker Weg 45-49, 23879 Mölln, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.6200046,
+  "lon": 10.6806708
+ },
+ {
+  "name": "MARKTKAUF Süllau",
+  "address": "Industriestr. 1, 23879 Mölln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6193935,
+  "lon": 10.6763749
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Hauptstr. 81, 23898 Sandesneben, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.799842,
+  "lon": 10.5968939
+ },
+ {
+  "name": "MARKTKAUF",
+  "address": "Am Viehmarkt 10, 23909 Ratzeburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6944905,
+  "lon": 10.788239
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Schönberger Str. 2, 23911 Ziethen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6948474,
+  "lon": 10.8103837
+ },
+ {
+  "name": "MARKANT",
+  "address": "Oldesloer Str. 1, 23919 Berkenthin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7341178,
+  "lon": 10.6447443
+ },
+ {
+  "name": "GP Getränke Nord Berkenthin",
+  "address": "Oldesloer Str. 44A, 23919 Berkenthin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7334193,
+  "lon": 10.6362683
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Dassower Str. 6, 23923 Schönberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8550359,
+  "lon": 10.9255685
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Wismarsche Str. 152a, 23936 Grevesmühlen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8654448,
+  "lon": 11.2084236
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Holzdamm 5, 23966 Wismar, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8933625,
+  "lon": 11.4531438
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Am Dreweswäldchen 27, 23970 Wismar, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8849281,
+  "lon": 11.4586198
+ },
+ {
+  "name": "E-neukauf Kiel",
+  "address": "Sophienblatt 20, 24103 Kiel, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.3182786,
+  "lon": 10.1318189
+ },
+ {
+  "name": "REWE",
+  "address": "Holstenstr. 1-11, 24103 Kiel, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.3218227,
+  "lon": 10.1391669
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Steenbeker Weg 34, 24106 Kiel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.3549085,
+  "lon": 10.1107631
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Lauenburger Str. 2, 24113 Kiel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.3039225,
+  "lon": 10.1291971
+ },
+ {
+  "name": "REWE Center",
+  "address": "Winterbeker Weg 44, 24114 Kiel, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.3100033,
+  "lon": 10.1081728
+ },
+ {
+  "name": "GFGH GLN Getränkelogistik Nord",
+  "address": "Alte Weide 4-10, 24116 Kiel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.3300547,
+  "lon": 10.1119603
+ },
+ {
+  "name": "GFGH GLN Getränkelogistik Nord",
+  "address": "Alte Weide 7-13, 24116 Kiel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.3300547,
+  "lon": 10.1119603
+ },
+ {
+  "name": "REWE",
+  "address": "Langenfelde 126a, 24159 Kiel, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.4171834,
+  "lon": 10.1703665
+ },
+ {
+  "name": "REWE",
+  "address": "Richthofenstr. 57, 24159 Kiel, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.3717034,
+  "lon": 10.1355304
+ },
+ {
+  "name": "E-neukauf Johannsen",
+  "address": "Erdbeerfeld 4, 24161 Altenholz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.4103448,
+  "lon": 10.1291055
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Friedrichsruher Weg 5, 24161 Altenholz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.3851649,
+  "lon": 10.1383151
+ },
+ {
+  "name": "EDEKA-Schröder",
+  "address": "Kieler Str. 29, 24211 Preetz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.2431679,
+  "lon": 10.2766319
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Wakendorfer Str. 73, 24211 Preetz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.2411483,
+  "lon": 10.2882554
+ },
+ {
+  "name": "REWE",
+  "address": "Hufenweg 24, 24211 Preetz, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.2362926,
+  "lon": 10.2753285
+ },
+ {
+  "name": "EDEKA-Johannsen",
+  "address": "Ravensberg 2, 24214 Gettorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.413463,
+  "lon": 9.9822867
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Ravensberg 2c, 24214 Gettorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.4138052,
+  "lon": 9.9833531
+ },
+ {
+  "name": "REWE",
+  "address": "Süderstr. 4, 24214 Gettorf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.4057243,
+  "lon": 9.9726474
+ },
+ {
+  "name": "E-aktiv markt",
+  "address": "Bahnhofstr. 20, 24217 Schönberg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.3906979,
+  "lon": 10.3728719
+ },
+ {
+  "name": "REWE-Markt",
+  "address": "Kuhlenkamp 1 c, 24217 Schönberg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.3885868,
+  "lon": 10.3714831
+ },
+ {
+  "name": "EDEKA-Hauschildt",
+  "address": "Dorfstr. 14, 24220 Flintbek, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.237528,
+  "lon": 10.0699994
+ },
+ {
+  "name": "REWE",
+  "address": "Am Schmiedeplatz 1-2, 24226 Heikendorf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.3695641,
+  "lon": 10.203084
+ },
+ {
+  "name": "REWE",
+  "address": "Pahlblöken 2, 24232 Schönkirchen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.3383173,
+  "lon": 10.2183693
+ },
+ {
+  "name": "EDEKA-Frischemarkt",
+  "address": "Strandstr. 2b, 24235 Wendtorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.4115899,
+  "lon": 10.2856683
+ },
+ {
+  "name": "EDEKA",
+  "address": "Fünf-Seen-Allee 22, 24306 Plön, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.1490259,
+  "lon": 10.4591115
+ },
+ {
+  "name": "EDEKA-Frischemarkt Alpen",
+  "address": "Seestr. 12a, 24321 Hohwacht, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.3244663,
+  "lon": 10.6615615
+ },
+ {
+  "name": "GetränkePartner",
+  "address": "Rendsburger Str. 124, 24340 Eckernförde, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.4509266,
+  "lon": 9.8294122
+ },
+ {
+  "name": "REWE",
+  "address": "Sauersgang 1, 24340 Eckernförde, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.4699086,
+  "lon": 9.8358584
+ },
+ {
+  "name": "EDEKA-Reimer",
+  "address": "Dorfstr. 57, 24354 Rieseby, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.5430732,
+  "lon": 9.8085501
+ },
+ {
+  "name": "EDEKA-Ostseemarkt Heide",
+  "address": "Strandweg 31, 24369 Waabs, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.5316963,
+  "lon": 10.0024565
+ },
+ {
+  "name": "E-center",
+  "address": "Wassermühlenstr. 32b, 24376 Kappeln, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.6673961,
+  "lon": 9.9290387
+ },
+ {
+  "name": "Getränkepartner",
+  "address": "Mehlbydiek 7-11, 24376 Kappeln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.669622,
+  "lon": 9.9168338
+ },
+ {
+  "name": "IK - Ihr Kaufmann",
+  "address": "Querstr. 23-25, 24376 Kappeln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.6610436,
+  "lon": 9.9306936
+ },
+ {
+  "name": "REWE",
+  "address": "Glücksburger Str. 3, 24376 Kappeln, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.6589433,
+  "lon": 9.9494186
+ },
+ {
+  "name": "EDEKA-Niemeyer",
+  "address": "Südertoft 2, 24392 Süderbrarup, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.6334548,
+  "lon": 9.77538
+ },
+ {
+  "name": "REWE",
+  "address": "Große Str. 10, 24392 Süderbrarup, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.6346117,
+  "lon": 9.7730061
+ },
+ {
+  "name": "GetränkePartner Gelting",
+  "address": "Schmidsberg 2, 24395 Gelting, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.7453495,
+  "lon": 9.9006663
+ },
+ {
+  "name": "REWE",
+  "address": "Gänsemarkt 1, 24534 Neumünster, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.0741197,
+  "lon": 9.980336
+ },
+ {
+  "name": "E-center Grümmi a&b center",
+  "address": "Baeyerstr. 1, 24536 Neumünster, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.0998597,
+  "lon": 9.9769505
+ },
+ {
+  "name": "EDEKA-Meyer's",
+  "address": "Wasbeker Str. 330, 24537 Neumünster, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.0714747,
+  "lon": 9.9411253
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Altonaer Str. 174-178, 24539 Neumünster, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0470479,
+  "lon": 9.9711621
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Segeberger Str. 46c, 24539 Neumünster, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0535764,
+  "lon": 10.0195152
+ },
+ {
+  "name": "EDEKA-Oertwig",
+  "address": "Dammstücken 29-33, 24558 Henstedt-Ulzburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.7695699,
+  "lon": 9.9862637
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Kirchweg 74, 24558 Henstedt-Ulzburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.800609,
+  "lon": 9.9790279
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Norderstedter Str. 28, 24558 Henstedt-Ulzburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.7583663,
+  "lon": 9.9971484
+ },
+ {
+  "name": "EDEKA-Siewertsen",
+  "address": "Alvesloher Str. 25, 24568 Kaltenkirchen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.8264455,
+  "lon": 9.9423957
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Hamburger Str. 22, 24568 Kaltenkirchen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.8358563,
+  "lon": 9.9598391
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Hamburger Str. 46, 24576 Bad Bramstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9106272,
+  "lon": 9.8809266
+ },
+ {
+  "name": "REWE",
+  "address": "Landweg 17-21, 24576 Bad Bramstedt, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.9211062,
+  "lon": 9.8830233
+ },
+ {
+  "name": "EDEKA-Dormeier",
+  "address": "Bahnhofstr. 29-33, 24582 Bordesholm, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.1742269,
+  "lon": 10.0454677
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Bahnhofstr. 30, 24582 Bordesholm, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1735963,
+  "lon": 10.0410701
+ },
+ {
+  "name": "REWE",
+  "address": "Mühlenstr. 12, 24582 Bordesholm, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.1772513,
+  "lon": 10.0471229
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Herbergstr. 10, 24589 Nortorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1706754,
+  "lon": 9.8506893
+ },
+ {
+  "name": "REWE",
+  "address": "Bornhöveder Landstr. 2, 24601 Wankendorf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.1116012,
+  "lon": 10.2074929
+ },
+ {
+  "name": "famila",
+  "address": "Gablonzer Str. 1-5, 24610 Trappenkamp, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0384763,
+  "lon": 10.2167776
+ },
+ {
+  "name": "EDEKA-in der Schleife",
+  "address": "Lancasterstr. 48, 24768 Rendsburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.3041917,
+  "lon": 9.6934725
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Friedrichstädter Str. 59, 24768 Rendsburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.3216306,
+  "lon": 9.6233969
+ },
+ {
+  "name": "REWE",
+  "address": "Am Ahlmannkai 2, 24782 Büdelsdorf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.3109753,
+  "lon": 9.6625894
+ },
+ {
+  "name": "E-neukauf Hoof",
+  "address": "Kieler Str. 98, 24783 Osterrönfeld, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.2942343,
+  "lon": 9.7078361
+ },
+ {
+  "name": "EDEKA-Schlüter",
+  "address": "Hauptstr. 33, 24806 Hohn, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.2998416,
+  "lon": 9.5069166
+ },
+ {
+  "name": "EDEKA-Haas & Haas",
+  "address": "Eisenbahnstr. 7, 24811 Owschlag, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.39498,
+  "lon": 9.5886177
+ },
+ {
+  "name": "E-Center",
+  "address": "Flensburger Str. 61, 24837 Schleswig, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.5293568,
+  "lon": 9.5267769
+ },
+ {
+  "name": "REWE",
+  "address": "Hans-Jürgen-Klinker-Str. 2, 24837 Schleswig, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.5329452,
+  "lon": 9.5759921
+ },
+ {
+  "name": "E-aktiv markt Hetzel",
+  "address": "Mühlenberg 18, 24857 Fahrdorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.5002573,
+  "lon": 9.5990264
+ },
+ {
+  "name": "EDEKA-Rüdiger",
+  "address": "Tükeslih 4, 24887 Silberstedt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.5181584,
+  "lon": 9.3903248
+ },
+ {
+  "name": "EDEKA-Berger",
+  "address": "Werftstr. 29, 24939 Flensburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.7998235,
+  "lon": 9.4253809
+ },
+ {
+  "name": "REWE",
+  "address": "Apenrader Str. 48-52, 24939 Flensburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.8045525,
+  "lon": 9.4248765
+ },
+ {
+  "name": "REWE",
+  "address": "Ochsenweg 69, 24941 Flensburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.7598064,
+  "lon": 9.3973425
+ },
+ {
+  "name": "Getränke Hofmann GmbH",
+  "address": "Geheimrat-Dr.-Schaedel-Str. 22, 24955 Harrislee, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.7993774,
+  "lon": 9.3950865
+ },
+ {
+  "name": "EDEKA-Saur",
+  "address": "Rathausstr. 8, 24960 Glücksburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.8351291,
+  "lon": 9.5478332
+ },
+ {
+  "name": "EDEKA-Sorgenfrey",
+  "address": "Hauptstr. 2, 24975 Hürup, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.7542865,
+  "lon": 9.5281884
+ },
+ {
+  "name": "E-aktiv markt Neumann",
+  "address": "Europastr. 82, 24976 Handewitt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.7440729,
+  "lon": 9.4382113
+ },
+ {
+  "name": "EDEKA-Hartwig & Senol",
+  "address": "Schwarze Str. 19, 24977 Langballig, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.7995599,
+  "lon": 9.6352533
+ },
+ {
+  "name": "EDEKA-Handewitt",
+  "address": "Wiesharder Markt 3, 24983 Handewitt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.7702967,
+  "lon": 9.321927
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Birkenbogen 2, 24999 Wees, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.8073651,
+  "lon": 9.5139086
+ },
+ {
+  "name": "E-center",
+  "address": "Wedenkamp 9a, 25335 Elmshorn, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.7514964,
+  "lon": 9.6472771
+ },
+ {
+  "name": "REWE",
+  "address": "Dorfstr. 105, 25336 Klein Nordende, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.7239433,
+  "lon": 9.6640069
+ },
+ {
+  "name": "E-center A23",
+  "address": "Ramskamp 102, 25337 Elmshorn, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.7427295,
+  "lon": 9.7099881
+ },
+ {
+  "name": "REWE",
+  "address": "Neuenbrooker Str. 37, 25361 Krempe, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.8418379,
+  "lon": 9.4882846
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Elmshorner Str. 181-189, 25421 Pinneberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6773716,
+  "lon": 9.7926463
+ },
+ {
+  "name": "REWE Kim Ide oHG",
+  "address": "Esinger Str. 3, 25436 Tornesch, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.6957335,
+  "lon": 9.7147354
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Güttloh 1-5, 25451 Quickborn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7212122,
+  "lon": 9.9016906
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Hauptstr. 105, 25462 Rellingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6545274,
+  "lon": 9.8226785
+ },
+ {
+  "name": "Fohsack Getränkefachmarkt",
+  "address": "Waldhof 2, 25474 Ellerbek, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6412177,
+  "lon": 9.8896818
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Schenefelder Chaussee 80, 25524 Itzehoe, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9523797,
+  "lon": 9.4945396
+ },
+ {
+  "name": "REWE",
+  "address": "Kamper Weg 92, 25524 Itzehoe, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.9115403,
+  "lon": 9.4865565
+ },
+ {
+  "name": "E-Center Frauen",
+  "address": "Kaufhausstr. 1, 25541 Brunsbüttel, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.8996184,
+  "lon": 9.1273792
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Emil-von-Behring-Str. 14, 25541 Brunsbüttel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9002221,
+  "lon": 9.1235583
+ },
+ {
+  "name": "EDEKA-Maron",
+  "address": "Steindamm 11, 25554 Wilster, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.9249433,
+  "lon": 9.3830996
+ },
+ {
+  "name": "REWE",
+  "address": "Bahnhofstr. 4, 25557 Hanerau-Hademarschen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.1253875,
+  "lon": 9.4155007
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Ernst-Günter-Albers-Str. 11-15, 25704 Meldorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.0944362,
+  "lon": 9.0635551
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Königstr. 59-63, 25709 Marne, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.9533729,
+  "lon": 9.0087507
+ },
+ {
+  "name": "E-center Frauen",
+  "address": "Hamburger Str. 145, 25746 Heide, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.1990625,
+  "lon": 9.1234119
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Schanzenstr. 8, 25746 Heide, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.1961472,
+  "lon": 9.1278926
+ },
+ {
+  "name": "E-aktiv markt Jensen",
+  "address": "Alleestr. 6, 25761 Büsum, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.1312115,
+  "lon": 8.8606622
+ },
+ {
+  "name": "EDEKA-Jensen",
+  "address": "Nordseestr. 16, 25761 Büsum, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.1324711,
+  "lon": 8.8501952
+ },
+ {
+  "name": "REWE",
+  "address": "Schülper Chaussee 1, 25764 Wesselburen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.2159286,
+  "lon": 8.9213212
+ },
+ {
+  "name": "EDEKA-Maron",
+  "address": "Karkloh 14, 25767 Albersdorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.1396859,
+  "lon": 9.2855296
+ },
+ {
+  "name": "REWE",
+  "address": "Hauptstr. 5, 25782 Tellingstedt, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.2202513,
+  "lon": 9.27847
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Ostenfelder Str. 66, 25813 Husum, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.4703344,
+  "lon": 9.0889455
+ },
+ {
+  "name": "EDEKA-Nissen",
+  "address": "Husumer Str. 17a, 25821 Breklum, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.603748,
+  "lon": 8.982382
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Eisenbahnstr. 6, 25821 Bredstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.6197851,
+  "lon": 8.9709372
+ },
+ {
+  "name": "Getränkewelt",
+  "address": "Husumer Str. 18, 25821 Bredstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.6153318,
+  "lon": 8.9733119
+ },
+ {
+  "name": "EDEKA",
+  "address": "Dreilanden 7b, 25826 Sankt Peter-Ording, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.3245543,
+  "lon": 8.6137568
+ },
+ {
+  "name": "E-aktiv Markt Thomsen",
+  "address": "Osterdeich 3, 25845 Nordstrand, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.4853248,
+  "lon": 8.8564468
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Westermarkt 5, 25884 Viöl, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.5695964,
+  "lon": 9.1724198
+ },
+ {
+  "name": "EDEKA-Ove Lück",
+  "address": "Uhlebüller Str. 6, 25899 Niebüll, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.7912441,
+  "lon": 8.8289553
+ },
+ {
+  "name": "REWE",
+  "address": "Zum Stellwerk 1, 25899 Niebüll, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.7854049,
+  "lon": 8.8306149
+ },
+ {
+  "name": "EDEKA-Kaiser",
+  "address": "Hauptstr. 28, 25917 Leck, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.7725444,
+  "lon": 8.9705741
+ },
+ {
+  "name": "GP Manni's Getränkemarkt",
+  "address": "Industriestr. 26, 25917 Leck, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.7780777,
+  "lon": 8.9814051
+ },
+ {
+  "name": "REWE",
+  "address": "Hauptstr. 36, 25923 Süderlügum, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.8740248,
+  "lon": 8.909002
+ },
+ {
+  "name": "EDEKA-Frischemarkt Nissen",
+  "address": "Jaardenhuug 9, 25938 Utersum, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.7129293,
+  "lon": 8.4073603
+ },
+ {
+  "name": "REWE",
+  "address": "Koogskuhl 2, 25938 Wyk, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.6930708,
+  "lon": 8.5699447
+ },
+ {
+  "name": "GP Sylter Getränkewelt",
+  "address": "Zum Fliegerhorst 36, 25980 Tinnum, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 54.9067522,
+  "lon": 8.3259885
+ },
+ {
+  "name": "REWE",
+  "address": "Industrieweg 13-15, 25980 Westerland, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.9031345,
+  "lon": 8.3144268
+ },
+ {
+  "name": "REWE",
+  "address": "Kiarwai 2, 25980 Tinnum, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 54.9024979,
+  "lon": 8.3267034
+ },
+ {
+  "name": "EDEKA Getränkemarkt Meyer",
+  "address": "Osterweg 4, 25996 Wenningstedt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 54.9355175,
+  "lon": 8.3295893
+ },
+ {
+  "name": "REWE",
+  "address": "Donnerschweer Str. 210, 26123 Oldenburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.1508474,
+  "lon": 8.2363312
+ },
+ {
+  "name": "famila XXL",
+  "address": "Posthalterweg 10, 26129 Oldenburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.1598324,
+  "lon": 8.1758078
+ },
+ {
+  "name": "E-center Friesoythe",
+  "address": "Europastr. 2, 26169 Friesoythe, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.0243717,
+  "lon": 7.8554739
+ },
+ {
+  "name": "GetränkePartner Gersema",
+  "address": "Schepser Damm 12, 26188 Edewecht, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.1173518,
+  "lon": 7.9639901
+ },
+ {
+  "name": "EDEKA-Driebolt",
+  "address": "Mühlenstr. 36, 26316 Varel, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.4001162,
+  "lon": 8.1409154
+ },
+ {
+  "name": "GetränkePartner Zetel",
+  "address": "Wehdestr. 6, 26340 Zetel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4194426,
+  "lon": 7.9556708
+ },
+ {
+  "name": "EDEKA-Becker",
+  "address": "Harpertshausener Str. 4, 26409 Wittmund, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5731187,
+  "lon": 7.7639889
+ },
+ {
+  "name": "EDEKA Getränkemarkt Pfaf",
+  "address": "Emder Str. 2, 26427 Esens, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.632464,
+  "lon": 7.6149489
+ },
+ {
+  "name": "MARKANT",
+  "address": "Alter Sielweg 7-15, 26427 Esens, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6740507,
+  "lon": 7.5735982
+ },
+ {
+  "name": "EDEKA-Scheidemann",
+  "address": "Andelweg 1, 26434 Wangerland, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.6864165,
+  "lon": 8.0055518
+ },
+ {
+  "name": "famila",
+  "address": "Mühlenstr. 72, 26441 Jever, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5616713,
+  "lon": 7.9129538
+ },
+ {
+  "name": "Kramps Grote Laden",
+  "address": "Friesenstr. 8-10, 26465 Langeoog, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7447791,
+  "lon": 7.4810708
+ },
+ {
+  "name": "Frischemarkt Mann",
+  "address": "Charlottenstr. 20, 26486 Wangerooge, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7915302,
+  "lon": 7.9004607
+ },
+ {
+  "name": "meine frische-insel",
+  "address": "Zedeliusstr. 36, 26486 Wangerooge, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7921904,
+  "lon": 7.8994695
+ },
+ {
+  "name": "Combi",
+  "address": "Gewerbestr. 13, 26506 Norden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6022885,
+  "lon": 7.1836387
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Widzel-tom-Brook-Str. 18, 26529 Upgant-Schott, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.522827,
+  "lon": 7.2870389
+ },
+ {
+  "name": "MARKANT",
+  "address": "Störtebekerstr. 148, 26553 Dornum, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.6730643,
+  "lon": 7.4772633
+ },
+ {
+  "name": "Frischemarkt Baltrum",
+  "address": "Westdorf 19, 26579 Baltrum, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.7278885,
+  "lon": 7.3681485
+ },
+ {
+  "name": "E-center Bruns",
+  "address": "Dreekamp 18, 26605 Aurich, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.4697595,
+  "lon": 7.4597871
+ },
+ {
+  "name": "Combi",
+  "address": "Koppelweg 2, 26624 Südbrookmerland, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4914893,
+  "lon": 7.3597637
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Ekelser Str. 22a, 26624 Südbrookmerland, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4549044,
+  "lon": 7.3483161
+ },
+ {
+  "name": "HAWO Sonderpostenmarkt",
+  "address": "Ekelser Str. 2-4, 26624 Südbrookmerland, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.4588934,
+  "lon": 7.3725063
+ },
+ {
+  "name": "EDEKA Getränkemarkt Behrends",
+  "address": "Amaryllisweg 3-5, 26639 Wiesmoor, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.4195877,
+  "lon": 7.7369931
+ },
+ {
+  "name": "Ihre Kette Claaßen",
+  "address": "Fliederstr. 2, 26639 Wiesmoor, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.3813914,
+  "lon": 7.7302519
+ },
+ {
+  "name": "famila",
+  "address": "Am Esch 7, 26655 Westerstede, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.2599961,
+  "lon": 7.9331813
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Friesoyther Str. 22, 26676 Barßel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.1624852,
+  "lon": 7.7515833
+ },
+ {
+  "name": "Getränke Star GmbH",
+  "address": "Molkereistr. 3 a, 26683 Saterland, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.0979649,
+  "lon": 7.6900123
+ },
+ {
+  "name": "EDEKA-Rah",
+  "address": "Ankerstr. 1, 26736 Krummhörn, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5017846,
+  "lon": 7.0902824
+ },
+ {
+  "name": "EDEKA-Pollmann",
+  "address": "Franz-Habich-Str. 6, 26757 Borkum, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5860311,
+  "lon": 6.6645534
+ },
+ {
+  "name": "Frischemarkt Inselmärkte",
+  "address": "Strandstr. 5, 26757 Borkum, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5878125,
+  "lon": 6.6656654
+ },
+ {
+  "name": "nah & gut",
+  "address": "Bismarckstr. 38, 26757 Borkum, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.5874061,
+  "lon": 6.6587772
+ },
+ {
+  "name": "Multi Markt",
+  "address": "Osseweg 87, 26789 Leer (Ostfriesland), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.2204426,
+  "lon": 7.4754808
+ },
+ {
+  "name": "Combi",
+  "address": "Rudolf-Eucken-Str. 3, 26802 Moormerland, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.3088494,
+  "lon": 7.4864267
+ },
+ {
+  "name": "EDEKA Vela",
+  "address": "Heinrich-Lübke-Str. 6-10, 26802 Moormerland, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.3125255,
+  "lon": 7.4852662
+ },
+ {
+  "name": "MARKANT",
+  "address": "Königstr. 141, 26810 Westoverledingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.1258643,
+  "lon": 7.4604016
+ },
+ {
+  "name": "E-center",
+  "address": "Neue Feldstr. 6, 26826 Weener, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.1681936,
+  "lon": 7.3490808
+ },
+ {
+  "name": "GetränkeShop Süfg",
+  "address": "Sandberg 30, 26871 Papenburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.0715771,
+  "lon": 7.4269565
+ },
+ {
+  "name": "Papenburger Getränkezentrale",
+  "address": "Hauptkanal links 35, 26871 Papenburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.0828802,
+  "lon": 7.3909547
+ },
+ {
+  "name": "EDEKA-Schneider",
+  "address": "Hauptstr. 16, 26892 Dörpen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.9656951,
+  "lon": 7.3271056
+ },
+ {
+  "name": "famila",
+  "address": "Weserstr. 80, 26919 Brake (Unterweser), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.333717,
+  "lon": 8.4606975
+ },
+ {
+  "name": "E-center Lehrke",
+  "address": "Atenser Allee 148, 26954 Nordenham, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5030433,
+  "lon": 8.4778089
+ },
+ {
+  "name": "EDEKA-Henken",
+  "address": "Am Hafen 6, 26969 Butjadingen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.5970066,
+  "lon": 8.3558694
+ },
+ {
+  "name": "MARKANT",
+  "address": "Nordseeallee 6, 26969 Butjadingen-Tossens, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 53.57283,
+  "lon": 8.2612805
+ },
+ {
+  "name": "REWE",
+  "address": "Berliner Str. 91, 27232 Sulingen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.685309,
+  "lon": 8.833798
+ },
+ {
+  "name": "EDEKA-Böttjer",
+  "address": "Neue Str. 36-39, 27432 Bremervörde, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.4892937,
+  "lon": 9.1388857
+ },
+ {
+  "name": "EDEKA-Eggert",
+  "address": "Hauptstr. 3, 27449 Kutenholz, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.482123,
+  "lon": 9.3223588
+ },
+ {
+  "name": "REWE",
+  "address": "Leher Landstr. 6, 27607 Geestland, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.6069585,
+  "lon": 8.5962419
+ },
+ {
+  "name": "E-center Inkoop",
+  "address": "Seestr. 5, 27755 Delmenhorst, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.0302014,
+  "lon": 8.6619104
+ },
+ {
+  "name": "famila",
+  "address": "Westring 10, 27793 Wildeshausen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.8928437,
+  "lon": 8.413345
+ },
+ {
+  "name": "Zisch Getränkewelt",
+  "address": "Bargloyer Str. 61, 27793 Wildeshausen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.8909733,
+  "lon": 8.4173839
+ },
+ {
+  "name": "E-center Meyer",
+  "address": "Burgstr. 2-3, 27798 Hude, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.1108737,
+  "lon": 8.4402551
+ },
+ {
+  "name": "REWE",
+  "address": "Holsteiner Str. 91-99, 28219 Bremen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.1015672,
+  "lon": 8.7952401
+ },
+ {
+  "name": "nahkauf",
+  "address": "Seewenjestr. 77, 28237 Bremen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.1147013,
+  "lon": 8.7706156
+ },
+ {
+  "name": "REWE",
+  "address": "Alte Heerstr. 2, 28259 Bremen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.0596306,
+  "lon": 8.7334749
+ },
+ {
+  "name": "REWE",
+  "address": "Borgfelder Heerstr. 44, 28357 Bremen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.1266526,
+  "lon": 8.9021082
+ },
+ {
+  "name": "REWE",
+  "address": "Georg-Gleistein-Str. 115-121, 28757 Bremen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.1831039,
+  "lon": 8.6193565
+ },
+ {
+  "name": "HOL' AB! Getränkemarkt",
+  "address": "Barrier Str. 46b, 28857 Syke, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.928477,
+  "lon": 8.8230318
+ },
+ {
+  "name": "EDEKA-Schulze",
+  "address": "Hehlenbruchweg 1, 29313 Hambühren, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.6345939,
+  "lon": 9.9771551
+ },
+ {
+  "name": "REWE",
+  "address": "Steinförder Str. 24, 29323 Wietze, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.6516884,
+  "lon": 9.8429292
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Villeparisisplatz 1, 29339 Wathlingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.5353204,
+  "lon": 10.145214
+ },
+ {
+  "name": "REWE",
+  "address": "Knesebecker Str. 2-8, 29378 Wittingen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.7257019,
+  "lon": 10.7382329
+ },
+ {
+  "name": "EDEKA-Pläth",
+  "address": "Drawehner Str. 6-10, 29439 Lüchow (Wendland), Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.9673682,
+  "lon": 11.1502586
+ },
+ {
+  "name": "REWE",
+  "address": "Theodor-Körner-Str. 18, 29439 Lüchow (Wendland), Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.9667525,
+  "lon": 11.16178
+ },
+ {
+  "name": "REWE",
+  "address": "Develangring 1, 29451 Dannenberg (Elbe), Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 53.0906033,
+  "lon": 11.0877595
+ },
+ {
+  "name": "EDEKA",
+  "address": "Medinger Str. 26, 29549 Bad Bevensen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.0804658,
+  "lon": 10.5738921
+ },
+ {
+  "name": "EDEKA",
+  "address": "Ladestr. 9, 29553 Bienenbüttel, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 53.1408955,
+  "lon": 10.4879172
+ },
+ {
+  "name": "E-center Walsrode",
+  "address": "Rudolf-Diesel-Str. 1, 29664 Walsrode, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.8658576,
+  "lon": 9.6202349
+ },
+ {
+  "name": "E-center",
+  "address": "Celler Str. 31, 29690 Schwarmstedt, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.6808949,
+  "lon": 9.6187326
+ },
+ {
+  "name": "REWE",
+  "address": "Bodestr. 2-6, 30167 Hannover, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.3921067,
+  "lon": 9.721552
+ },
+ {
+  "name": "E-center",
+  "address": "Hildesheimer Str. 413, 30519 Hannover, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.3244966,
+  "lon": 9.783898
+ },
+ {
+  "name": "REWE",
+  "address": "Bemeroder Str. 93, 30539 Hannover, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.3465165,
+  "lon": 9.8203047
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Anderter Str. 128, 30559 Hannover, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.3715368,
+  "lon": 9.861994
+ },
+ {
+  "name": "E-center",
+  "address": "Walsroder Str. 165, 30853 Langenhagen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.451822,
+  "lon": 9.7456252
+ },
+ {
+  "name": "REWE",
+  "address": "Maria-Montessori-Str. 3, 30855 Langenhagen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.4790164,
+  "lon": 9.7349268
+ },
+ {
+  "name": "Splendid Drinks G+L",
+  "address": "Gleiwitzer Str. 10-22, 30855 Langenhagen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4322973,
+  "lon": 9.6853872
+ },
+ {
+  "name": "REWE",
+  "address": "Burgweg 2, 30900 Wedemark, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.5443088,
+  "lon": 9.7353482
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Zur Deßel 2a, 31028 Gronau (Leine), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.088173,
+  "lon": 9.7911913
+ },
+ {
+  "name": "EDEKA-Böhne",
+  "address": "Hildesheimer Str. 14, 31061 Alfeld (Leine), Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 51.9898559,
+  "lon": 9.8299777
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Am Bahnhof 6, 31061 Alfeld (Leine), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9819703,
+  "lon": 9.8186554
+ },
+ {
+  "name": "REWE",
+  "address": "Phoenixstr. 4, 31137 Hildesheim, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.151104,
+  "lon": 9.9307273
+ },
+ {
+  "name": "REWE",
+  "address": "Alfelder Str. 55a, 31139 Hildesheim, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.1399225,
+  "lon": 9.9421539
+ },
+ {
+  "name": "nah & gut",
+  "address": "Im Johanni 1, 31162 Bad Salzdetfurth, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.026754,
+  "lon": 10.0019716
+ },
+ {
+  "name": "REWE",
+  "address": "Ahnepaule 2, 31162 Bad Salzdetfurth, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.0480251,
+  "lon": 10.007639
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Ortshäuser Str. 1, 31167 Bockenem, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.0090891,
+  "lon": 10.1323159
+ },
+ {
+  "name": "EDEKA-Herbst",
+  "address": "Über der Wasserfurche 1, 31174 Schellerten, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.1853481,
+  "lon": 10.0944589
+ },
+ {
+  "name": "REWE",
+  "address": "Im Knick 4, 31191 Algermissen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.2537723,
+  "lon": 9.9695057
+ },
+ {
+  "name": "REWE",
+  "address": "Celler Str. 51-55, 31224 Peine, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.3298707,
+  "lon": 10.2333512
+ },
+ {
+  "name": "REWE",
+  "address": "Fritz-Stegen-Allee 3, 31226 Peine, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.3131523,
+  "lon": 10.2300359
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Wöhrbergweg 5, 31234 Edemissen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.385634,
+  "lon": 10.2568378
+ },
+ {
+  "name": "REWE",
+  "address": "Dorfstr. 46, 31241 Ilsede, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.2665136,
+  "lon": 10.2200156
+ },
+ {
+  "name": "Dorfaden Bierbergen",
+  "address": "Dreschereistr. 8, 31249 Hohenhameln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.243808,
+  "lon": 10.1189153
+ },
+ {
+  "name": "REWE",
+  "address": "Meierkamp 10, 31249 Hohenhameln, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.2640138,
+  "lon": 10.072965
+ },
+ {
+  "name": "E-center Cramer",
+  "address": "Germaniastr. 26, 31275 Lehrte, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.3758267,
+  "lon": 9.9784005
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Weißdornallee 1, 31311 Uetze, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4810523,
+  "lon": 10.0877475
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Nordstr. 3, 31319 Sehnde, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.3153124,
+  "lon": 9.9644397
+ },
+ {
+  "name": "REWE",
+  "address": "Kurhausstr. 4, 31542 Bad Nenndorf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.3369117,
+  "lon": 9.3770185
+ },
+ {
+  "name": "EDEKA-Hanekamp",
+  "address": "Mühlentorstr. 10, 31547 Rehburg-Loccum, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.4734663,
+  "lon": 9.2269442
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Ahnser Str. 4, 31675 Bückeburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2626513,
+  "lon": 9.0633746
+ },
+ {
+  "name": "WEZ Verbrauchermarkt",
+  "address": "Kreuzbreite 14, 31675 Bückeburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2643304,
+  "lon": 9.0674835
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Stükenstr. 2-4, 31737 Rinteln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.163193,
+  "lon": 9.0680949
+ },
+ {
+  "name": "Getränke Quelle Rinteln I",
+  "address": "Im Emerten 10, 31737 Rinteln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.197217,
+  "lon": 9.085411
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Stüvestr. 43, 31785 Hameln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.0982739,
+  "lon": 9.3832108
+ },
+ {
+  "name": "MARKTKAUF",
+  "address": "Böcklerstr. 6-8, 31789 Hameln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.0823696,
+  "lon": 9.3416905
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Wallstr. 6-8, 31848 Bad Münder am Deister, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1963646,
+  "lon": 9.4620759
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Osterstr. 40, 31863 Coppenbrügge, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1173038,
+  "lon": 9.5513388
+ },
+ {
+  "name": "Getränkehaus",
+  "address": "Rathausstr. 40, 32120 Hiddenhausen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1551008,
+  "lon": 8.6428318
+ },
+ {
+  "name": "Edeka Böhm",
+  "address": "Berliner Str. 21, 32361 Preußisch Oldendorf, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.2905581,
+  "lon": 8.5355597
+ },
+ {
+  "name": "E-center",
+  "address": "Lübbecker Str. 191, 32429 Minden, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.2721777,
+  "lon": 8.8661568
+ },
+ {
+  "name": "EDEKA-Röthemeier",
+  "address": "Hauptstr. 36-40, 32469 Petershagen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.3778323,
+  "lon": 8.9677401
+ },
+ {
+  "name": "WEZ Verbrauchermarkt",
+  "address": "An der Bahn 19, 32469 Petershagen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.3633865,
+  "lon": 9.0100321
+ },
+ {
+  "name": "Getränkehaus",
+  "address": "Weserstr. 36, 32545 Bad Oeynhausen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1979295,
+  "lon": 8.8066488
+ },
+ {
+  "name": "WEZ Verbrauchermarkt",
+  "address": "Werster Str. 99-101, 32549 Bad Oeynhausen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2157523,
+  "lon": 8.78039
+ },
+ {
+  "name": "Getränke-Partner Becker",
+  "address": "Alte Str. 196, 32609 Hüllhorst, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2783342,
+  "lon": 8.6353672
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Pyrmonter Str. 75, 32676 Lügde, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9734397,
+  "lon": 9.2663514
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Wittekindstr. 28, 32758 Detmold, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9463594,
+  "lon": 8.8655592
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Friedrich-Ebert-Str. 17-19, 32791 Lage, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9888168,
+  "lon": 8.8026118
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Neuhäuser Str. 91, 33102 Paderborn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7263263,
+  "lon": 8.7331827
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Sennelagerstr. 16-18, 33106 Paderborn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.765278,
+  "lon": 8.6893019
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Feldhüserweg 28, 33378 Rheda-Wiedenbrück, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8424053,
+  "lon": 8.2936276
+ },
+ {
+  "name": "REWE",
+  "address": "Alte Brockhäger Str. 14, 33428 Harsewinkel, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.9617157,
+  "lon": 8.2353368
+ },
+ {
+  "name": "REWE",
+  "address": "Debusstr. 7, 33442 Herzebrock-Clarholz, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.882306,
+  "lon": 8.2402269
+ },
+ {
+  "name": "MARKANT",
+  "address": "Föhrenstr. 2b, 33649 Bielefeld, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9699231,
+  "lon": 8.463122
+ },
+ {
+  "name": "Getränkehaus",
+  "address": "Dorfstr. 24, 33739 Bielefeld, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.0968235,
+  "lon": 8.5172482
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Oerlinghauser Str. 5, 33758 Schloß Holte-Stukenbrock, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.911008,
+  "lon": 8.6086746
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Hahnenkamp 3, 33818 Leopoldshöhe, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.9871638,
+  "lon": 8.6739274
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Industriestr. 6, 34414 Warburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4957709,
+  "lon": 9.1298814
+ },
+ {
+  "name": "REWE",
+  "address": "Am Seewasem 10, 35216 Biedenkopf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.9034345,
+  "lon": 8.5326538
+ },
+ {
+  "name": "Getränkemarkt Koch",
+  "address": "Künzeller Str. 5, 36043 Fulda, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.548479,
+  "lon": 9.6812741
+ },
+ {
+  "name": "Party-SB-Getränkeshop",
+  "address": "Vogelsbergstr. 79, 36341 Lauterbach (Hessen), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.6281933,
+  "lon": 9.3951599
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Güterbahnhofstr. 4-6, 37073 Göttingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5431509,
+  "lon": 9.9310105
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Große Breite 1, 37077 Göttingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5594441,
+  "lon": 9.9312551
+ },
+ {
+  "name": "REWE",
+  "address": "Schützenring 2, 37115 Duderstadt, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.5089856,
+  "lon": 10.2547758
+ },
+ {
+  "name": "REWE",
+  "address": "Steinslieth 1, 37130 Gleichen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.4929717,
+  "lon": 10.0081083
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Neuemarktstr. 4, 37186 Moringen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.701198,
+  "lon": 9.8693878
+ },
+ {
+  "name": "REWE",
+  "address": "Lutterstr. 1, 37431 Bad Lauterberg im Harz, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.6268402,
+  "lon": 10.4608663
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Grimsehlstr. 22-24, 37574 Einbeck, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8139111,
+  "lon": 9.8869526
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Holzmindener Str. 2, 37581 Bad Gandersheim, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8703708,
+  "lon": 10.0155818
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Allersheimer Str. 34, 37603 Holzminden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8337024,
+  "lon": 9.4591226
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Rühler Str. 32, 37619 Bodenwerder, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.9715255,
+  "lon": 9.514878
+ },
+ {
+  "name": "REWE",
+  "address": "Im Moorbusche 2, 38162 Cremlingen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.2515454,
+  "lon": 10.6434798
+ },
+ {
+  "name": "REWE",
+  "address": "Hauptstr. 42a, 38162 Cremlingen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.2504774,
+  "lon": 10.6438409
+ },
+ {
+  "name": "REWE",
+  "address": "Büssingstr. 2, 38176 Wendeburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.3198674,
+  "lon": 10.3972209
+ },
+ {
+  "name": "E-center",
+  "address": "Konrad-Adenauer-Str. 111, 38226 Salzgitter, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.1534236,
+  "lon": 10.3449784
+ },
+ {
+  "name": "E-Center",
+  "address": "An der Erzbahn 8, 38259 Salzgitter, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.0493851,
+  "lon": 10.3698959
+ },
+ {
+  "name": "MARKTKAUF",
+  "address": "Hoiersdorfer Str. 6, 38364 Schöningen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1366669,
+  "lon": 10.9528502
+ },
+ {
+  "name": "E-Center Getränkemarkt",
+  "address": "Neuhäuser Str. 9, 38448 Wolfsburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.4328561,
+  "lon": 10.8482243
+ },
+ {
+  "name": "E-center",
+  "address": "Weideweg 11, 38458 Velpke, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.4063048,
+  "lon": 10.9314485
+ },
+ {
+  "name": "EDEKA Gewecke",
+  "address": "Dannenbütteler Weg 2, 38524 Sassenburg, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.5093594,
+  "lon": 10.6287437
+ },
+ {
+  "name": "E-Center",
+  "address": "Bahnhofstr. 8, 38527 Meine, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.3832492,
+  "lon": 10.5346304
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Astfelder Str. 7, 38640 Goslar, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9127987,
+  "lon": 10.4165802
+ },
+ {
+  "name": "REWE",
+  "address": "Wiedelaher Str. 10, 38690 Vienenburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.9546702,
+  "lon": 10.5663693
+ },
+ {
+  "name": "REWE",
+  "address": "Katelnburgstr. 17, 38723 Seesen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.9453748,
+  "lon": 10.1298479
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Magdeburger Str. 48, 38820 Halberstadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8979743,
+  "lon": 11.061549
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Tschaikowskistr. 10a, 38820 Halberstadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.888832,
+  "lon": 11.0627322
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Bahnchaussee 119f, 38838 Dingelstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9789849,
+  "lon": 10.9813031
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Benzingeröder Chaussee 8, 38855 Wernigerode, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8391459,
+  "lon": 10.8121997
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "An der Holtemme 67, 38855 Wernigerode, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8448376,
+  "lon": 10.7907011
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Heinrich-Heine-Str. 11-12, 38871 Ilsenburg (Harz), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.866499,
+  "lon": 10.6885091
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Husarenstr. 27, 38889 Blankenburg (Harz), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7952256,
+  "lon": 10.9710829
+ },
+ {
+  "name": "Getränke Quelle Hasselfelde",
+  "address": "Rosentalstr. 18, 38899 Hasselfelde, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6955662,
+  "lon": 10.861547
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Brenneckestr. 32-34, 39120 Magdeburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.0986941,
+  "lon": 11.6196531
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Alt Salbke 48, 39122 Magdeburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.083669,
+  "lon": 11.6632287
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Lerchenwuhne 125, 39128 Magdeburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1624283,
+  "lon": 11.6055321
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Vor dem Schloßtor 6a, 39164 Wanzleben-Börde, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.0657906,
+  "lon": 11.4448211
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Bahrendorfer Weg 14, 39171 Sülzetal, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9972016,
+  "lon": 11.5424535
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Königsborner Str. 68, 39175 Biederitz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1371723,
+  "lon": 11.733395
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Ziegeleistr. 15, 39240 Calbe (Saale), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9125081,
+  "lon": 11.7749253
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Coswiger Str. 7A, 39261 Zerbst /Anhalt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9605064,
+  "lon": 12.0993229
+ },
+ {
+  "name": "Getränke-Quelle Zerbst",
+  "address": "Dobritzer Str. 1, 39261 Zerbst /Anhalt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9725584,
+  "lon": 12.0916153
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Jahnstr. 6, 39307 Genthin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4083306,
+  "lon": 12.162102
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Rogätzer Str. 27, 39326 Wolmirstedt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2559636,
+  "lon": 11.6334898
+ },
+ {
+  "name": "Getränke Quelle",
+  "address": "Bernburger Str. 18, 39418 Staßfurt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.8460971,
+  "lon": 11.5945426
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Semmelweisstr. 7, 39539 Havelberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.8316725,
+  "lon": 12.0802319
+ },
+ {
+  "name": "Getränkeland Heidebrecht",
+  "address": "Arneburger Str. 32a, 39576 Stendal, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.6167975,
+  "lon": 11.869081
+ },
+ {
+  "name": "REWE",
+  "address": "Zeppelinstr. 3-7, 40231 Düsseldorf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.2036647,
+  "lon": 6.8349375
+ },
+ {
+  "name": "REWE",
+  "address": "Hauptstr. 6-8, 40597 Düsseldorf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.1629607,
+  "lon": 6.8739135
+ },
+ {
+  "name": "REWE",
+  "address": "Neuenhausplatz 74, 40699 Erkrath, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.2006573,
+  "lon": 6.9139729
+ },
+ {
+  "name": "REWE",
+  "address": "Hugo-Zade-Weg 4, 40764 Langenfeld (Rheinland), Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.1118728,
+  "lon": 6.9355935
+ },
+ {
+  "name": "REWE",
+  "address": "Lürriper Str. 17, 41065 Mönchengladbach, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.195806,
+  "lon": 6.4479892
+ },
+ {
+  "name": "REWE Center",
+  "address": "Ottostr. 3-5, 41238 Mönchengladbach, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.1648647,
+  "lon": 6.4583501
+ },
+ {
+  "name": "REWE",
+  "address": "Kölner Str. 28a, 41363 Jüchen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.0988221,
+  "lon": 6.5076076
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Mariannenpark 13, 41569 Rommerskirchen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.032585,
+  "lon": 6.6965178
+ },
+ {
+  "name": "REWE",
+  "address": "Heidweg 42, 41749 Viersen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.2862979,
+  "lon": 6.3639429
+ },
+ {
+  "name": "REWE",
+  "address": "Schibsler Weg 1-5, 41836 Hückelhoven, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.0631859,
+  "lon": 6.197065
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Siebeneicker Str. 15, 42553 Velbert, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3113259,
+  "lon": 7.0923179
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Tremoniastr. 24-26, 44137 Dortmund, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5045603,
+  "lon": 7.439572
+ },
+ {
+  "name": "Getränke Arena",
+  "address": "Borussiastr. 26, 44149 Dortmund, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.487077,
+  "lon": 7.3799515
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Arminiusstr. 48, 44149 Dortmund, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5181316,
+  "lon": 7.4219545
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Zillestr. 79, 44265 Dortmund, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4718173,
+  "lon": 7.4837501
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Sölder Str. 118, 44289 Dortmund, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4945069,
+  "lon": 7.588481
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Bebelstr. 161-163, 44532 Lünen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5922528,
+  "lon": 7.5367768
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Cappenberger Str. 106, 44534 Lünen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6302515,
+  "lon": 7.5274426
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Zum Pier 51, 44536 Lünen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6031594,
+  "lon": 7.4575906
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Wiescherstr. 77a, 44623 Herne, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5324892,
+  "lon": 7.2367534
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Hattinger Str. 193, 44795 Bochum, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4643773,
+  "lon": 7.2059688
+ },
+ {
+  "name": "Getränkeparadies Gefromm",
+  "address": "Gahlensche Str. 95, 44809 Bochum, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4862971,
+  "lon": 7.1952774
+ },
+ {
+  "name": "Getränke Arena",
+  "address": "Hatzper Str. 214, 45149 Essen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4197949,
+  "lon": 6.9605575
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Langenberger Str. 590, 45277 Essen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4134251,
+  "lon": 7.0773778
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Saatbruchstr. 50, 45309 Essen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4850112,
+  "lon": 7.0618302
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Wolfsbankring 13, 45355 Essen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4715631,
+  "lon": 6.9590381
+ },
+ {
+  "name": "Getränkemarkt",
+  "address": "Ewaldstr. 124, 45699 Herten, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5847267,
+  "lon": 7.1461116
+ },
+ {
+  "name": "Getränkemarkt & Zoobedarf",
+  "address": "Kaiserstr. 252, 45699 Herten, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6018653,
+  "lon": 7.1598277
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Victoriastr. 99, 45772 Marl, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.667107,
+  "lon": 7.1407116
+ },
+ {
+  "name": "Possemeyer Getränkefachhandel",
+  "address": "Nordring 38-42, 45894 Gelsenkirchen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5818615,
+  "lon": 7.0315
+ },
+ {
+  "name": "Getränke Possemeyer",
+  "address": "Ostring 45, 46238 Bottrop, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5311385,
+  "lon": 6.9414681
+ },
+ {
+  "name": "Lembecker Getränkemarkt",
+  "address": "Lippramsdorfer Str. 9, 46286 Dorsten, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7608087,
+  "lon": 7.0017202
+ },
+ {
+  "name": "Bierzwerg - Die Getränkekönner",
+  "address": "Grüner Weg 73, 48268 Greven, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1023096,
+  "lon": 7.6220596
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Grevener Damm 182, 48282 Emsdetten, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1584799,
+  "lon": 7.5511022
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Bodelschwinghstr. 36-38, 48301 Nottuln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9249127,
+  "lon": 7.3635946
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Salzbergener Str. 76-78, 48431 Rheine, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2862487,
+  "lon": 7.4297398
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Neuenkirchener Str. 130, 48431 Rheine, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.277691,
+  "lon": 7.4184321
+ },
+ {
+  "name": "Getränke Star GmbH",
+  "address": "Alter Kamp 1, 48455 Bad Bentheim, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2982878,
+  "lon": 7.085655
+ },
+ {
+  "name": "Getränkemarkt M&B Brinker",
+  "address": "Salzberger Str. 3, 48465 Schüttorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.3235052,
+  "lon": 7.2273042
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Ringstr. 48, 48480 Spelle, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.3643547,
+  "lon": 7.4701974
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Bahnhofstr. 85, 48488 Emsbüren, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.3990709,
+  "lon": 7.3044106
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Enschedestr. 5, 48529 Nordhorn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4116047,
+  "lon": 7.0491524
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Westfalenstr. 13, 48529 Nordhorn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4147608,
+  "lon": 7.0777295
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Laurenzstr. 98, 48607 Ochtrup, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2068102,
+  "lon": 7.2063
+ },
+ {
+  "name": "Ellerkamp",
+  "address": "Münsterstr. 62, 48683 Ahaus, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1216724,
+  "lon": 6.9191449
+ },
+ {
+  "name": "Ellerkamp",
+  "address": "Stadtlohner Str. 5, 48691 Vreden, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.0292777,
+  "lon": 6.8237329
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Stationsweg 2, 48712 Gescher, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.9552671,
+  "lon": 6.9970054
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Höpinger Str. 16-18, 48720 Rosendahl, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.0263843,
+  "lon": 7.2826705
+ },
+ {
+  "name": "EDEKA-Kutsche",
+  "address": "Krahnstr. 24-26, 49074 Osnabrück, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.2759778,
+  "lon": 8.0432864
+ },
+ {
+  "name": "EDEKA-Kutsche",
+  "address": "Lotter Str. 58-61, 49078 Osnabrück, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.2742909,
+  "lon": 8.0242666
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Hannoversche Str. 57, 49084 Osnabrück, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2615091,
+  "lon": 8.0747151
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Bramscher Str. 159, 49088 Osnabrück, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2918392,
+  "lon": 8.0371958
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Pagenstecherstr. 142, 49090 Osnabrück, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2950793,
+  "lon": 8.0168212
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Klöcknerstr. 27, 49124 Georgsmarienhütte, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2038172,
+  "lon": 8.0477041
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Zum Eistruper Feld 1, 49143 Bissendorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2382062,
+  "lon": 8.1629471
+ },
+ {
+  "name": "REWE",
+  "address": "Bielefelderstr. 35-37, 49176 Hilter am Teutoburger Wald, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.1275037,
+  "lon": 8.1538233
+ },
+ {
+  "name": "famila",
+  "address": "Falkenrotter Str. 161-163, 49377 Vechta, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.731316,
+  "lon": 8.2604134
+ },
+ {
+  "name": "EDEKA-Runnebom",
+  "address": "Brägeler Str. 57, 49393 Lohne (Oldenburg), Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 52.6693294,
+  "lon": 8.259347
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Gravenhorster Str. 126, 49477 Ibbenbüren, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.274066,
+  "lon": 7.6805991
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Werthmühlenstr. 49, 49477 Ibbenbüren, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.2681873,
+  "lon": 7.7153774
+ },
+ {
+  "name": "REWE",
+  "address": "Wielandstr. 24, 49525 Lengerich, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 52.1876099,
+  "lon": 7.850438
+ },
+ {
+  "name": "Ellerkamp Die Getränkekönner",
+  "address": "Kattenvenner Str. 15, 49549 Ladbergen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.1342683,
+  "lon": 7.7449186
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Engterstr. 26-28, 49565 Bramsche, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4016846,
+  "lon": 7.9900701
+ },
+ {
+  "name": "FRESH & COOL Getränkefachmarkt",
+  "address": "Hagenbecker Str. 12, 49584 Fürstenau, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4937265,
+  "lon": 7.6991226
+ },
+ {
+  "name": "famila",
+  "address": "Oldenburger Str. 1, 49610 Quakenbrück, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.6803205,
+  "lon": 7.9536895
+ },
+ {
+  "name": "GetränkePartner Tasko KG",
+  "address": "Hauptstr. 69, 49681 Garrel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.9527152,
+  "lon": 8.0271462
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Fürstenbergstr. 52, 49716 Meppen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.6800139,
+  "lon": 7.3015208
+ },
+ {
+  "name": "GetränkePartner Renje",
+  "address": "Schützenhof 5, 49716 Meppen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.7012018,
+  "lon": 7.2903251
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Brinkerweg 1, 49733 Haren (Ems), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.7914094,
+  "lon": 7.2304252
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Osterstr. 46, 49740 Haselünne, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.675656,
+  "lon": 7.4912706
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Meppener Str. 8, 49744 Geeste, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.5910481,
+  "lon": 7.2319172
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Sögeler Str. 28, 49757 Werlte, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.8487166,
+  "lon": 7.6627482
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Marktstr. 7, 49762 Lathen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.8611656,
+  "lon": 7.3158078
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Schwarzer Weg 157, 49767 Twist, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.6454987,
+  "lon": 7.0872061
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Meppener Str. 127, 49808 Lingen (Ems), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.5337289,
+  "lon": 7.3042568
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Mühlenstr. 41, 49824 Emlichheim, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.6142377,
+  "lon": 6.8532769
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Achterort 2, 49835 Wietmarschen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.4871724,
+  "lon": 7.2276211
+ },
+ {
+  "name": "Getränke Star",
+  "address": "Mühlenstr. 20, 49838 Lengerich, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.5539285,
+  "lon": 7.5275219
+ },
+ {
+  "name": "Raifeisen-Grenzland-Mitte eG",
+  "address": "Hauptstr. 1, 49849 Wilsum, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 52.5428714,
+  "lon": 6.8455872
+ },
+ {
+  "name": "LHV-Strecke",
+  "address": "An der Münze 12-18, 50668 Köln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9519992,
+  "lon": 6.9659082
+ },
+ {
+  "name": "LHV-Strecke",
+  "address": "An der Münze 12-18, 50668 Köln, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9519992,
+  "lon": 6.9659082
+ },
+ {
+  "name": "REWE",
+  "address": "Nohlstr. 24-26, 50733 Köln, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.9592103,
+  "lon": 6.9463974
+ },
+ {
+  "name": "REWE City",
+  "address": "Neusser Str. 206-208, 50733 Köln, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.961391,
+  "lon": 6.9546216
+ },
+ {
+  "name": "REWE",
+  "address": "Rhöndorfer Str. 17, 50939 Köln, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.9145958,
+  "lon": 6.9346529
+ },
+ {
+  "name": "REWE",
+  "address": "Im Weidenbruch 136, 51061 Köln, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.9814468,
+  "lon": 7.0358665
+ },
+ {
+  "name": "REWE Scherf",
+  "address": "Stammheimer Ring 86-88, 51061 Köln, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.9893744,
+  "lon": 6.9991343
+ },
+ {
+  "name": "Tack Getränke",
+  "address": "Bergische Landstr. 73, 51503 Rösrath, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.9261027,
+  "lon": 7.1970074
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Altenberger-Dom-Str. 18-20, 51519 Odenthal, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.0259008,
+  "lon": 7.0966138
+ },
+ {
+  "name": "REWE",
+  "address": "Kapuzinergraben 19f, 52062 Aachen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.7713866,
+  "lon": 6.085877
+ },
+ {
+  "name": "REWE City",
+  "address": "Markt 29-31, 52062 Aachen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.7765923,
+  "lon": 6.082909
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Krugenofen 62-70, 52066 Aachen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.7633149,
+  "lon": 6.0879016
+ },
+ {
+  "name": "REWE",
+  "address": "Schleidener Str. 159, 52076 Aachen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.7051614,
+  "lon": 6.182207
+ },
+ {
+  "name": "REWE",
+  "address": "Aachener Str. 58, 52146 Würselen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.8201652,
+  "lon": 6.1239834
+ },
+ {
+  "name": "REWE",
+  "address": "Teichstr. 22, 52372 Kreuzau, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.745312,
+  "lon": 6.4872817
+ },
+ {
+  "name": "REWE",
+  "address": "Am Eisernen Kreuz 1, 52385 Nideggen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.695698,
+  "lon": 6.4881258
+ },
+ {
+  "name": "nahkauf",
+  "address": "Monschauer Str. 16-18, 52385 Nideggen, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.6578095,
+  "lon": 6.4023725
+ },
+ {
+  "name": "REWE",
+  "address": "Goltsteinstr. 72, 52459 Inden, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.8469082,
+  "lon": 6.3616496
+ },
+ {
+  "name": "REWE",
+  "address": "Boos-Fremery-Str. 69, 52525 Heinsberg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.0560304,
+  "lon": 6.1414674
+ },
+ {
+  "name": "REWE",
+  "address": "Bahnhofstr. 7b, 52538 Gangelt, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 51.0053882,
+  "lon": 6.0510042
+ },
+ {
+  "name": "REWE",
+  "address": "Friedensplatz 1-3, 53111 Bonn, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.7359709,
+  "lon": 7.0972327
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Galileistr. 208, 53177 Bonn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.6734994,
+  "lon": 7.1744057
+ },
+ {
+  "name": "REWE",
+  "address": "Am Michaelshof 2, 53177 Bonn, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.6830287,
+  "lon": 7.1538413
+ },
+ {
+  "name": "REWE Center",
+  "address": "An der alten Molkerei 3, 53359 Rheinbach, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.6280366,
+  "lon": 6.9422201
+ },
+ {
+  "name": "REWE",
+  "address": "Rathausstr. 34, 53474 Bad Neuenahr-Ahrweiler, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.5469854,
+  "lon": 7.1343867
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Kripper Str. 12, 53489 Sinzig, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5545981,
+  "lon": 7.2459494
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "An den Märkten 3-5, 53506 Ahrbrück, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.4924592,
+  "lon": 6.9803311
+ },
+ {
+  "name": "REWE",
+  "address": "Im Broel 1, 53518 Adenau, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.3788447,
+  "lon": 6.9462063
+ },
+ {
+  "name": "REWE",
+  "address": "Auf dem Otenbruch 2, 53567 Buchholz (Westerwald), Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.6869277,
+  "lon": 7.3953325
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Domblick 63, 53639 Königswinter, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.7020019,
+  "lon": 7.244349
+ },
+ {
+  "name": "Getränke W. Theisen GmbH",
+  "address": "Siegstr. 2B, 53757 Sankt Augustin, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.79359,
+  "lon": 7.1666709
+ },
+ {
+  "name": "nahkauf",
+  "address": "Burgstr. 4, 53757 Sankt Augustin, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.789893,
+  "lon": 7.1648315
+ },
+ {
+  "name": "REWE",
+  "address": "Schulstr. 5, 53757 Sankt Augustin, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.7722405,
+  "lon": 7.2121799
+ },
+ {
+  "name": "Getränke Express Hennef",
+  "address": "Wippenhohner Str. 4, 53773 Hennef, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.7705862,
+  "lon": 7.2942104
+ },
+ {
+  "name": "REWE",
+  "address": "Porzer Str. 73, 53859 Niederkassel, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.8295713,
+  "lon": 7.0306333
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Provinzialstr. 62, 53859 Niederkassel, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.7761309,
+  "lon": 7.0755503
+ },
+ {
+  "name": "REWE",
+  "address": "Marienau 3, 53894 Mechernich, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.5933296,
+  "lon": 6.6428464
+ },
+ {
+  "name": "REWE",
+  "address": "Kölner Str. 136, 53894 Mechernich, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.6186126,
+  "lon": 6.65671
+ },
+ {
+  "name": "REWE",
+  "address": "Bonner Str. 45, 53919 Weilerswist, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.7518124,
+  "lon": 6.8472242
+ },
+ {
+  "name": "REWE",
+  "address": "Bahnhofstr. 31, 53925 Kall, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.5367423,
+  "lon": 6.555401
+ },
+ {
+  "name": "REWE",
+  "address": "Am Mürel 9, 53945 Blankenheim, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.4500871,
+  "lon": 6.6630637
+ },
+ {
+  "name": "REWE",
+  "address": "Wasserweg 2, 54292 Trier, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.7650882,
+  "lon": 6.6553319
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "An der Ehranger Mühle 12, 54293 Trier, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.8090414,
+  "lon": 6.683097
+ },
+ {
+  "name": "Getränke Star GmbH",
+  "address": "Eisenbahnstr. 29, 54294 Trier, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.7379837,
+  "lon": 6.6136467
+ },
+ {
+  "name": "Getränkecenter Kessler",
+  "address": "Zum Römersprudel 11, 54294 Trier, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.7236549,
+  "lon": 6.6288599
+ },
+ {
+  "name": "Happy Getränkemarkt",
+  "address": "Konzerbrück 27, 54329 Konz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.695414,
+  "lon": 6.5664576
+ },
+ {
+  "name": "Happy Getränkemarkt",
+  "address": "In den Schlimmfuhren 1, 54338 Schweich, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.8200569,
+  "lon": 6.7441142
+ },
+ {
+  "name": "Happy Getränkemarkt",
+  "address": "Trierer Str. 26, 54340 Longuich, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.8088028,
+  "lon": 6.7635766
+ },
+ {
+  "name": "REWE",
+  "address": "Am Leukbach 2, 54439 Saarburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.6029144,
+  "lon": 6.5422398
+ },
+ {
+  "name": "REWE",
+  "address": "Hamsterweg 5, 54550 Daun, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.1917143,
+  "lon": 6.8038576
+ },
+ {
+  "name": "Getränke Gieretz",
+  "address": "Dausfelder Höhe 5, 54595 Prüm, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.2144677,
+  "lon": 6.4412527
+ },
+ {
+  "name": "Happy Getränkemarkt",
+  "address": "Südring 45, 54634 Bitburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.9539354,
+  "lon": 6.5280991
+ },
+ {
+  "name": "Lacher's Getränkewelt",
+  "address": "Industriestr. 2, 54634 Bitburg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.03609,
+  "lon": 6.5981492
+ },
+ {
+  "name": "REWE",
+  "address": "Mötscher Str. 45a, 54634 Bitburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.9675245,
+  "lon": 6.5248053
+ },
+ {
+  "name": "REWE",
+  "address": "Saarstr. 46a, 54634 Bitburg, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.9596873,
+  "lon": 6.5228758
+ },
+ {
+  "name": "Getränke Stumpf GmbH & Co.KG",
+  "address": "Max-Planck-Str. 1, 55218 Ingelheim am Rhein, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.982881,
+  "lon": 8.0539121
+ },
+ {
+  "name": "Getränkemarkt Stumpf",
+  "address": "Max-Planck-Str. 1, 55218 Ingelheim am Rhein, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.982881,
+  "lon": 8.0539121
+ },
+ {
+  "name": "WASGAU Frischemarkt",
+  "address": "Oppenheimer Str. 40, 55268 Nieder-Olm, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.9044744,
+  "lon": 8.2019402
+ },
+ {
+  "name": "REWE",
+  "address": "Im Tuchscheren 9, 55430 Oberwesel, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.1004573,
+  "lon": 7.7385391
+ },
+ {
+  "name": "REWE XL",
+  "address": "Vollmersbachstr. 63, 55743 Idar-Oberstein, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.7240107,
+  "lon": 7.3185338
+ },
+ {
+  "name": "Happy Getränkemarkt",
+  "address": "Brückener Str. 2a, 55765 Birkenfeld, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.6478964,
+  "lon": 7.1607996
+ },
+ {
+  "name": "WASGAU Frischemarkt",
+  "address": "Wasserschiederstr. 42, 55765 Birkenfeld, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.6522638,
+  "lon": 7.175216
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Planstr. 15-17, 56072 Koblenz, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.3474443,
+  "lon": 7.547638
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Arzbacher Str. 65-69, 56130 Bad Ems, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.3607282,
+  "lon": 7.726218
+ },
+ {
+  "name": "REWE",
+  "address": "Säuerlingstr. 20, 56154 Boppard, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.2308651,
+  "lon": 7.5865737
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Rudolf-Diesel-Str. 5, 56203 Höhr-Grenzhausen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.4403106,
+  "lon": 7.6728382
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Industriestr. 24, 56218 Mülheim-Kärlich, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.3954399,
+  "lon": 7.5277295
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Königsberger Str., 56269 Dierdorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.5469468,
+  "lon": 7.6399191
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Nastätter Str. 69, 56346 St. Goarshausen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.1603308,
+  "lon": 7.7227275
+ },
+ {
+  "name": "REWE",
+  "address": "Moselstr. 6, 56410 Montabaur, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.4075335,
+  "lon": 7.8383779
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Robert-Bosch-Str. 40, 56743 Mendig, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.3664286,
+  "lon": 7.2939169
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Bahnhofstr. 98, 56745 Weibern, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.4120132,
+  "lon": 7.1519228
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Ritter-Heinrich-Str. 10, 56766 Ulmen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.2145223,
+  "lon": 6.9730266
+ },
+ {
+  "name": "DGS Getränkemarkt",
+  "address": "Zum Kehr 5, 56826 Lutzerath, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.1224323,
+  "lon": 7.0051952
+ },
+ {
+  "name": "trinkkauf Getränkemarkt",
+  "address": "Asdorfer Str. 55, 57258 Freudenberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.8895125,
+  "lon": 7.8744084
+ },
+ {
+  "name": "Getränke Verse",
+  "address": "Bielefelder Str. 118b, 57368 Lennestadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1494348,
+  "lon": 8.0388777
+ },
+ {
+  "name": "Getränke Star GmbH",
+  "address": "Bilsteinerstr. 10, 57462 Olpe, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.0354386,
+  "lon": 7.8570306
+ },
+ {
+  "name": "GetränkeWelt",
+  "address": "Hagener Str. 211-215, 58285 Gevelsberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3266905,
+  "lon": 7.3567525
+ },
+ {
+  "name": "Getränkeparadies Gefromm",
+  "address": "Friedhofstr. 1-3, 58642 Iserlohn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3647384,
+  "lon": 7.599005
+ },
+ {
+  "name": "Trinkkauf",
+  "address": "Hauptstr. 80, 58675 Hemer, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.378482,
+  "lon": 7.765386
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Altenaer Str. 57, 58769 Nachrodt-Wiblingwerde, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.3311907,
+  "lon": 7.6522729
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Grünstr. 84, 59063 Hamm, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6689897,
+  "lon": 7.8188334
+ },
+ {
+  "name": "Getränke Hofmann",
+  "address": "Beckumer Str. 61, 59229 Ahlen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7645799,
+  "lon": 7.9063557
+ },
+ {
+  "name": "Getränkeparadies Gefromm",
+  "address": "An den 12 Bäumen 1, 59368 Werne, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6549717,
+  "lon": 7.6269543
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Alte Zechenbahn 17, 59379 Selm, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.6851308,
+  "lon": 7.4705334
+ },
+ {
+  "name": "Getränke Paradies Gefromm",
+  "address": "Münsterstr. 27, 59387 Ascheberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7447402,
+  "lon": 7.6623338
+ },
+ {
+  "name": "Getränke Paradies Kampschulte",
+  "address": "Hansastr. 16, 59425 Unna, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.5411444,
+  "lon": 7.6848165
+ },
+ {
+  "name": "Getränkeparadies",
+  "address": "Sommerweg 30, 59556 Lippstadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.7080923,
+  "lon": 8.3460771
+ },
+ {
+  "name": "Getränke Oase",
+  "address": "Im Ohl 14a, 59757 Arnsberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.4603681,
+  "lon": 7.9522258
+ },
+ {
+  "name": "Getränke Star GmbH",
+  "address": "Heidelberger Str. 39, 64285 Darmstadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.8635024,
+  "lon": 8.6470113
+ },
+ {
+  "name": "Getränkemarkt Maruhn",
+  "address": "Pfungstädterstr. 174, 64297 Darmstadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.8144274,
+  "lon": 8.6248254
+ },
+ {
+  "name": "Getränkemarkt Wolf",
+  "address": "Bonner Str. 61, 65428 Rüsselsheim, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.0044861,
+  "lon": 8.430722
+ },
+ {
+  "name": "REWE-Center",
+  "address": "Am Backsteinbrand 6, 65582 Diez, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.3715294,
+  "lon": 8.0319081
+ },
+ {
+  "name": "REWE",
+  "address": "Kreisstraße 76-82, 66127 Saarbrücken, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.2274902,
+  "lon": 6.9014256
+ },
+ {
+  "name": "REWE",
+  "address": "Kaiserstr. 43e, 66133 Saarbrücken, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.2424508,
+  "lon": 7.0573748
+ },
+ {
+  "name": "REWE",
+  "address": "Am Bahnhof 1, 66265 Heusweiler, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.3350808,
+  "lon": 6.9296466
+ },
+ {
+  "name": "Globus Baumarkt",
+  "address": "Zechenstr. 8, 66333 Völklingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.2481017,
+  "lon": 6.8713848
+ },
+ {
+  "name": "REWE",
+  "address": "Am Burgplatz 14, 66346 Püttlingen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.2857412,
+  "lon": 6.8848513
+ },
+ {
+  "name": "REWE",
+  "address": "Saarbrücker Str. 197, 66359 Bous, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.2830332,
+  "lon": 6.7857356
+ },
+ {
+  "name": "WASGAU Frischemarkt",
+  "address": "Bezirksstr. 43, 66440 Blieskastel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.2433781,
+  "lon": 7.1979178
+ },
+ {
+  "name": "REWE",
+  "address": "Mantes-la-Ville-Platz 8, 66538 Neunkirchen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.3379244,
+  "lon": 7.1819088
+ },
+ {
+  "name": "REWE",
+  "address": "Braugasse 2, 66557 Illingen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.3762,
+  "lon": 7.0498921
+ },
+ {
+  "name": "WASGAU Frischemarkt",
+  "address": "Am Güterbahnhof 34, 66571 Eppelborn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.4097436,
+  "lon": 6.9706554
+ },
+ {
+  "name": "REWE",
+  "address": "Auf Pfuhlst 1, 66589 Merchweiler, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.3473044,
+  "lon": 7.0480957
+ },
+ {
+  "name": "Happy Getränkemarkt",
+  "address": "Linxweilerstr. 25, 66606 St Wendel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.46111,
+  "lon": 7.1586294
+ },
+ {
+  "name": "REWE",
+  "address": "Provinzialstr. 63, 66663 Merzig, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.4680862,
+  "lon": 6.6798765
+ },
+ {
+  "name": "Getränkecenter Kessler",
+  "address": "Saarbrücker Str. 201, 66679 Losheim am See, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.5031993,
+  "lon": 6.7576632
+ },
+ {
+  "name": "Getränkecenter Kessler",
+  "address": "Zur Keltensiedlung 4, 66693 Mettlach, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.5137691,
+  "lon": 6.5304426
+ },
+ {
+  "name": "Kessler Getränkefachmarkt",
+  "address": "Nenniger Str. 5, 66706 Perl, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.5166219,
+  "lon": 6.3753626
+ },
+ {
+  "name": "WASGAU Frischemarkt",
+  "address": "Saarbrücker Str. 91e, 66740 Saarlouis, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.3217195,
+  "lon": 6.7751532
+ },
+ {
+  "name": "Schneider's Getränkewelt",
+  "address": "Wallerfanger Str. 37, 66740 Saarlouis, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.3168876,
+  "lon": 6.7358426
+ },
+ {
+  "name": "REWE - Getränkemarkt",
+  "address": "Wendelstr. 81, 66787 Wadgassen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.2610031,
+  "lon": 6.7985616
+ },
+ {
+  "name": "Getränkecenter Kessler",
+  "address": "Unten am Mühlenweg 5, 66806 Ensdorf, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.2917069,
+  "lon": 6.7785751
+ },
+ {
+  "name": "WASGAU Frischemarkt",
+  "address": "Industriestr. 29, 66869 Kusel, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.5423351,
+  "lon": 7.4260924
+ },
+ {
+  "name": "WASGAU Frischemarkt",
+  "address": "Mackenbacher Str. 7, 66877 Ramstein-Miesenbach, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.465306,
+  "lon": 7.5561939
+ },
+ {
+  "name": "REWE",
+  "address": "Kaiserstr. 86, 66892 Bruchmühlbach-Miesau, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.3872241,
+  "lon": 7.4590134
+ },
+ {
+  "name": "WASGAU Frischemarkt",
+  "address": "Sander Str. 24, 66901 Schönenberg-Kübelberg, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.4105537,
+  "lon": 7.3791327
+ },
+ {
+  "name": "CAP-Markt",
+  "address": "Wiesenweg 28, 66987 Thaleischweiler-Fröschen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.260338,
+  "lon": 7.5801721
+ },
+ {
+  "name": "Wolf Getränkevertrieb GmbH",
+  "address": "Röntgenstr. 7, 67240 Bobenheim-Roxheim, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.5726111,
+  "lon": 8.366393
+ },
+ {
+  "name": "Wolf Getränkevertrieb GmbH",
+  "address": "In den Breitwiesen 6, 67251 Freinsheim, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.5092769,
+  "lon": 8.2197998
+ },
+ {
+  "name": "Wolf Getränkemarkt",
+  "address": "Maria-Münster-Str. 1, 67547 Worms, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.6217833,
+  "lon": 8.3591205
+ },
+ {
+  "name": "REWE",
+  "address": "Kaiserslauterer Str. 5a, 67806 Rockenhausen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.6263621,
+  "lon": 7.8176989
+ },
+ {
+  "name": "H&S Getränke von hier",
+  "address": "Heidelberger Str. 106/1, 68766 Hockenheim, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.3218506,
+  "lon": 8.5543645
+ },
+ {
+  "name": "REWE",
+  "address": "Ulmer Str. 296, 70327 Stuttgart, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 48.774654,
+  "lon": 9.2386443
+ },
+ {
+  "name": "Getränkemarkt Keck",
+  "address": "Korntaler Landstr. 92, 70499 Stuttgart, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.8231875,
+  "lon": 9.112405
+ },
+ {
+  "name": "Getränke Center Schweizer GmbH",
+  "address": "Mörikestr. 51, 70794 Filderstadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.6589502,
+  "lon": 9.2015653
+ },
+ {
+  "name": "BENZ Wein- und Getränkemarkt",
+  "address": "Solitudeallee 127, 70806 Kornwestheim, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.8768674,
+  "lon": 9.176846
+ },
+ {
+  "name": "REWE",
+  "address": "Hauptstr. 83, 71570 Oppenweiler, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 48.9870986,
+  "lon": 9.460731
+ },
+ {
+  "name": "Getränkemarkt Lochmann",
+  "address": "Rielingshäuser Str. 21-23, 71672 Marbach am Neckar, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.9430423,
+  "lon": 9.2678666
+ },
+ {
+  "name": "REWE",
+  "address": "Bahnhofplatz 1, 72160 Horb am Neckar, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 48.4422134,
+  "lon": 8.6909956
+ },
+ {
+  "name": "Streb-Getränkecenter",
+  "address": "Hahnerstr. 8, 72160 Horb am Neckar, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.4563039,
+  "lon": 8.6994292
+ },
+ {
+  "name": "Streb-Getränkecenter",
+  "address": "Planckstr. 8, 72250 Freudenstadt, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.4650583,
+  "lon": 8.4392799
+ },
+ {
+  "name": "REWE",
+  "address": "Ritterstr. 5, 73728 Esslingen am Neckar, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 48.7411264,
+  "lon": 9.3086071
+ },
+ {
+  "name": "Getränkezentrum Heilbronn Ost",
+  "address": "Weinsberger Str. 50, 74076 Heilbronn, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.1457058,
+  "lon": 9.2306645
+ },
+ {
+  "name": "REWE",
+  "address": "Gartenstr. 38, 74405 Gaildorf, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 48.9972422,
+  "lon": 9.7705794
+ },
+ {
+  "name": "Getränkemarkt Saftladen",
+  "address": "Ludwigstr. 17, 74532 Ilshofen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.1686667,
+  "lon": 9.9249299
+ },
+ {
+  "name": "Getränkemarkt Schwanzer",
+  "address": "Im Buchhorn 14, 74545 Michelfeld, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.099829,
+  "lon": 9.6951907
+ },
+ {
+  "name": "REWE",
+  "address": "Schrozberger Str. 5, 74572 Blaufelden, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.3007193,
+  "lon": 9.975129
+ },
+ {
+  "name": "REWE",
+  "address": "Austr. 5, 74613 Öhringen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.2052371,
+  "lon": 9.4880816
+ },
+ {
+  "name": "REWE",
+  "address": "Burgwiesenstr. 3-5, 74626 Bretzfeld, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.1748363,
+  "lon": 9.4248196
+ },
+ {
+  "name": "GEFAKO Markt",
+  "address": "Eisenbahnstr. 14, 75031 Eppingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.13846,
+  "lon": 8.9198259
+ },
+ {
+  "name": "GEFAKO Markt",
+  "address": "Benzstr. 1, 76448 Durmersheim, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.9416456,
+  "lon": 8.2544439
+ },
+ {
+  "name": "Streb-Getränkecenter",
+  "address": "Schnabel-Henning-Str. 32, 76646 Bruchsal, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.1212005,
+  "lon": 8.580331
+ },
+ {
+  "name": "GP GetränkePartner Stepper",
+  "address": "Industriestr. 8A, 76689 Karlsdorf-Neuthard, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.1408952,
+  "lon": 8.5519046
+ },
+ {
+  "name": "Streb-Getränkecenter",
+  "address": "Hainbachstr. 79, 76829 Landau in der Pfalz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 49.2084284,
+  "lon": 8.1238965
+ },
+ {
+  "name": "Streb-Getränkecenter",
+  "address": "Appenweierer Str. 80, 77704 Oberkirch, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.5369967,
+  "lon": 8.0602363
+ },
+ {
+  "name": "Streb-Getränkecenter",
+  "address": "Robert-Bosch-Str. 12b, 77815 Bühl, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.6883831,
+  "lon": 8.1149247
+ },
+ {
+  "name": "bilgro Getränke Insel",
+  "address": "Obere Wiesen 7, 78549 Spaichingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.0683371,
+  "lon": 8.7508127
+ },
+ {
+  "name": "Getränkemarkt Stadelbauer",
+  "address": "Robert-Bosch-Str. 13, 79211 Denzlingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.0734753,
+  "lon": 7.8811986
+ },
+ {
+  "name": "Getränkemarkt Fusco GmbH",
+  "address": "Kiesweg 6, 79576 Weil am Rhein, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 47.6207169,
+  "lon": 7.61087
+ },
+ {
+  "name": "GEFAKO Markt",
+  "address": "Badstr. 31, 79761 Waldshut-Tiengen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 47.6291077,
+  "lon": 8.26135
+ },
+ {
+  "name": "GFGH Wagner",
+  "address": "Badstr. 31, 79761 Waldshut-Tiengen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 47.6291077,
+  "lon": 8.26135
+ },
+ {
+  "name": "Alpenquelle Getränkemarkt",
+  "address": "Colmarer Str. 46, 87700 Memmingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 47.9932014,
+  "lon": 10.1816916
+ },
+ {
+  "name": "Schuhmann-Zell GbR",
+  "address": "Ladestr. 7, 88131 Lindau (Bodensee), Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 47.551909,
+  "lon": 9.7001691
+ },
+ {
+  "name": "Getränkemarkt u.",
+  "address": "Wilhelm-Maybach-Str. 2, 89150 Laichingen, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 48.4934569,
+  "lon": 9.7101261
+ },
+ {
+  "name": "REWE",
+  "address": "Tauberstr. 8, 97922 Lauda-Königshofen, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 49.5658176,
+  "lon": 9.7106566
+ },
+ {
+  "name": "EDEKA-Günther",
+  "address": "Lyonel-Feininger-Str. 22, 99425 Weimar, Deutschland",
+  "category": "edeka",
+  "color": "#FFCC00",
+  "lat": 50.9627137,
+  "lon": 11.3227459
+ },
+ {
+  "name": "Markgrafen Getränkemarkt",
+  "address": "Lessingstr. 5, 99610 Sömmerda, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 51.1645272,
+  "lon": 11.1287879
+ },
+ {
+  "name": "REWE",
+  "address": "Europakreuzung 1a, 99867 Gotha, Deutschland",
+  "category": "rewe",
+  "color": "#CC071E",
+  "lat": 50.9411278,
+  "lon": 10.7154516
+ },
+ {
+  "name": "Markgrafen Getränkemarkt",
+  "address": "Burgstallstr. 45-47, 99897 Tambach-Dietharz, Deutschland",
+  "category": "getraenke",
+  "color": "#1A73E8",
+  "lat": 50.7911595,
+  "lon": 10.6118796
+ }
+]

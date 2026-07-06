@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="de" class="lang-de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FiRo — Bölkstoff-Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <style>
+    #map{width:100%;height:68vh;min-height:420px;border-radius:20px;border:1px solid var(--hair);box-shadow:0 22px 50px -30px rgba(27,22,20,.35);}
+    .legend{display:flex;flex-wrap:wrap;gap:10px 22px;margin:20px 0 26px;}
+    .legend button{display:flex;align-items:center;gap:9px;font-family:var(--body);font-weight:600;font-size:14px;background:var(--surface);border:1px solid var(--hair);border-radius:999px;padding:8px 16px;cursor:pointer;color:var(--ink);transition:opacity .15s,transform .15s;}
+    .legend button:hover{transform:translateY(-1px);}
+    .legend button.off{opacity:.4;}
+    .legend .sw{width:12px;height:12px;border-radius:50%;flex:none;}
+    .leaflet-popup-content{font-family:var(--body);font-size:14px;}
+    .leaflet-popup-content b{font-family:var(--display);}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+
+    <header class="bar">
+      <div style="display:flex;align-items:center;gap:16px;">
+        <a class="brandmark" href="index.html"><span class="dot"></span>FiRo</a>
+        <div class="lang-toggle">
+          <button class="lang-btn active" data-lang="de">DE</button>
+          <span class="lang-sep">|</span>
+          <button class="lang-btn" data-lang="en">EN</button>
+        </div>
+      </div>
+      <nav class="nav">
+        <a href="index.html"><span class="t-de">← Alle Projekte</span><span class="t-en">← All Projects</span></a>
+      </nav>
+    </header>
+
+    <section style="padding:50px 0 8px;max-width:880px;">
+      <p class="kicker" style="margin-bottom:24px;"><span class="t-de">Bölkstoff-Finder · Karte</span><span class="t-en">Bölkstoff Finder · Map</span></p>
+      <h1 class="display" style="font-size:52px;"><span class="t-de">Wo gibt's <span class="grad-text">Nachschub</span>?</span><span class="t-en">Where's the next <span class="grad-text">supply run</span>?</span></h1>
+      <p style="font-size:18px;color:var(--ink-soft);max-width:60ch;margin-top:18px;">
+        <span class="t-de">Alle Standorte aus dem Bölkstoff-Finder-Datensatz, eingefärbt nach Kette: REWE in Rot, EDEKA (inkl. E-center &amp; nahkauf) in Gelb, Getränkehändler und alle übrigen Märkte in Blau.</span>
+        <span class="t-en">All locations from the Bölkstoff Finder dataset, colour-coded by chain: REWE in red, EDEKA (incl. E-center &amp; nahkauf) in yellow, drink stores and everything else in blue.</span>
+      </p>
+    </section>
+
+    <div class="legend">
+      <button data-cat="rewe"><span class="sw" style="background:#CC071E;"></span>REWE</button>
+      <button data-cat="edeka"><span class="sw" style="background:#FFCC00;"></span>EDEKA</button>
+      <button data-cat="getraenke"><span class="sw" style="background:#1A73E8;"></span><span class="t-de">Getränke &amp; Sonstige</span><span class="t-en">Drinks &amp; other</span></button>
+    </div>
+
+    <div id="map"></div>
+    <p id="map-status" class="kicker" style="margin:14px 0 60px;"></p>
+
+    <footer class="foot">
+      <span>© 2026 FiRo</span>
+      <span class="foot-links">
+        <a href="impressum.html">Impressum</a>
+        <a href="datenschutz.html"><span class="t-de">Datenschutz</span><span class="t-en">Privacy</span></a>
+      </span>
+    </footer>
+
+  </div>
+  <script src="assets/lang.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="assets/boelkstoff-map.js"></script>
+</body>
+</html>
