@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Guess Who — Kartenwerkstatt</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0;}
+    :root{
+      --bg:#FBF7F4; --surface:#FFFFFF; --ink:#1B1614; --ink-soft:#6E635C; --ink-faint:#A89E97;
+      --hair:rgba(27,22,20,.10); --hair-soft:rgba(27,22,20,.06);
+      --t1:#FF3D7F; --t2:#FF9F40;
+      --brand:linear-gradient(115deg,var(--t1) 0%,var(--t2) 100%);
+      --display:"Space Grotesk",system-ui,sans-serif;
+      --body:"Hanken Grotesk",system-ui,sans-serif;
+      --mono:"JetBrains Mono",ui-monospace,monospace;
+    }
+    body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased;}
+    .wrap{width:100%;max-width:1180px;margin:0 auto;padding:0 40px 60px;}
+
+    header.bar{display:flex;align-items:flex-start;justify-content:space-between;gap:24px;padding:34px 0 10px;flex-wrap:wrap;}
+    .brandmark{display:flex;align-items:center;gap:11px;font-family:var(--display);font-weight:700;font-size:22px;letter-spacing:-.02em;color:var(--ink);text-decoration:none;}
+    .brandmark .dot{width:18px;height:18px;border-radius:6px;background:var(--brand);}
+    .kicker{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);}
+    h1{font-family:var(--display);font-weight:600;letter-spacing:-.025em;font-size:38px;line-height:1.05;margin-top:6px;}
+
+    /* Kartenmaß oben rechts */
+    .size-box{background:var(--surface);border:1px solid var(--hair);border-radius:16px;padding:14px 18px;display:flex;flex-direction:column;gap:8px;min-width:230px;}
+    .size-box .lab{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);}
+    .size-row{display:flex;align-items:center;gap:8px;}
+    .size-row input{width:64px;padding:8px 10px;border:1px solid var(--hair);border-radius:10px;font-family:var(--mono);font-size:14px;color:var(--ink);background:var(--bg);text-align:center;}
+    .size-row input:focus{outline:2px solid var(--t1);outline-offset:0;border-color:transparent;}
+    .size-row .x{color:var(--ink-faint);font-family:var(--mono);}
+    .size-row .unit{font-family:var(--mono);font-size:12px;color:var(--ink-soft);}
+    .size-box select{padding:8px 10px;border:1px solid var(--hair);border-radius:10px;font-family:var(--body);font-size:14px;background:var(--bg);color:var(--ink);}
+
+    .hint{color:var(--ink-soft);max-width:62ch;margin:10px 0 34px;}
+
+    /* Raster */
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px;}
+    .tile{background:var(--surface);border:1px solid var(--hair);border-radius:16px;padding:10px;display:flex;flex-direction:column;gap:8px;transition:box-shadow .15s,transform .15s;}
+    .tile:hover{box-shadow:0 14px 30px -18px rgba(27,22,20,.35);}
+    .tile input.name{width:100%;padding:8px 10px;border:1px solid var(--hair);border-radius:10px;font-family:var(--body);font-weight:600;font-size:14px;color:var(--ink);background:var(--bg);text-align:center;}
+    .tile input.name::placeholder{color:var(--ink-faint);font-weight:400;}
+    .tile input.name:focus{outline:2px solid var(--t1);outline-offset:0;border-color:transparent;}
+    .drop{position:relative;aspect-ratio:3/4;border-radius:12px;border:2px dashed var(--hair);background:var(--bg);display:grid;place-items:center;cursor:pointer;overflow:hidden;transition:border-color .15s,background .15s;}
+    .drop:hover,.drop.over{border-color:var(--t1);background:#FFF3EC;}
+    .drop .ph{text-align:center;color:var(--ink-faint);font-size:12px;font-family:var(--mono);letter-spacing:.06em;padding:0 8px;}
+    .drop .ph .plus{display:block;font-size:26px;line-height:1;margin-bottom:6px;color:var(--ink-faint);}
+    .drop img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+    .drop .rm{position:absolute;top:6px;right:6px;width:26px;height:26px;border-radius:999px;border:none;background:rgba(27,22,20,.65);color:#fff;font-size:14px;line-height:1;cursor:pointer;display:none;place-items:center;}
+    .drop.filled .rm{display:grid;}
+    .drop.filled .ph{display:none;}
+    .tile .idx{font-family:var(--mono);font-size:11px;color:var(--ink-faint);text-align:center;}
+
+    /* Export */
+    .exportbar{margin-top:40px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;border-top:1px solid var(--hair);padding-top:26px;}
+    .exportbar .info{color:var(--ink-soft);font-size:14px;}
+    .btn-export{font-family:var(--body);font-weight:600;font-size:16px;border:none;border-radius:999px;padding:15px 28px;color:#fff;background:var(--brand);cursor:pointer;display:inline-flex;align-items:center;gap:10px;box-shadow:0 12px 30px -12px rgba(255,90,80,.6);transition:transform .15s,box-shadow .15s;}
+    .btn-export:hover{transform:translateY(-2px);box-shadow:0 18px 38px -14px rgba(255,90,80,.7);}
+    .btn-export:disabled{opacity:.5;cursor:not-allowed;transform:none;}
+
+    @media (max-width:640px){
+      .wrap{padding:0 20px 50px;}
+      header.bar{flex-direction:column;}
+      .size-box{width:100%;}
+      h1{font-size:30px;}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+
+    <header class="bar">
+      <div>
+        <a class="brandmark" href="#"><span class="dot"></span>FiRo</a>
+        <p class="kicker" style="margin-top:22px;">Wer bin ich · Kartenwerkstatt</p>
+        <h1>Guess Who — eigene Karten</h1>
+      </div>
+      <div class="size-box">
+        <span class="lab">Kartenmaß</span>
+        <select id="preset">
+          <option value="40x56" selected>Klassisch — 40 × 56 mm</option>
+          <option value="30x42">Klein — 30 × 42 mm</option>
+          <option value="50x70">Groß — 50 × 70 mm</option>
+          <option value="custom">Eigenes Maß …</option>
+        </select>
+        <div class="size-row">
+          <input type="number" id="cardW" value="40" min="20" max="180" step="1"> <span class="x">×</span>
+          <input type="number" id="cardH" value="56" min="20" max="270" step="1"> <span class="unit">mm (B × H)</span>
+        </div>
+      </div>
+    </header>
+
+    <p class="hint">Lade bis zu 24 Bilder hoch (klicken oder Bild aufs Feld ziehen) und gib jeder Person einen Namen. Unten bekommst du ein fertiges PDF, auf dem alle Karten im gewählten Maß nebeneinander zum Ausschneiden angeordnet sind. Alles passiert lokal im Browser — es wird nichts hochgeladen.</p>
+
+    <div class="grid" id="grid"></div>
+
+    <div class="exportbar">
+      <span class="info" id="count">0 von 24 Karten befüllt</span>
+      <button class="btn-export" id="exportBtn">PDF exportieren ↓</button>
+    </div>
+
+  </div>
+
+  <script>
+    const TOTAL = 24;
+    const grid = document.getElementById('grid');
+    const cards = []; // {name, img:HTMLImageElement|null}
+
+    for (let i = 0; i < TOTAL; i++) {
+      const card = { name: '', img: null };
+      cards.push(card);
+
+      const tile = document.createElement('div');
+      tile.className = 'tile';
+      tile.innerHTML = `
+        <input class="name" type="text" maxlength="24" placeholder="Name">
+        <div class="drop" tabindex="0">
+          <span class="ph"><span class="plus">+</span>Bild wählen<br>oder ablegen</span>
+          <button class="rm" title="Bild entfernen" type="button">✕</button>
+        </div>
+        <span class="idx">${String(i + 1).padStart(2, '0')}</span>`;
+      grid.appendChild(tile);
+
+      const nameInput = tile.querySelector('.name');
+      const drop = tile.querySelector('.drop');
+      const rm = tile.querySelector('.rm');
+      const fileInput = document.createElement('input');
+      fileInput.type = 'file';
+      fileInput.accept = 'image/*';
+
+      nameInput.addEventListener('input', () => { card.name = nameInput.value.trim(); updateCount(); });
+
+      function setImage(file) {
+        if (!file || !file.type.startsWith('image/')) return;
+        const reader = new FileReader();
+        reader.onload = e => {
+          const img = new Image();
+          img.onload = () => {
+            card.img = img;
+            let preview = drop.querySelector('img');
+            if (!preview) { preview = document.createElement('img'); drop.prepend(preview); }
+            preview.src = img.src;
+            drop.classList.add('filled');
+            updateCount();
+          };
+          img.src = e.target.result;
+        };
+        reader.readAsDataURL(file);
+      }
+
+      drop.addEventListener('click', e => { if (e.target !== rm) fileInput.click(); });
+      fileInput.addEventListener('change', () => { setImage(fileInput.files[0]); fileInput.value = ''; });
+      drop.addEventListener('dragover', e => { e.preventDefault(); drop.classList.add('over'); });
+      drop.addEventListener('dragleave', () => drop.classList.remove('over'));
+      drop.addEventListener('drop', e => {
+        e.preventDefault(); drop.classList.remove('over');
+        setImage(e.dataTransfer.files[0]);
+      });
+      rm.addEventListener('click', e => {
+        e.stopPropagation();
+        card.img = null;
+        const preview = drop.querySelector('img');
+        if (preview) preview.remove();
+        drop.classList.remove('filled');
+        updateCount();
+      });
+    }
+
+    function updateCount() {
+      const n = cards.filter(c => c.img || c.name).length;
+      document.getElementById('count').textContent = `${n} von ${TOTAL} Karten befüllt`;
+    }
+
+    // Kartenmaß
+    const preset = document.getElementById('preset');
+    const cardW = document.getElementById('cardW');
+    const cardH = document.getElementById('cardH');
+    preset.addEventListener('change', () => {
+      if (preset.value === 'custom') return;
+      const [w, h] = preset.value.split('x').map(Number);
+      cardW.value = w; cardH.value = h;
+    });
+    [cardW, cardH].forEach(inp => inp.addEventListener('input', () => { preset.value = 'custom'; }));
+
+    // Eine Karte als Canvas rendern (Name oben, Bild darunter)
+    function renderCard(card, wMM, hMM) {
+      const SCALE = 12; // px pro mm ≈ 305 dpi
+      const W = Math.round(wMM * SCALE), H = Math.round(hMM * SCALE);
+      const nameH = Math.round(Math.min(Math.max(hMM * 0.16, 6), 12) * SCALE);
+      const cv = document.createElement('canvas');
+      cv.width = W; cv.height = H;
+      const ctx = cv.getContext('2d');
+
+      ctx.fillStyle = '#FFFFFF';
+      ctx.fillRect(0, 0, W, H);
+
+      // Namensband oben
+      ctx.fillStyle = '#1B1614';
+      ctx.fillRect(0, 0, W, nameH);
+      if (card.name) {
+        ctx.fillStyle = '#FFFFFF';
+        let fs = nameH * 0.52;
+        ctx.font = `600 ${fs}px "Space Grotesk", sans-serif`;
+        while (ctx.measureText(card.name).width > W * 0.9 && fs > 8) {
+          fs -= 1;
+          ctx.font = `600 ${fs}px "Space Grotesk", sans-serif`;
+        }
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText(card.name, W / 2, nameH / 2 + fs * 0.05);
+      }
+
+      // Bild darunter, formatfüllend beschnitten
+      const areaY = nameH, areaH = H - nameH;
+      if (card.img) {
+        const img = card.img;
+        const scale = Math.max(W / img.width, areaH / img.height);
+        const sw = W / scale, sh = areaH / scale;
+        const sx = (img.width - sw) / 2, sy = (img.height - sh) / 2;
+        ctx.drawImage(img, sx, sy, sw, sh, 0, areaY, W, areaH);
+      } else {
+        ctx.fillStyle = '#F1EAE5';
+        ctx.fillRect(0, areaY, W, areaH);
+      }
+
+      // Schnittrahmen
+      ctx.strokeStyle = '#B9B0A9';
+      ctx.lineWidth = Math.max(2, SCALE * 0.2);
+      ctx.strokeRect(ctx.lineWidth / 2, ctx.lineWidth / 2, W - ctx.lineWidth, H - ctx.lineWidth);
+
+      return cv;
+    }
+
+    // PDF-Export
+    document.getElementById('exportBtn').addEventListener('click', async () => {
+      const filled = cards.filter(c => c.img || c.name);
+      if (filled.length === 0) { alert('Befülle zuerst mindestens eine Karte (Bild oder Name).'); return; }
+
+      const wMM = parseFloat(cardW.value), hMM = parseFloat(cardH.value);
+      if (!wMM || !hMM || wMM < 20 || hMM < 20) { alert('Bitte ein gültiges Kartenmaß angeben (mind. 20 mm).'); return; }
+
+      const PAGE_W = 210, PAGE_H = 297, MARGIN = 10;
+      const cols = Math.floor((PAGE_W - 2 * MARGIN) / wMM);
+      const rows = Math.floor((PAGE_H - 2 * MARGIN) / hMM);
+      if (cols < 1 || rows < 1) { alert('Das Kartenmaß ist zu groß für eine A4-Seite.'); return; }
+
+      const btn = document.getElementById('exportBtn');
+      btn.disabled = true; btn.textContent = 'Erstelle PDF …';
+      await new Promise(r => setTimeout(r, 30)); // UI aktualisieren lassen
+
+      try {
+        const { jsPDF } = window.jspdf;
+        const pdf = new jsPDF({ unit: 'mm', format: 'a4' });
+        const perPage = cols * rows;
+        // Block zentrieren
+        const offX = (PAGE_W - cols * wMM) / 2;
+        const offY = (PAGE_H - rows * hMM) / 2;
+
+        filled.forEach((card, i) => {
+          const pos = i % perPage;
+          if (i > 0 && pos === 0) pdf.addPage();
+          const col = pos % cols, row = Math.floor(pos / cols);
+          const cv = renderCard(card, wMM, hMM);
+          pdf.addImage(cv.toDataURL('image/jpeg', 0.92), 'JPEG', offX + col * wMM, offY + row * hMM, wMM, hMM);
+        });
+
+        pdf.save('guess-who-karten.pdf');
+      } catch (err) {
+        alert('PDF-Export fehlgeschlagen: ' + err.message);
+      } finally {
+        btn.disabled = false; btn.textContent = 'PDF exportieren ↓';
+      }
+    });
+  </script>
+</body>
+</html>
