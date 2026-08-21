@@ -203,10 +203,10 @@
       ctx.fillRect(0, 0, W, H);
 
       // Namensband oben
-      ctx.fillStyle = '#1B1614';
+      ctx.fillStyle = '#FFFFFF';
       ctx.fillRect(0, 0, W, nameH);
       if (card.name) {
-        ctx.fillStyle = '#FFFFFF';
+        ctx.fillStyle = '#000000';
         let fs = nameH * 0.52;
         ctx.font = `600 ${fs}px "Space Grotesk", sans-serif`;
         while (ctx.measureText(card.name).width > W * 0.9 && fs > 8) {
