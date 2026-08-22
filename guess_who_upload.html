@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Guess Who — Bild einreichen</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0;}
+    :root{
+      --bg:#FBF7F4; --surface:#FFFFFF; --ink:#1B1614; --ink-soft:#6E635C; --ink-faint:#A89E97;
+      --hair:rgba(27,22,20,.10);
+      --t1:#FF3D7F; --t2:#FF9F40;
+      --brand:linear-gradient(115deg,var(--t1) 0%,var(--t2) 100%);
+      --display:"Space Grotesk",system-ui,sans-serif;
+      --body:"Hanken Grotesk",system-ui,sans-serif;
+      --mono:"JetBrains Mono",ui-monospace,monospace;
+    }
+    body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased;}
+    .wrap{width:100%;max-width:640px;margin:0 auto;padding:0 24px 60px;}
+
+    header.bar{padding:34px 0 10px;}
+    .brandmark{display:flex;align-items:center;gap:11px;font-family:var(--display);font-weight:700;font-size:22px;letter-spacing:-.02em;color:var(--ink);text-decoration:none;}
+    .brandmark .dot{width:18px;height:18px;border-radius:6px;background:var(--brand);}
+    .kicker{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);margin-top:22px;}
+    h1{font-family:var(--display);font-weight:600;letter-spacing:-.025em;font-size:32px;line-height:1.05;margin-top:6px;}
+    .hint{color:var(--ink-soft);margin:10px 0 30px;}
+
+    .card{background:var(--surface);border:1px solid var(--hair);border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:18px;}
+    label.lab{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);display:block;margin-bottom:8px;}
+    input.name{width:100%;padding:12px 14px;border:1px solid var(--hair);border-radius:12px;font-family:var(--body);font-weight:600;font-size:17px;color:var(--ink);background:var(--bg);}
+    input.name::placeholder{color:var(--ink-faint);font-weight:400;}
+    input.name:focus{outline:2px solid var(--t1);outline-offset:0;border-color:transparent;}
+
+    .drop{position:relative;aspect-ratio:3/4;max-width:260px;margin:0 auto;width:100%;border-radius:14px;border:2px dashed var(--hair);background:var(--bg);display:grid;place-items:center;cursor:pointer;overflow:hidden;transition:border-color .15s,background .15s;}
+    .drop:hover,.drop.over{border-color:var(--t1);background:#FFF3EC;}
+    .drop .ph{text-align:center;color:var(--ink-faint);font-size:12px;font-family:var(--mono);letter-spacing:.06em;padding:0 12px;}
+    .drop .ph .plus{display:block;font-size:30px;line-height:1;margin-bottom:8px;}
+    .drop img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+    .drop.filled .ph{display:none;}
+
+    .btn{font-family:var(--body);font-weight:600;font-size:16px;border:none;border-radius:999px;padding:15px 28px;color:#fff;background:var(--brand);cursor:pointer;box-shadow:0 12px 30px -12px rgba(255,90,80,.6);transition:transform .15s;}
+    .btn:hover{transform:translateY(-2px);}
+    .btn:disabled{opacity:.5;cursor:not-allowed;transform:none;}
+
+    .status{font-size:14px;color:var(--ink-soft);min-height:20px;text-align:center;}
+    .status.ok{color:#1B7F4D;font-weight:600;}
+    .status.err{color:#C0392B;font-weight:600;}
+
+    .nokey{background:#FFF3EC;border:1px solid rgba(255,61,127,.25);border-radius:14px;padding:16px 18px;color:var(--ink-soft);font-size:14px;}
+
+    h2{font-family:var(--display);font-weight:600;font-size:20px;letter-spacing:-.02em;margin:40px 0 14px;}
+    .gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(100px,1fr));gap:12px;}
+    .gallery figure{background:var(--surface);border:1px solid var(--hair);border-radius:12px;padding:6px;display:flex;flex-direction:column;gap:5px;}
+    .gallery img{width:100%;aspect-ratio:3/4;object-fit:cover;border-radius:8px;background:var(--bg);}
+    .gallery figcaption{font-size:12px;font-weight:600;text-align:center;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+    .gallery-empty{color:var(--ink-faint);font-size:14px;}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+
+    <header class="bar">
+      <a class="brandmark" href="#"><span class="dot"></span>FiRo</a>
+      <p class="kicker">Wer bin ich · Mitmachen</p>
+      <h1>Reich dein Bild ein</h1>
+    </header>
+
+    <p class="hint">Such ein Foto aus, schreib den Namen dazu, der auf der Spielkarte stehen soll, und schick es ab. Das Bild landet direkt in der Kartensammlung.</p>
+
+    <div class="nokey" id="nokey" hidden>
+      Dieser Link ist unvollständig — der Upload-Schlüssel fehlt. Bitte benutze genau den Link, den du geschickt bekommen hast.
+    </div>
+
+    <div class="card" id="form">
+      <div>
+        <label class="lab" for="personName">Name auf der Karte</label>
+        <input class="name" id="personName" type="text" maxlength="24" placeholder="z.&thinsp;B. Anna" autocomplete="off">
+      </div>
+      <div>
+        <label class="lab">Foto</label>
+        <div class="drop" id="drop" tabindex="0">
+          <span class="ph"><span class="plus">+</span>Foto wählen<br>oder hierher ziehen</span>
+        </div>
+      </div>
+      <button class="btn" id="sendBtn">Bild hochladen ↑</button>
+      <p class="status" id="status"></p>
+    </div>
+
+    <h2>Schon eingereicht</h2>
+    <div class="gallery" id="gallery"><span class="gallery-empty">Lade …</span></div>
+
+  </div>
+
+  <script>
+    const OWNER = 'frothaut';
+    const REPO  = 'frothaut.github.io';
+    const FOLDER = 'assets/guess-who';
+    const API_BASE = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${FOLDER}`;
+
+    // Upload-Schlüssel aus dem Link (#k=...), gemerkt für die Sitzung
+    let token = '';
+    const m = location.hash.match(/[#&]k=([^&]+)/);
+    if (m) { token = decodeURIComponent(m[1]); try { sessionStorage.setItem('gw_key', token); } catch (e) {} }
+    else { try { token = sessionStorage.getItem('gw_key') || ''; } catch (e) {} }
+    if (!token) {
+      document.getElementById('nokey').hidden = false;
+      document.getElementById('sendBtn').disabled = true;
+    }
+
+    // ---- Bildauswahl mit Verkleinerung (max. 1200 px, JPEG) ----
+    const drop = document.getElementById('drop');
+    const fileInput = document.createElement('input');
+    fileInput.type = 'file';
+    fileInput.accept = 'image/*';
+    let imageBlob = null;
+
+    function setImage(file) {
+      if (!file || !file.type.startsWith('image/')) return;
+      const url = URL.createObjectURL(file);
+      const img = new Image();
+      img.onload = () => {
+        const MAX = 1200;
+        const scale = Math.min(1, MAX / Math.max(img.width, img.height));
+        const cv = document.createElement('canvas');
+        cv.width = Math.round(img.width * scale);
+        cv.height = Math.round(img.height * scale);
+        cv.getContext('2d').drawImage(img, 0, 0, cv.width, cv.height);
+        cv.toBlob(blob => {
+          imageBlob = blob;
+          let preview = drop.querySelector('img');
+          if (!preview) { preview = document.createElement('img'); drop.prepend(preview); }
+          preview.src = cv.toDataURL('image/jpeg', 0.85);
+          drop.classList.add('filled');
+          URL.revokeObjectURL(url);
+        }, 'image/jpeg', 0.85);
+      };
+      img.onerror = () => {
+        URL.revokeObjectURL(url);
+        showStatus('Dieses Bildformat kann dein Browser leider nicht lesen (z. B. HEIC). Bitte als JPG/PNG versuchen.', 'err');
+      };
+      img.src = url;
+    }
+
+    drop.addEventListener('click', () => fileInput.click());
+    fileInput.addEventListener('change', () => { setImage(fileInput.files[0]); fileInput.value = ''; });
+    drop.addEventListener('dragover', e => { e.preventDefault(); drop.classList.add('over'); });
+    drop.addEventListener('dragleave', () => drop.classList.remove('over'));
+    drop.addEventListener('drop', e => { e.preventDefault(); drop.classList.remove('over'); setImage(e.dataTransfer.files[0]); });
+
+    function showStatus(msg, cls) {
+      const s = document.getElementById('status');
+      s.textContent = msg;
+      s.className = 'status' + (cls ? ' ' + cls : '');
+    }
+
+    // ---- Upload via GitHub Contents API ----
+    function safeName(name) {
+      return name.trim()
+        .replace(/[^\p{L}\p{N} \-]/gu, '')
+        .replace(/\s+/g, '_')
+        .slice(0, 40) || 'Unbenannt';
+    }
+
+    async function blobToBase64(blob) {
+      const dataUrl = await new Promise((res, rej) => {
+        const r = new FileReader();
+        r.onload = () => res(r.result);
+        r.onerror = rej;
+        r.readAsDataURL(blob);
+      });
+      return dataUrl.split(',')[1];
+    }
+
+    document.getElementById('sendBtn').addEventListener('click', async () => {
+      const name = document.getElementById('personName').value.trim();
+      if (!name) { showStatus('Bitte gib einen Namen ein.', 'err'); return; }
+      if (!imageBlob) { showStatus('Bitte wähle zuerst ein Foto aus.', 'err'); return; }
+
+      const btn = document.getElementById('sendBtn');
+      btn.disabled = true;
+      showStatus('Lade hoch …');
+
+      try {
+        const filename = `${safeName(name)}__${Date.now()}.jpg`;
+        const res = await fetch(`${API_BASE}/${encodeURIComponent(filename)}`, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `Bearer ${token}`,
+            'Accept': 'application/vnd.github+json'
+          },
+          body: JSON.stringify({
+            message: `guess who: ${name}`,
+            content: await blobToBase64(imageBlob)
+          })
+        });
+        if (!res.ok) {
+          const body = await res.json().catch(() => ({}));
+          throw new Error(body.message || `HTTP ${res.status}`);
+        }
+        showStatus(`Danke! „${name}“ ist eingereicht.`, 'ok');
+        document.getElementById('personName').value = '';
+        imageBlob = null;
+        const preview = drop.querySelector('img');
+        if (preview) preview.remove();
+        drop.classList.remove('filled');
+        loadGallery();
+      } catch (err) {
+        showStatus('Upload fehlgeschlagen: ' + err.message, 'err');
+      } finally {
+        btn.disabled = false;
+      }
+    });
+
+    // ---- Galerie (öffentlich lesbar, kein Schlüssel nötig) ----
+    function displayName(filename) {
+      return filename.replace(/\.[a-z]+$/i, '').split('__')[0].replace(/_/g, ' ');
+    }
+
+    async function loadGallery() {
+      const g = document.getElementById('gallery');
+      try {
+        const res = await fetch(API_BASE + '?t=' + Date.now(), { headers: { 'Accept': 'application/vnd.github+json' } });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const files = (await res.json()).filter(f => f.type === 'file' && /\.(jpe?g|png|webp)$/i.test(f.name));
+        if (files.length === 0) { g.innerHTML = '<span class="gallery-empty">Noch keine Bilder — sei die erste Person!</span>'; return; }
+        g.innerHTML = '';
+        files.forEach(f => {
+          const fig = document.createElement('figure');
+          const img = document.createElement('img');
+          img.loading = 'lazy';
+          img.src = f.download_url;
+          const cap = document.createElement('figcaption');
+          cap.textContent = displayName(f.name);
+          fig.append(img, cap);
+          g.appendChild(fig);
+        });
+      } catch (err) {
+        g.innerHTML = '<span class="gallery-empty">Galerie konnte nicht geladen werden.</span>';
+      }
+    }
+    loadGallery();
+  </script>
+</body>
+</html>
