@@ -117,7 +117,7 @@
       </div>
     </header>
 
-    <p class="hint">Lade bis zu 24 Bilder hoch (klicken oder Bild aufs Feld ziehen) und gib jeder Person einen Namen. Unten bekommst du ein fertiges PDF, auf dem alle Karten im gewählten Maß nebeneinander zum Ausschneiden angeordnet sind. Alles passiert lokal im Browser — es wird nichts hochgeladen.</p>
+    <p class="hint">Lade bis zu 25 Bilder hoch (klicken oder Bild aufs Feld ziehen) und gib jeder Person einen Namen. Unten bekommst du ein fertiges PDF, auf dem alle Karten im gewählten Maß nebeneinander zum Ausschneiden angeordnet sind. Alles passiert lokal im Browser — es wird nichts hochgeladen.</p>
 
     <div class="toolbar">
       <button class="btn-gallery" id="galleryBtn">📥 Aus eingereichten Bildern wählen</button>
@@ -137,14 +137,14 @@
     </div>
 
     <div class="exportbar">
-      <span class="info" id="count">0 von 24 Karten befüllt</span>
+      <span class="info" id="count">0 von 25 Karten befüllt</span>
       <button class="btn-export" id="exportBtn">PDF exportieren ↓</button>
     </div>
 
   </div>
 
   <script>
-    const TOTAL = 24;
+    const TOTAL = 25;
     const grid = document.getElementById('grid');
     const cards = []; // {name, img:HTMLImageElement|null}
     const tiles = []; // Zugriff pro Kachel für die Galerie-Auswahl
@@ -355,7 +355,7 @@
           fig.addEventListener('click', () => {
             if (fig.classList.contains('used')) return;
             const free = tiles.find(t => !t.card.img && !t.card.name) || tiles.find(t => !t.card.img);
-            if (!free) { alert('Alle 24 Karten sind schon belegt.'); return; }
+            if (!free) { alert('Alle 25 Karten sind schon belegt.'); return; }
             const full = new Image();
             full.crossOrigin = 'anonymous'; // raw.githubusercontent erlaubt CORS → Canvas bleibt exportierbar
             full.onload = () => {
