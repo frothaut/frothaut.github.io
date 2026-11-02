@@ -7,14 +7,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/style.css">
-  <link rel="stylesheet" href="assets/home.css">
+  <link rel="stylesheet" href="assets/style.css?v=3">
+  <link rel="stylesheet" href="assets/dark.css?v=3">
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
 </head>
-<body class="home">
+<body class="dark home">
 
-  <!-- Partikelfeld, reagiert auf den Cursor -->
-  <canvas id="field" aria-hidden="true"></canvas>
+  <div class="dots" aria-hidden="true"></div>
+  <div class="dots lit" aria-hidden="true"></div>
 
   <!-- Versteckte Ebene, nur im Lichtkegel des Cursors sichtbar -->
   <div class="secret" aria-hidden="true">
@@ -45,8 +45,8 @@
     </header>
 
     <section class="hero">
-      <p class="kicker scramble"><span class="t-de">FiRo · Unabhängiges App-Studio</span><span class="t-en">FiRo · Independent App Studio</span><span class="caret">_</span></p>
-      <h1 class="display scramble"><span class="t-de">Aus dem Alltag.<br>Fürs <span class="grad-text">Miteinander</span>.</span><span class="t-en">Day to Day life.<br>For you and <span class="grad-text">your friends</span>.</span></h1>
+      <p class="kicker"><span class="t-de">FiRo · Unabhängiges App-Studio</span><span class="t-en">FiRo · Independent App Studio</span><span class="caret">_</span></p>
+      <h1 class="display"><span class="t-de">Aus dem Alltag.<br>Fürs <span class="grad-text">Miteinander</span>.</span><span class="t-en">Day to Day life.<br>For you and <span class="grad-text">your friends</span>.</span></h1>
     </section>
 
     <div class="tiles">
@@ -75,6 +75,6 @@
 
   </div>
   <script src="assets/lang.js"></script>
-  <script src="assets/home.js"></script>
+  <script src="assets/dark.js?v=3"></script>
 </body>
 </html>

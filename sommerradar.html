@@ -7,32 +7,37 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/style.css?v=3">
+  <link rel="stylesheet" href="assets/dark.css?v=3">
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
 </head>
-<body style="--t1:#FF3D7F;--t2:#FF9F40;">
+<body class="dark" style="--t1:#FF3D7F;--t2:#FF9F40;">
 
-  <div class="grad" style="padding-bottom:70px;">
-    <div class="wrap">
-      <header class="bar on-grad">
-        <div style="display:flex;align-items:center;gap:16px;">
-          <a class="brandmark" href="index.html"><span class="dot"></span>FiRo</a>
-          <div class="lang-toggle">
-            <button class="lang-btn active" data-lang="de">DE</button>
-            <span class="lang-sep">|</span>
-            <button class="lang-btn" data-lang="en">EN</button>
-          </div>
+  <div class="dots" aria-hidden="true"></div>
+  <div class="dots lit" aria-hidden="true"></div>
+  <div class="glow" aria-hidden="true"></div>
+
+  <div class="wrap">
+    <header class="bar">
+      <div style="display:flex;align-items:center;gap:16px;">
+        <a class="brandmark" href="index.html"><span class="dot"></span>FiRo</a>
+        <div class="lang-toggle">
+          <button class="lang-btn active" data-lang="de">DE</button>
+          <span class="lang-sep">|</span>
+          <button class="lang-btn" data-lang="en">EN</button>
         </div>
-        <nav class="nav">
-          <a href="index.html"><span class="t-de">← Alle Projekte</span><span class="t-en">← All Projects</span></a>
-        </nav>
-      </header>
-      <div class="hero-split" style="display:flex;gap:54px;align-items:center;padding:54px 0 8px;">
-        <img src="assets/icon-sommerradar.png" style="width:150px;height:150px;border-radius:24%;box-shadow:0 18px 50px -16px rgba(255,90,80,.55);flex:none;">
-        <div>
+      </div>
+      <nav class="nav">
+        <a href="index.html"><span class="t-de">← Alle Projekte</span><span class="t-en">← All Projects</span></a>
+      </nav>
+    </header>
+
+    <section class="p-hero hero-split">
+      <div class="p-icon"><img src="assets/icon-sommerradar.png" alt=""></div>
+      <div>
           <span class="ended-pill"><span class="t-de">Projekt beendet</span><span class="t-en">Project ended</span></span>
-          <h1 class="display" style="color:#fff;font-size:72px;">SommerRadar</h1>
-          <p style="font-size:21px;color:rgba(255,255,255,.9);max-width:40ch;margin:18px 0 30px;"><span class="t-de">Finde heraus, ob ein Café gerade Sonne hat – bevor du losgehst.</span><span class="t-en">Find out if a café has sunlight right now – before you head out.</span></p>
+          <h1 class="display p-title">SommerRadar</h1>
+          <p class="p-sub"><span class="t-de">Finde heraus, ob ein Café gerade Sonne hat – bevor du losgehst.</span><span class="t-en">Find out if a café has sunlight right now – before you head out.</span></p>
           <p class="ended-note"><span class="t-de">SommerRadar ist abgeschlossen und bekommt keine Updates mehr. Im App Store kannst du die App weiterhin laden.</span><span class="t-en">SommerRadar is finished and no longer receives updates. You can still download it from the App Store.</span></p>
           <div style="display:flex;gap:14px;flex-wrap:wrap;">
             <a class="store" href="https://apps.apple.com/de/app/sommerradar/id6760590205">
@@ -40,14 +45,11 @@
               <span class="lab"><small>Download on the</small><b>App&nbsp;Store</b></span>
             </a>
           </div>
-        </div>
       </div>
-    </div>
-  </div>
+    </section>
 
-  <div class="wrap" style="padding-top:70px;">
 
-    <p class="kicker" style="margin-bottom:22px;"><span class="t-de">Was die App macht</span><span class="t-en">What the app does</span></p>
+    <p class="kicker" style="margin:20px 0 22px;"><span class="t-de">Was die App macht</span><span class="t-en">What the app does</span></p>
     <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><linearGradient id="ig" x1="0" y1="0" x2="1" y2="1"><stop offset="0" style="stop-color:var(--t1)"/><stop offset="1" style="stop-color:var(--t2)"/></linearGradient></defs></svg>
     <div class="feat icons">
       <div class="fcard icon" title="Echte Sonne, kein Raten" aria-label="Echte Sonne, kein Raten">
@@ -76,5 +78,6 @@
 
   </div>
   <script src="assets/lang.js"></script>
+  <script src="assets/dark.js?v=3"></script>
 </body>
 </html>

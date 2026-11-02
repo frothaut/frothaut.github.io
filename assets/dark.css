@@ -1,0 +1,137 @@
+/* Dunkles Design für Startseite und Produktseiten */
+
+body.dark{
+  --bg:#0A0807; --surface:#141010; --ink:#F4EEEA; --ink-soft:#9C918A; --ink-faint:#6A605A;
+  --hair:rgba(255,240,230,.12); --hair-soft:rgba(255,240,230,.06);
+  --mx:50vw; --my:30vh;
+  background:var(--bg);
+  min-height:100vh;
+  overflow-x:hidden;
+}
+body.dark .wrap{position:relative;z-index:2;min-height:100vh;display:flex;flex-direction:column;}
+
+/* Punkteraster; nahe am Cursor leuchten die Punkte auf */
+.dots{
+  position:fixed;inset:0;z-index:0;pointer-events:none;
+  background-image:radial-gradient(circle,rgba(255,240,230,.08) 1px,transparent 1.6px);
+  background-size:26px 26px;
+}
+.dots.lit{
+  background-image:radial-gradient(circle,var(--t1) 1.2px,transparent 1.9px);
+  -webkit-mask-image:radial-gradient(240px circle at var(--mx) var(--my),#000,transparent 100%);
+          mask-image:radial-gradient(240px circle at var(--mx) var(--my),#000,transparent 100%);
+  opacity:.7;
+}
+
+/* Weicher Lichtschein am Cursor */
+.glow{
+  position:fixed;inset:0;z-index:1;pointer-events:none;
+  background:radial-gradient(560px circle at var(--mx) var(--my),color-mix(in srgb,var(--t1) 11%,transparent),transparent 70%);
+}
+
+/* Versteckter Text, nur im Lichtkegel lesbar (Startseite) */
+.secret{
+  position:fixed;inset:0;z-index:1;pointer-events:none;user-select:none;color:transparent;
+  -webkit-mask-image:radial-gradient(250px circle at var(--mx) var(--my),#000 0%,rgba(0,0,0,.6) 45%,transparent 100%);
+          mask-image:radial-gradient(250px circle at var(--mx) var(--my),#000 0%,rgba(0,0,0,.6) 45%,transparent 100%);
+}
+.secret span{position:absolute;white-space:nowrap;}
+.secret .s1{
+  font-family:var(--display);font-weight:700;font-size:min(13vw,190px);letter-spacing:-.05em;line-height:.9;
+  -webkit-text-stroke:1px rgba(255,159,64,.75);left:-2vw;bottom:6vh;
+}
+.secret .s2,.secret .s3,.secret .s5{font-family:var(--mono);font-size:13px;letter-spacing:.2em;color:rgba(255,190,150,.7);}
+.secret .s2{top:16vh;right:8vw;}
+.secret .s3{top:46vh;left:6vw;}
+.secret .s5{top:30vh;left:44vw;}
+.secret .s4{
+  font-family:var(--display);font-weight:600;font-size:min(7vw,96px);letter-spacing:-.03em;
+  -webkit-text-stroke:1px rgba(255,61,127,.8);top:22vh;right:4vw;
+}
+
+/* Startseite: Hero */
+.hero{padding:9vh 0 7vh;max-width:900px;}
+.hero .kicker{margin-bottom:26px;}
+.caret{display:inline-block;margin-left:4px;color:var(--t1);animation:blink 1s steps(1) infinite;}
+@keyframes blink{50%{opacity:0;}}
+body.home .display{font-size:clamp(52px,8.4vw,112px);}
+
+/* Startseite: Icon-Kacheln */
+.tiles{display:flex;flex-wrap:wrap;gap:44px;padding:10px 0 90px;perspective:900px;}
+.tile{
+  position:relative;display:block;width:150px;height:150px;border-radius:24%;
+  text-decoration:none;color:var(--ink);
+  transform:rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg));
+  transition:transform .5s cubic-bezier(.2,.8,.2,1);
+}
+.tile.hot{transition:transform .1s linear;}
+.tile img{width:100%;height:100%;border-radius:24%;display:block;position:relative;z-index:1;transition:filter .4s;}
+.tile::before{
+  content:"";position:absolute;inset:8%;border-radius:30%;z-index:0;
+  background:linear-gradient(120deg,var(--c1),var(--c2));
+  filter:blur(28px);opacity:.2;transition:opacity .35s,transform .35s;
+}
+.tile:hover::before{opacity:.7;transform:scale(1.2);}
+.tile .cap{
+  position:absolute;left:0;right:0;top:calc(100% + 16px);text-align:center;
+  font-family:var(--mono);font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft);
+  opacity:0;transform:translateY(-6px);transition:opacity .25s,transform .25s;
+}
+.tile:hover .cap,.tile:focus-visible .cap{opacity:1;transform:none;}
+.tile .badge{
+  position:absolute;z-index:3;top:-9px;right:-12px;
+  font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;
+  padding:4px 8px;border-radius:999px;background:#1B1614;color:var(--ink-soft);border:1px solid var(--hair);
+}
+.tile.archived img{filter:grayscale(.9) brightness(.55) contrast(1.1);}
+.tile.archived:hover img{filter:none;}
+.tile.locked{
+  border:1px dashed rgba(255,240,230,.22);background:rgba(255,240,230,.02);
+  display:grid;place-items:center;cursor:not-allowed;
+}
+.tile.locked .q{position:relative;z-index:1;font-family:var(--display);font-weight:700;font-size:64px;color:var(--ink-faint);transition:color .3s;}
+.tile.locked:hover .q{color:var(--ink);}
+
+/* Produktseiten: Hero */
+.p-hero{display:flex;gap:54px;align-items:center;padding:70px 0 80px;}
+.p-icon{position:relative;flex:none;width:150px;height:150px;}
+.p-icon::before{
+  content:"";position:absolute;inset:6%;border-radius:30%;
+  background:linear-gradient(120deg,var(--t1),var(--t2));filter:blur(40px);opacity:.55;
+}
+.p-icon img{position:relative;width:100%;height:100%;border-radius:24%;display:block;}
+.p-title{font-size:clamp(52px,7vw,84px);}
+.p-sub{font-size:21px;color:var(--ink-soft);max-width:40ch;margin:18px 0 30px;}
+
+body.dark .store{background:rgba(255,240,230,.05);border-color:var(--hair);color:var(--ink);}
+body.dark .store:hover{background:rgba(255,240,230,.1);}
+body.dark .store .ico{background:linear-gradient(120deg,var(--t1),var(--t2));}
+body.dark .ended-pill{color:var(--ink);background:color-mix(in srgb,var(--t1) 18%,transparent);border-color:color-mix(in srgb,var(--t1) 50%,transparent);}
+body.dark .ended-note{color:var(--ink-soft);border-left-color:var(--t1);}
+
+body.dark .fcard{background:rgba(255,240,230,.03);border-color:var(--hair);transition:transform .2s,border-color .2s,background .2s;}
+body.dark .fcard:hover{border-color:color-mix(in srgb,var(--t1) 45%,transparent);background:rgba(255,240,230,.05);box-shadow:none;}
+body.dark .phone{background:#16110F;border-color:var(--hair);box-shadow:0 30px 60px -30px rgba(0,0,0,.8);}
+
+body.dark .foot{margin-top:auto;}
+body.dark .foot a:hover{color:var(--ink);}
+
+@media (hover:none){
+  .tile .cap{opacity:1;transform:none;}
+  .tile.archived img{filter:grayscale(.6) brightness(.7);}
+  .dots.lit,.glow,.secret{display:none;}
+}
+
+@media (max-width:760px){
+  .tiles{gap:34px 22px;}
+  .tile{width:92px;height:92px;}
+  .tile.locked .q{font-size:44px;}
+  .secret .s5,.secret .s3{display:none;}
+  .p-hero{padding:40px 0 50px;}
+  .p-icon{width:110px;height:110px;}
+}
+
+@media (prefers-reduced-motion:reduce){
+  .caret{animation:none;}
+  .tile{transition:none;}
+}
