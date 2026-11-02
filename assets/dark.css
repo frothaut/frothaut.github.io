@@ -139,3 +139,39 @@ body.dark .foot a:hover{color:var(--ink);}
 /* Rechtstexte */
 body.dark .imp-block strong{color:var(--ink)!important;}
 body.dark .imp-block a{color:var(--ink);text-decoration-color:var(--t1);}
+
+/* Startseite: Titel zeichnet sich wie eine Neonröhre */
+@property --fill{syntax:'<number>';inherits:true;initial-value:1;}
+@property --glow{syntax:'<number>';inherits:true;initial-value:0;}
+
+.neon{
+  color:color-mix(in srgb,var(--ink) calc(var(--fill) * 100%),transparent);
+  -webkit-text-stroke:1.2px color-mix(in srgb,var(--t1) calc((1 - var(--fill)) * 100%),transparent);
+  filter:drop-shadow(0 0 calc(var(--glow) * 10px) color-mix(in srgb,var(--t1) calc(var(--glow) * 80%),transparent));
+  -webkit-mask-image:linear-gradient(90deg,#000 45%,transparent 55%);
+          mask-image:linear-gradient(90deg,#000 45%,transparent 55%);
+  -webkit-mask-size:220% 100%;mask-size:220% 100%;
+  animation:neon-draw 2.2s cubic-bezier(.45,0,.25,1) both,
+            neon-flicker .6s 2.2s steps(1) both,
+            neon-fill 1.4s 2.8s ease both;
+}
+.neon .grad-text{
+  background:linear-gradient(115deg,
+    color-mix(in srgb,var(--t1) calc(var(--fill) * 100%),transparent),
+    color-mix(in srgb,var(--t2) calc(var(--fill) * 100%),transparent));
+  -webkit-background-clip:text;background-clip:text;
+}
+@keyframes neon-draw{
+  from{-webkit-mask-position:100% 0;mask-position:100% 0;--fill:0;--glow:1;}
+  to{-webkit-mask-position:0 0;mask-position:0 0;--fill:0;--glow:1;}
+}
+@keyframes neon-flicker{
+  0%{opacity:1;} 15%{opacity:.35;} 30%{opacity:1;} 45%{opacity:.6;} 60%,100%{opacity:1;}
+}
+@keyframes neon-fill{
+  from{--fill:0;--glow:1;}
+  to{--fill:1;--glow:.2;}
+}
+@media (prefers-reduced-motion:reduce){
+  .neon{animation:none;--fill:1;--glow:.2;-webkit-mask-image:none;mask-image:none;}
+}
