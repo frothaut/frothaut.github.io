@@ -1,7 +1,7 @@
 /* Dunkles Design für Startseite und Produktseiten */
 
 body.dark{
-  --bg:#0A0807; --surface:#141010; --ink:#F4EEEA; --ink-soft:#9C918A; --ink-faint:#6A605A;
+  --bg:#0A0807; --surface:#141010; --ink:#F4EEEA; --ink-soft:#9C918A; --ink-faint:#837871;
   --hair:rgba(255,240,230,.12); --hair-soft:rgba(255,240,230,.06);
   --mx:50vw; --my:30vh;
   background:var(--bg);
@@ -135,3 +135,7 @@ body.dark .foot a:hover{color:var(--ink);}
   .caret{animation:none;}
   .tile{transition:none;}
 }
+
+/* Rechtstexte */
+body.dark .imp-block strong{color:var(--ink)!important;}
+body.dark .imp-block a{color:var(--ink);text-decoration-color:var(--t1);}
