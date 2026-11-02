@@ -8,9 +8,25 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/home.css">
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
 </head>
-<body>
+<body class="home">
+
+  <!-- Partikelfeld, reagiert auf den Cursor -->
+  <canvas id="field" aria-hidden="true"></canvas>
+
+  <!-- Versteckte Ebene, nur im Lichtkegel des Cursors sichtbar -->
+  <div class="secret" aria-hidden="true">
+    <span class="s1"><span class="t-de">Was kommt als Nächstes?</span><span class="t-en">What comes next?</span></span>
+    <span class="s2">SIGNAL ▮▮▮▯▯</span>
+    <span class="s3">[ ████████ ]</span>
+    <span class="s4"><span class="t-de">Noch nicht.</span><span class="t-en">Not yet.</span></span>
+    <span class="s5">0x46 0x69 0x52 0x6F</span>
+  </div>
+
+  <div class="glow" aria-hidden="true"></div>
+
   <div class="wrap">
 
     <header class="bar">
@@ -28,61 +44,25 @@
       </nav>
     </header>
 
-    <section style="padding:70px 0 50px;max-width:880px;">
-      <p class="kicker" style="margin-bottom:24px;"><span class="t-de">FiRo · Unabhängiges App-Studio</span><span class="t-en">FiRo · Independent App Studio</span></p>
-      <h1 class="display"><span class="t-de">Aus dem Alltag.<br>Fürs <span class="grad-text">Miteinander</span>.</span><span class="t-en">Day to Day life.<br>For you and <span class="grad-text">your friends</span>.</span></h1>
-      <p style="font-size:21px;color:var(--ink-soft);max-width:50ch;margin-top:26px;"><span class="t-de">Wir gestalten und entwickeln Apps für dich und deine Freunde.</span><span class="t-en">We design and build apps for you and your friends.</span></p>
+    <section class="hero">
+      <p class="kicker scramble"><span class="t-de">FiRo · Unabhängiges App-Studio</span><span class="t-en">FiRo · Independent App Studio</span><span class="caret">_</span></p>
+      <h1 class="display scramble"><span class="t-de">Aus dem Alltag.<br>Fürs <span class="grad-text">Miteinander</span>.</span><span class="t-en">Day to Day life.<br>For you and <span class="grad-text">your friends</span>.</span></h1>
     </section>
 
-    <div id="work" style="margin-bottom:16px;">
-      <p class="kicker"><span class="t-de">Ausgewählte Projekte</span><span class="t-en">Selected Projects</span></p>
-    </div>
-
-    <div class="rows">
-      <a class="row" href="sommerradar.html" style="background:linear-gradient(110deg,#FF3D7F,#FF9F40);">
-        <img src="assets/icon-sommerradar.png" style="width:64px;height:64px;border-radius:24%;flex:none;">
-        <span class="meta">
-          <h3>SommerRadar</h3>
-          <p><span class="t-de">Finde heraus, ob ein Café gerade Sonne hat – bevor du losgehst.</span><span class="t-en">Find out if a café has sunlight right now – before you head out.</span></p>
-        </span>
-        <span class="end">
-          <span class="tag">iOS · Lifestyle</span>
-          <span class="arrow">↗</span>
-        </span>
+    <div class="tiles">
+      <a class="tile archived" href="sommerradar.html" aria-label="SommerRadar" style="--c1:#FF3D7F;--c2:#FF9F40;">
+        <img src="assets/icon-sommerradar.png" alt="">
+        <span class="badge"><span class="t-de">Archiv</span><span class="t-en">Archive</span></span>
+        <span class="cap">SommerRadar</span>
       </a>
-      <a class="row" href="betterthan.html" style="background:linear-gradient(110deg,#FF2D6F,#FF5E3A);">
-        <img src="assets/icon-soro.png" style="width:64px;height:64px;border-radius:24%;flex:none;">
-        <span class="meta">
-          <h3>SORO</h3>
-          <p><span class="t-de">Fordere deine Freunde bei allem heraus und pusht euch gegenseitig bis ans Limit.</span><span class="t-en">Challenge your friends at everything and push each other to the limit.</span></p>
-        </span>
-        <span class="end">
-          <span class="tag">iOS · Social</span>
-          <span class="arrow">↗</span>
-        </span>
+      <a class="tile" href="betterthan.html" aria-label="SORO" style="--c1:#FF2D6F;--c2:#FF5E3A;">
+        <img src="assets/icon-soro.png" alt="">
+        <span class="cap">SORO</span>
       </a>
-      <a class="row" href="platzhalter1.html" style="background:linear-gradient(110deg,#FF5E8A,#FF8A5C);display:none;">
-        <span class="ricon">P</span>
-        <span class="meta">
-          <h3>Platzhalter</h3>
-          <p>A calm, single-screen timer that keeps your focus blocks honest.</p>
-        </span>
-        <span class="end">
-          <span class="tag">iOS · Utility</span>
-          <span class="arrow">↗</span>
-        </span>
-      </a>
-      <a class="row" href="platzhalter2.html" style="background:linear-gradient(110deg,#FF8A3D,#FFB24D);display:none;">
-        <span class="ricon">P</span>
-        <span class="meta">
-          <h3>Platzhalter</h3>
-          <p>Snap a meal, get the recipe back — cooking notes that write themselves.</p>
-        </span>
-        <span class="end">
-          <span class="tag">iOS · Food</span>
-          <span class="arrow">↗</span>
-        </span>
-      </a>
+      <div class="tile locked" aria-label="?" style="--c1:#7a6cff;--c2:#ff3d7f;">
+        <span class="q">?</span>
+        <span class="cap">???</span>
+      </div>
     </div>
 
     <footer class="foot">
@@ -95,5 +75,6 @@
 
   </div>
   <script src="assets/lang.js"></script>
+  <script src="assets/home.js"></script>
 </body>
 </html>

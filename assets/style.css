@@ -115,3 +115,15 @@ h1,h2,h3{font-family:var(--display);font-weight:600;letter-spacing:-.025em;line-
   .imp-grid{grid-template-columns:1fr;}
   .hero-split{flex-direction:column;align-items:flex-start!important;gap:30px!important;}
 }
+
+/* Beendete Projekte */
+.ended-pill{display:inline-block;margin-bottom:16px;font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#fff;background:rgba(27,22,20,.28);border:1px solid rgba(255,255,255,.4);border-radius:999px;padding:6px 12px;}
+.ended-note{font-size:15px;color:rgba(255,255,255,.85);max-width:46ch;margin:-14px 0 24px;padding-left:12px;border-left:2px solid rgba(255,255,255,.5);}
+
+/* Feature-Karten nur mit Icon */
+.feat.icons .fcard.icon{display:grid;place-items:center;aspect-ratio:16/10;padding:0;transition:transform .2s cubic-bezier(.2,.7,.3,1),box-shadow .2s;}
+.feat.icons .fcard.icon:hover{transform:translateY(-4px);box-shadow:0 24px 44px -26px rgba(27,22,20,.45);}
+.feat.icons svg{width:72px;height:72px;fill:none;stroke:url(#ig);stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round;transition:transform .3s cubic-bezier(.2,.8,.2,1);}
+.feat.icons .fcard.icon:hover svg{transform:scale(1.12) rotate(-4deg);}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;}
+@media(max-width:760px){.feat.icons{grid-template-columns:repeat(3,1fr);gap:12px;}.feat.icons svg{width:44px;height:44px;}}
